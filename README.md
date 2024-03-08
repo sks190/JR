@@ -1,5 +1,7 @@
 # JR data: 'Unpublished poems' of the Finnish Literature Society
-JR (_Julkaisemattomat runot_) is a corpus created to supplement the published SKVR book series (_Suomen Kansan Vanhat Runot_, 'The old poems of the Finnic people', 1908–1948, 1997) of runosongs, also called Kalevalaic poems. This is a restricted version where the personal data of informants born less than hundred years ago has been removed. The master version of the data is in the archives of the Finnish Literature Society.
+JR (_Julkaisemattomat runot_) is a corpus created to supplement the published SKVR book series (_Suomen Kansan Vanhat Runot_, 'The old poems of the Finnic people', 1908–1948, 1997) of runosongs, also called Kalevalaic poems. This is a restricted version where the personal data of informants born less than hundred years ago has been removed. The master version of the data is held in the Finnish Literature Society. 
+
+The place and collector atributes of the JR data are included in the attribute lists of the SKVR corpus.
 
 The corpus was created as a card file copied from the archival manuscripts, starting in 1969–1973 and continuing to the early 1990s. It was made into digital ltext form in SKS and Estonian Literary Museum at the beginning of 2000s.
 
