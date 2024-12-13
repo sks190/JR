@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE KOKONAISUUS SYSTEM "skvr7.dtd">
 <KOKONAISUUS>
 	<ITEM nro="j10124" k="skvr_246" p="skvr_680" y="1924">
 		<META>
@@ -1959,9 +1960,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Tuutulauluja</U>
-			</CPT>
+			<CPT><U>Tuutulauluja</U></CPT>
 			<V>Hyys pois iso koira,</V>
 			<V>pikku koira piiloon.</V>
 			<V>Meijämpä lapselle lauloo</V>
@@ -2633,9 +2632,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Lasten loruja</U>
-			</CPT>
+			<CPT><U>Lasten loruja</U></CPT>
 			<V>Ysikin tosikin</V>
 			<V>touken louken</V>
 			<V>viiken vaaken</V>
@@ -2663,9 +2660,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Lasten loruja</U>
-			</CPT>
+			<CPT><U>Lasten loruja</U></CPT>
 			<V>Nippas nappas</V>
 			<V>naulas tuoliin,</V>
 			<V>muori se istui</V>
@@ -2689,9 +2684,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Lasten loruja</U>
-			</CPT>
+			<CPT><U>Lasten loruja</U></CPT>
 			<V>Hakkoan hakkoan</V>
 			<V>mitä minä hakkoan,</V>
 			<V>kirveensilmeä</V>
@@ -2717,9 +2710,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Lasten loruja</U>
-			</CPT>
+			<CPT><U>Lasten loruja</U></CPT>
 			<V>Tallukka-Matin</V>
 			<V>laiva lähti</V>
 			<V>varttia vaille kuus</V>
@@ -3319,7 +3310,7 @@
 			<V>Pientä linnun poikaa,</V>
 			<V>Ei ole isää ei ole äitiä,</V>
 			<V>Joka minua hoitaa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Aa, aa allin lasta,</V>
 			<V>Meren myrskyessä,</V>
 			<V>Meren myrskyellessäkin,</V>
@@ -3975,7 +3966,7 @@
 			<V>herra unta lainaa</V>
 			<V>Nyt on sulla levon aika,</V>
 			<V>ei murhe mieltäs paina.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Nuku, nuku lapseni,</V>
 			<V>nuku herran rauhaan.</V>
 			<V>Sttte kun herra sun herättää,</V>
@@ -4921,7 +4912,7 @@
 			<V>lohulliset loilotukset.</V>
 			<V>Pian kiiruusti kiroukset,</V>
 			<V>kun ei menne mieltä myöten.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kuinka kauan kansakunta,</V>
 			<V>kestänee tätä sukua,</V>
 			<V>että ei noita ojankoiksi /?/ opeta</V>
@@ -4944,9 +4935,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Leikkiluku</U>
-			</CPT>
+			<CPT><U>Leikkiluku</U></CPT>
 			<V>Ytten tytten, tuomen teikka,</V>
 			<V>viikaa vaakaa, valmis koukku,</V>
 			<V>säällä jäällä, järven päällä,</V>
@@ -5084,11 +5073,11 @@
 			<V>Mistäs tiesit tänne tulla?</V>
 			<V>Tulin pitkin turkutietä</V>
 			<V>hämäläisen härkätietä</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Poikkesin uuteen Nuottilan</V>
 			<V>taloon. Tupa oli tehty turpehista</V>
 			<V>ja sammalista oli katto.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Siell' oli santahiekka permannolla</V>
 			<V>joss' oli lapsen hyvä maata</V>
 			<V>Ilman kyljen kääntämättä,</V>
@@ -5277,12 +5266,12 @@
 			<V>maavetoisen verkaviitan.</V>
 			<V>Sill' ne rikkaat riitelevät</V>
 			<V>talopojat tappelevat.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Sellane likka kuin sie olet</V>
 			<V>mie vestän tuomest,</V>
 			<V>Aa tällainen poika kuin olen</V>
 			<V>ei lö'y koko Suomest.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Suru tulloo katsellessa</V>
 			<V>näien likkoin päälle,</V>
 			<V>ko on raukat heitetty</V>
@@ -5974,7 +5963,7 @@
 			<V>Syönyt kaikki piparuudet, paparuudet,</V>
 			<V>saksanmintut, tupakinjuuret.</V>
 			<V>Kaikisten parhaat kryydit.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Yks' kaks' miestä katseli viidas.</V>
 			<V>Oli s tehnyt mieli ammuta</V>
 			<V>kuin olis tainnut saada.</V>
@@ -5982,7 +5971,7 @@
 			<V>Ompas hyväkin sukkajalka,</V>
 			<V>jauhokuono, hepenäkaula.</V>
 			<V>Mitäs hirvi maksaa?</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kuusi kultapenninkiä.</V>
 			<V>Sata Saksan talteria.</V>
 			<V>Kolme leppästä äyriä.</V>
@@ -6031,9 +6020,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Köyhä vouti ja rikas vouti</U>
-			</CPT>
+			<CPT><U>Köyhä vouti ja rikas vouti</U></CPT>
 			<L>Osanottajat seisovat piirissä käsikkäin. Köyhä vouti kulkee piirin takana ja sanoo:</L>
 			<V>"Täältä tulee köyhä vouti,</V>
 			<V>klenkka vouti,</V>
@@ -6066,9 +6053,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Soropilli</U>
-			</CPT>
+			<CPT><U>Soropilli</U></CPT>
 			<K>/(piirros)/</K>
 			<L>Keväällä, heti kun kuori alkoi lähteä lepästä, laitettiin kuvan muotoinen pilli pajusta tai lepästä. Sitä tehdessä lausuttiin, että siitä olisi tullut sellainen, joka soi:</L>
 			<V>"Soi, soi soropilli,</V>
@@ -6092,9 +6077,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Nuutin runo</U>
-			</CPT>
+			<CPT><U>Nuutin runo</U></CPT>
 			<V>Nuutin syötin,</V>
 			<V>Nuutin juotin,</V>
 			<V>Nuutti nukkui nurkkiin,</V>
@@ -6130,9 +6113,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Kolokku lymyynen</U>
-			</CPT>
+			<CPT><U>Kolokku lymyynen</U></CPT>
 			<L>Yhdellä on puinen kolokku, joka seisoo jossain nurkan luona ja lyö kolokkua nurkkaan. Lyödessään hän sanelee:</L>
 			<V>Kolo, kolo, kouluun,</V>
 			<V>tallas reki tauluun,</V>
@@ -6159,9 +6140,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>%Leikkilukuja</U>
-			</CPT>
+			<CPT><U>%Leikkilukuja</U></CPT>
 			<V>"Oksis, toksis, koverin korva,</V>
 			<V>nippa nappa kyynärköppi,</V>
 			<V>merimies tammen tammen,</V>
@@ -6184,9 +6163,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Leikkiiukuja</U>
-			</CPT>
+			<CPT><U>Leikkiiukuja</U></CPT>
 			<V>"Ekla vekla tuumen lei,</V>
 			<V>fyyra vekkon fyyren juu,</V>
 			<V>tanssa jumfrun Maaria him,</V>
@@ -6209,9 +6186,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Leikkilukuja</U>
-			</CPT>
+			<CPT><U>Leikkilukuja</U></CPT>
 			<V>"Eppel peppel piira paara puh,</V>
 			<V>anikas tanikas tros,</V>
 			<V>viipla vaapla vos,</V>
@@ -6394,9 +6369,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Naurisleikki</U>
-			</CPT>
+			<CPT><U>Naurisleikki</U></CPT>
 			<L>Paljo lapsii istuu lattiilla niinkuin nauriit muassa. Yks rupivaa aitoo panemaan ja hokee:</L>
 			<V>"Paan paan aitoo</V>
 			<V>Rautasilla seipäillä</V>
@@ -6450,9 +6423,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>"Nippu nappu"</U>
-			</CPT>
+			<CPT><U>"Nippu nappu"</U></CPT>
 			<L>Leikkijät asettuvat lattialle istualleen piiriin asettaen kukin etusormensa lattialle. Sitten joku joukosta "lukee" koskettaen vuoroin kunkin sormeen sanoessaan yhden sanan:</L>
 			<V>"Nippu, nappu, kellastappu.</V>
 			<V>Meijä herra kana poja</V>
@@ -6509,7 +6480,7 @@
 			<V>ja itse tuli katsomaan</V>
 			<V>ja pieksi piljala kepillä</V>
 			<V>hakkasi kota halolla.</V>
-			<K>Tämän kertoja on ensimmäisiä, jotka on osanneet kirjottaa, tällä perukalla (talonpoikasista)</K>
+			<L>Tämän kertoja on ensimmäisiä, jotka on osanneet kirjottaa, tällä perukalla (talonpoikasista)</L>
 		</TEXT>
 	</ITEM>
 	<ITEM nro="j10388" k="skvr_246" p="skvr_280" y="1926">
@@ -6528,9 +6499,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Tapanin ajaminen</U>
-			</CPT>
+			<CPT><U>Tapanin ajaminen</U></CPT>
 			<L>Noin 25 v. sitten oli tapana käydä Tapania ajamassa. Tapanin ajajat lähtivät liikkeelle Tapanin päivan vastaisena yönä kello 12 aikana. He olivat puetut siihen tapaan, että muodostivat perheen, johon kuului isä, äiti, tytär ja muutamia poikia. Pukuinaan käyttivät he jotakin rumia vaatteita ja päässä oli suuri olkihattu. Tapanilla oli määrätyt laulut jotta he lauloivat, joka talossa. /jatk. 759. 1926/</L>
 		</TEXT>
 	</ITEM>
@@ -6550,9 +6519,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Tapanin ajaminen</U>
-			</CPT>
+			<CPT><U>Tapanin ajaminen</U></CPT>
 			<K>/jatkoa 758. 1926:lle/</K>
 			<L>Laulu jonka he lauloivat ulkona ikkunan alla on seuraava:</L>
 			<V>1) Voi tätä vaivaloista matka</V>
@@ -6563,7 +6530,7 @@
 			<V>Tapanin muiso julista tahrom.</V>
 			<V>Jonka me, jonka me</V>
 			<V>nyt aloitan tällä taval!</V>
-			<V>000</V>
+			<TYHI/>
 			<V>2) Ette ol mahtan kiältä,</V>
 			<V>Tapaneita talosta estä,</V>
 			<V>ei ol meit montta miästa</V>
@@ -6572,7 +6539,7 @@
 			<V>emme tee näljän tähren tätä</V>
 			<V>Vaan julistam, vaan julistam</V>
 			<V>sen vanhan Tapanin muisto</V>
-			<V>000</V>
+			<TYHI/>
 			<V>3) Aamulla aivan varhain</V>
 			<V>taksimme nyt liikkeelle.</V>
 			<V>Avaman teirän korvan</V>
@@ -6581,7 +6548,7 @@
 			<V>ystäviän tervehtiman</V>
 			<V>ja kuleman ja kuuleman</V>
 			<V>kun Tapani taita laula.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>4) Tapani vanhan aikan,</V>
 			<V>ol valkian valol joulun juhlan,</V>
 			<V>ol sanken kovis paikos</V>
@@ -6590,7 +6557,7 @@
 			<V>armottomast kualetettin</V>
 			<V>ja kuka tiäs ja kuka tiäs</V>
 			<V>ei häl tait maksa koussa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>5) Mik on niin kaunis kuulla,</V>
 			<V>kun sanat ovat suloiset,</V>
 			<V>nyt on meil joulun juhla</V>
@@ -6624,36 +6591,36 @@
 			<V>rati, riti ralra laara</V>
 			<V>jonka me nyt veisaamme</V>
 			<V>rati riti ralla laara.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>2) Tämän virren tietää saim</V>
 			<V>rati, riti j.n.e</V>
 			<V>Lähteisämme meirän mait</V>
 			<V>rati, riti j.n.e</V>
-			<V>000</V>
+			<TYHI/>
 			<V>3) Viikkoa paria jälis päin</V>
 			<V>rati, riti j.n.e</V>
 			<V>Läksimme kulkeman tänne päin</V>
 			<V>rati, riti j.n.e</V>
-			<V>000</V>
+			<TYHI/>
 			<V>4) Jo nyt olemme täsä talos</V>
 			<V>rati, riti j.n.e</V>
 			<V>Ja veisanneet olemme virren jalost</V>
 			<V>rati, riti j.n.e</V>
-			<V>000</V>
+			<TYHI/>
 			<V>5) Meirän täyty nyt sanoa teille</V>
 			<V>rati, riti j.n.e</V>
 			<V>Et on nälkä ja janokin meillä</V>
 			<V>rati, riti j.n.e</V>
-			<V>000</V>
+			<TYHI/>
 			<V>6) Ryypyn tai kaksi nyt ottaisimme</V>
 			<V>rati, riti j.n.e</V>
 			<V>Ja kahvia välillä jakaisimme rati, riti j.n.e</V>
-			<V>000</V>
+			<TYHI/>
 			<V>7) Virtemme alka jo loppumankin</V>
 			<V>rati, riti j.n.e</V>
 			<V>Ovia etemme avatankin</V>
 			<V>rati, riti j.n.e</V>
-			<V>000</V>
+			<TYHI/>
 			<V>8) Tämä on nyt värsy se</V>
 			<V>rati, riti j.n.e</V>
 			<V>Ja nyt me tuleme sisälle</V>
@@ -6677,9 +6644,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Tapanin ajaminen</U>
-			</CPT>
+			<CPT><U>Tapanin ajaminen</U></CPT>
 			<K>/jatkoa yksiköille 758 - 760. 1926/</K>
 			<V>1) Kiitos nyt olkon teille</V>
 			<V>juuri kaikkein saatujen erest,</V>
@@ -6687,18 +6652,18 @@
 			<V>Kiitos olkon teille</V>
 			<V>tästä et olet meitä sisäl päästän</V>
 			<V>Ja siunaus kiitoksen kans olkko</V>
-			<V>000</V>
+			<TYHI/>
 			<V>2) Isännal olkkon kiitos ja emännälle samaten</V>
 			<V>ja siunaus kansan liitos ja menestystä kaikis töis.</V>
 			<V>Konssa te nyt annoit meille suur siunaus täst olkkon teille,</V>
 			<V>juur kaikkein saatujen erest.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>3) Tyttärel kans kiitos olkon ja aina onni on nourattava.</V>
 			<V>Poikain kans tulkon liiton nyt tänäkin joulun juhlana</V>
 			<V>Heirän pitä saaman miähen niist parhamist</V>
 			<V>Toimeliaisuurel saa aikon ja pojat heitä raukkoja naikon</V>
 			<V>ja tehkön heist emänttiä.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>4) Trenkeil kans olkkon kiitos</V>
 			<V>ja nytkin meirän pualestan.</V>
 			<V>Et hevoset on hyvät talos</V>
@@ -6706,7 +6671,7 @@
 			<V>Hyvät on hevoset teillä</V>
 			<V>ja paremmaks ne tulkkon vielä.</V>
 			<V>Sitäpä ja sitäpä me syrämestän toivom.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>5) Täyty lähteä kulkemahan</V>
 			<V>päiväkin ruppe jo joutumahan.</V>
 			<V>Hyvästi jääkät kaikki hyvästi.</V>
@@ -6728,8 +6693,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<L>
-				<U>Arvoituksia kysyttiin,</U> jos ei heti osannut oikein arvata, niin kysyjä alkoi toivottaa arvaajalle pahaa sanomalla:</L>
+			<L><U>Arvoituksia kysyttiin,</U> jos ei heti osannut oikein arvata, niin kysyjä alkoi toivottaa arvaajalle pahaa sanomalla:</L>
 			<V>"Hyys hyys Hytölään.</V>
 			<V>Hytölän koirat haukkumaan.</V>
 			<V>Menkää lapset katsomaan</V>
@@ -6757,8 +6721,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<L>
-				<U>Tytär naittaa</U> tahdottiin, niin pantiin tuppi vyölle ja vietiin kirkonmäelle, ja puhemies sanoi:</L>
+			<L><U>Tytär naittaa</U> tahdottiin, niin pantiin tuppi vyölle ja vietiin kirkonmäelle, ja puhemies sanoi:</L>
 			<V>"Tässä on tyttö tupelle tullut</V>
 			<V>Vaimo varrelle venynyt.</V>
 			<V>Joka tahtoo hänet,</V>
@@ -6782,9 +6745,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Lammasleikki</U>
-			</CPT>
+			<CPT><U>Lammasleikki</U></CPT>
 			<L>Leikkijöitä monta. Yksi kulkee keppi kädessä toisten ympäri ja sanoo:</L>
 			<V>"Seivästän, seivästän aitaa paan</V>
 			<V>Ettei pappilan iso-susi söis' lampaitan."</V>
@@ -6812,9 +6773,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Piilosilla olo</U>
-			</CPT>
+			<CPT><U>Piilosilla olo</U></CPT>
 			<L>Yksi leikkijöistä, joka oli "petinpitäjä", asettui seinää vasten, peitti kasvonsa käsillään ja lausui:</L>
 			<V>Kolo, kolo piiloon</V>
 			<V>takriki tauluun.</V>
@@ -6842,9 +6801,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Rikas vooli</U>
-			</CPT>
+			<CPT><U>Rikas vooli</U></CPT>
 			<L>Leikkijät asettuvat piiriin. Rikas vooli seisoo piinn keskellä ja köyhä vooli piirin ulkopuolella keppi kädessä. Rikas vooli kulkee piirin sisällä ja lausuu:</L>
 			<V>"Tässä kulkee rikas vooli, äveriäs vooli.</V>
 			<V>On tavaraa yllin kyllin.</V>
@@ -6859,7 +6816,7 @@
 			<V>Pyytäisin tuolta rikkaalta voolilta</V>
 			<V>yhtä piikalasta tai pientä poikalasta,</V>
 			<V>kyllä minulle tuokin kelpaa."</V>
-			<V>000</V>
+			<TYHI/>
 			<V>/- -/</V>
 		</TEXT>
 	</ITEM>
@@ -6879,9 +6836,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Karikkalyntmyysillä</U>
-			</CPT>
+			<CPT><U>Karikkalyntmyysillä</U></CPT>
 			<L>Suuri joukko kylän nuorisoa oli illalla kokoontunut jonkun talon pihamaalle iloa pitämään. Yksi joukosta otti karikan käteensä ja takoi sillä tallin piikin laulaen</L>
 			<V>"Kolokolo kouluhun</V>
 			<V>takareki tauluhun</V>
@@ -6932,9 +6887,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Kalaukko</U>
-			</CPT>
+			<CPT><U>Kalaukko</U></CPT>
 			<L>Asui ennen ukko ja eukko tuolla Juvan pitäjän Maivalan kylässä. Eräänä kevätaamuna patisteli eukko ukkoa kalalle. Tätä oli kovin lysti kuulla, siksipä sepitin siitä seuraavan pikku runonpätkän.</L>
 			<V>Herää ukko, ärjyi eukko,</V>
 			<V>viidettä käy jo seinäkello,</V>
@@ -6946,7 +6899,7 @@
 			<V>jos aijot kalaa suuhus panna</V>
 			<V>Ja jos oot oiva kalamies</V>
 			<V>saat ehkä paljon kukaties.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Älä ärjy! - virkkaa ukko -</V>
 			<V>pitäs panna suuhus lukko</V>
 			<V>Eihän tuota mokomata</V>
@@ -6977,9 +6930,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Nippis nappis</U>
-			</CPT>
+			<CPT><U>Nippis nappis</U></CPT>
 			<L>Leikkijät istuvat penkillä kädet polvien päällä. Yksi leikkijöistä asettuu muiden eteen, ja lukee sormista jokaista kiinni pitäen:</L>
 			<V>"Nippis, nappis naulastooli,</V>
 			<V>harmaa hevonen,</V>
@@ -7025,7 +6976,7 @@
 			<V>nosta kättas sun lintus kaulaan.</V>
 			<V>Nosta kättäs sun hyväs,</V>
 			<V>sun hyy.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Anna muisku sun kullallesi</V>
 			<V>anna muisku sun kullallesi.</V>
 			<V>Anna muisku sun hyväs,</V>
@@ -7035,7 +6986,7 @@
 			<V>nouse ylös sun lintus kanssa.</V>
 			<V>Nouse ylös sun hyväs,</V>
 			<V>sun hyy.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Jätä hyvästi kullallesi</V>
 			<V>jätä hyvästi linnullesi.</V>
 			<V>Jätä hyvästi sun hyväs,</V>
@@ -7106,9 +7057,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Lasten leikki runo</U>
-			</CPT>
+			<CPT><U>Lasten leikki runo</U></CPT>
 			<L>(ruotsinkielestä väänetty)</L>
 			<V>Iikki miikki ameriikki</V>
 			<V>sökker kökker viller valler</V>
@@ -7225,9 +7174,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Sotken savea</U>
-			</CPT>
+			<CPT><U>Sotken savea</U></CPT>
 			<V>Sotken savea kätken kiveän</V>
 			<V>teen tiiliä paikkaan uunia.</V>
 			<V>Härän päiksi, kuren kuiksi.</V>
@@ -7252,9 +7199,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Vanhan kansan joulutapoja</U>
-			</CPT>
+			<CPT><U>Vanhan kansan joulutapoja</U></CPT>
 			<L>Ennenvanhaan kokoontui talon vanhempi perhe pitkän pöydän ääreen, joka tapahtui joulunaattona. Silloin he yhdestä suusta lausuivat kuorossa seuraavat tervehdykset:</L>
 			<V>Tule meille, Tuomas kulta,</V>
 			<V>tuopa joulu tullessasi!</V>
@@ -7333,9 +7278,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Sormileikki</U>
-			</CPT>
+			<CPT><U>Sormileikki</U></CPT>
 			<L>Leikkijät istuvat piirissä, sormet polvilla. Yksi on piirin keskellä. Hän kiertää piirin ympäri, samalla koskettaen jokaista sormille sanellen.</L>
 			<V>Lii lii lipi lapi,</V>
 			<V>pienet kananpoikaset,</V>
@@ -7363,9 +7306,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Sormuksen kätkeminen</U>
-			</CPT>
+			<CPT><U>Sormuksen kätkeminen</U></CPT>
 			<L>Osanottajat istuvat piirissä. Yksi kiertää ympäri sormus kädessä kätkien sitä jokaisen käteen, samalla sanoen.</L>
 			<V>Kätken, kätken sormusta.</V>
 			<V>Pidä visuun,</V>
@@ -7399,9 +7340,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Huoneen pyyntö leikkijöille</U>
-			</CPT>
+			<CPT><U>Huoneen pyyntö leikkijöille</U></CPT>
 			<L>Ennenkun uskallettiin mennä taloon leikkimään. Meni yksi leikkijöistä laulamaan talon isännälle.</L>
 			<V>Peremies, pereen isäntä</V>
 			<V>perenaine naisukkainen.</V>
@@ -7410,7 +7349,7 @@
 			<V>Onkos tässä paksut palkit?</V>
 			<V>Vai lie hongan huolamiset,</V>
 			<V>taikk' on kuusen kärröksistä.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Laulan mie tälle talolle</V>
 			<V>kaivon keskikartanolle</V>
 			<V>kultakupin kannon päälle.</V>
@@ -7435,9 +7374,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Simo sellaa</U>
-			</CPT>
+			<CPT><U>Simo sellaa</U></CPT>
 			<V>Täältt' tullaa Simo sellaa.</V>
 			<V>Täält' tullaa Hemerikin herraa.</V>
 			<V>Täält' tullaa merimiehet kaikki.</V>
@@ -7447,11 +7384,11 @@
 			<V>Sulhasta Simo sellaa!</V>
 			<V>Sulhasta Hemerikin herraa!</V>
 			<V>Sulhasta merimiehet kaikki!</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Et saa Simo sellaa!</V>
 			<V>Et saa Hemerikin herraa!</V>
 			<V>Ette saa merimiehet kaikki!</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Suruissaan nyt mennään</V>
 			<V>Simo sellaa.</V>
 			<V>Suruissaan nyt mennään</V>
@@ -7487,23 +7424,21 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Piirilaulu</U>
-			</CPT>
+			<CPT><U>Piirilaulu</U></CPT>
 			<V>Hyvää iltaa nyt sinun</V>
 			<V>lintus kanss'.</V>
 			<V>Hyvää iltaa nyt sinun</V>
 			<V>kuttas kans'.</V>
 			<V>Hyvää iltaa nyt sinun</V>
 			<V>hyväs ja hyväs.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kättä, kättä nyt sinun</V>
 			<V>lintus kans.</V>
 			<V>Kättä kättä nyt sinun</V>
 			<V>kultas kans.</V>
 			<V>Kättä kättä nyt sinun</V>
 			<V>hyväs ja hyväs.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Lankee maahan nyt</V>
 			<V>sinun lintus kans.</V>
 			<V>Lankee maahan nyt</V>
@@ -7560,9 +7495,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Kätken kiveä sotken savea</U>
-			</CPT>
+			<CPT><U>Kätken kiveä sotken savea</U></CPT>
 			<L>Yksi leikkijöistä asetetaan kätkemään, toinen arvaamaan, loput asettuvat istumaan yhteen riviin. Kätkijä ottaa jonkun esineen esim. sormuksen ja kätkee sitä jokaiselle rivissä olevalle sanoen:</L>
 			<V>"Kätken kivea, sotken savea,</V>
 			<V>teen tiiliä, paikkaan muuria,</V>
@@ -8017,7 +7950,7 @@
 			<SGN>1231.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -8088,7 +8021,7 @@
 			<SGN>1234.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -8133,7 +8066,7 @@
 			<SGN>1236.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -8222,7 +8155,7 @@
 			<SGN>1240.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -8274,7 +8207,7 @@
 			<SGN>1242.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -8413,7 +8346,7 @@
 			<SGN>1248.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -8544,7 +8477,7 @@
 			<SGN>1254.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -9394,7 +9327,7 @@
 			<SGN>1291.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -9485,7 +9418,7 @@
 			<SGN>1295.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -9527,7 +9460,7 @@
 			<SGN>1297.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -11080,7 +11013,7 @@
 			<SGN>1364.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -11100,7 +11033,7 @@
 			<SGN>1365.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -11126,7 +11059,7 @@
 			<SGN>1366.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -12085,7 +12018,7 @@
 			<V>Katkasi Valkosen vasikan hännän</V>
 			<V>Teki siitä kirnun männän</V>
 			<V>Kirnusi kilon voita.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Missä se voi?</V>
 			<V>Aittaan sen vei.</V>
 			<V>Missä se aitta?</V>
@@ -15495,7 +15428,7 @@
 			<SGN>1559.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -16368,7 +16301,7 @@
 			<SGN>1598.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -16388,7 +16321,7 @@
 			<SGN>1599.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -16410,7 +16343,7 @@
 			<SGN>1600.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -16432,7 +16365,7 @@
 			<SGN>1601.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -16453,7 +16386,7 @@
 			<SGN>1602.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -16476,7 +16409,7 @@
 			<SGN>1603.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -16498,7 +16431,7 @@
 			<SGN>1604.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -16521,7 +16454,7 @@
 			<SGN>1605.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -16541,7 +16474,7 @@
 			<SGN>1606.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -16565,7 +16498,7 @@
 			<SGN>1607.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -16587,7 +16520,7 @@
 			<SGN>1608.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -17476,7 +17409,7 @@
 			<SGN>1649.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -17590,7 +17523,7 @@
 			<V>tuulissa pilvissä hampaat irvissä</V>
 			<V>karvalakki korvissa, housut polvissa.</V>
 			<V>Hip, hap pois!</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Yksi, kaksi kapalolapsi.</V>
 		</TEXT>
 	</ITEM>
@@ -17630,7 +17563,7 @@
 			<SGN>1656.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -18022,7 +17955,7 @@
 			<SGN>1673.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -18045,7 +17978,7 @@
 			<SGN>1674.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -18067,7 +18000,7 @@
 			<SGN>1675.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -18088,7 +18021,7 @@
 			<SGN>1676.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -18425,7 +18358,7 @@
 			<SGN>1691.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -18626,8 +18559,7 @@
 			<V>mus mus mus</V>
 			<V>Et siiveri kaateri piiveri</V>
 			<V>pus pus pus</V>
-			<V>Niko<U>lai</U>, Niko<U>lai</U>
-			</V>
+			<V>Niko<U>lai</U>, Niko<U>lai</U></V>
 			<V>Mirjam jam jam</V>
 			<V>Tänttäräärää kuplakuijaa</V>
 			<V>trenuuria nuijaa tyst!</V>
@@ -19033,7 +18965,7 @@
 		<TEXT>
 			<V>Epper pepper piirum paarum.</V>
 			<V>pamps!</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Omena pomena, piirum paarum pamps!</V>
 			<V>Ukko istui uunilla,</V>
 			<V>emäntä huusi, pois!</V>
@@ -19489,7 +19421,7 @@
 			<SGN>1737.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -19534,7 +19466,7 @@
 			<SGN>1739.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -19555,7 +19487,7 @@
 			<SGN>1740.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -19733,7 +19665,7 @@
 			<SGN>1748.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -19756,7 +19688,7 @@
 			<SGN>1749.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -19851,7 +19783,7 @@
 			<SGN>1753.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -19894,7 +19826,7 @@
 			<SGN>1755.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -20027,7 +19959,7 @@
 			<SGN>1761.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -20699,7 +20631,7 @@
 			<V>päässä, luki niitä näitä.</V>
 			<V>Harakka istui kannon päässä,</V>
 			<V>luki naulan päitä.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Montako niitä oli?</V>
 			<L>(Vastaus esim. 14. Sitten lask. 1 - 14.)</L>
 		</TEXT>
@@ -20989,7 +20921,7 @@
 			<SGN>1804.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -21522,7 +21454,7 @@
 			<SGN>1827.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -22395,7 +22327,7 @@
 			<SGN>1865.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -22419,7 +22351,7 @@
 			<SGN>1866.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -22524,7 +22456,7 @@
 			<SGN>1871.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -22568,7 +22500,7 @@
 			<SGN>1873.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -23012,7 +22944,7 @@
 			<SGN>1892.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -23820,7 +23752,7 @@
 			<V>1) Hippa-Heikin laiva läks</V>
 			<V>varttii vaille kuus. Yks, kaks,</V>
 			<V>kolme, neljä, viis, kuus.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>2) Hippa-Heikin laiva läks</V>
 			<V>varttia vaille kuus. Onko</V>
 			<V>pannu uus. Tallukoita kuus.</V>
@@ -23942,7 +23874,7 @@
 			<V>hallonkvist. Hunsa eh,</V>
 			<V>hunsa tyh. Uudiskall du</V>
 			<V>vaara ny.</V>
-			<K>(Elimäeltä.)</K>
+			<L>(Elimäeltä.)</L>
 		</TEXT>
 	</ITEM>
 	<ITEM nro="j11140" k="skvr_246" p="skvr_4130" y="1932">
@@ -24068,7 +24000,7 @@
 			<SGN>1939.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -24158,7 +24090,7 @@
 			<SGN>1943.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -24262,7 +24194,7 @@
 			<SGN>1948.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -26083,7 +26015,7 @@
 			<SGN>2028.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -26102,7 +26034,7 @@
 			<SGN>2029.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -26125,7 +26057,7 @@
 			<SGN>2030.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -26234,7 +26166,7 @@
 			<SGN>2035.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -26280,7 +26212,7 @@
 			<SGN>2037.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -26569,7 +26501,7 @@
 			<SGN>2050.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -26731,7 +26663,7 @@
 			<SGN>2057.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -28023,7 +27955,7 @@
 			<SGN>2114.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -28045,7 +27977,7 @@
 			<SGN>2115.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -28065,7 +27997,7 @@
 			<SGN>2116.</SGN>
 			<TMP>1932.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -30719,7 +30651,7 @@
 			<SGN>2234.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -30742,7 +30674,7 @@
 			<SGN>2235.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -30815,7 +30747,7 @@
 			<V>onkapannu uus,</V>
 			<V>tallukoita uunin päällä</V>
 			<V>kuivamassa kuus.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Hippa Heikin laiva lähti</V>
 			<V>varttii vaijaa kuus'</V>
 			<V>höyrylaiva huus:</V>
@@ -31932,7 +31864,7 @@
 			<SGN>2287.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -32029,7 +31961,7 @@
 			<SGN>2291.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -32700,7 +32632,7 @@
 			<SGN>2320.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -32721,7 +32653,7 @@
 			<SGN>2321.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -33670,7 +33602,7 @@
 			<SGN>2368.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -33691,7 +33623,7 @@
 			<SGN>2369.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -35136,7 +35068,7 @@
 			<SGN>2463.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -35565,7 +35497,7 @@
 			<SGN>2483.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -35725,7 +35657,7 @@
 			<SGN>2490.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -35900,7 +35832,7 @@
 			<SGN>2498.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -36965,7 +36897,7 @@
 			<SGN>2554.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -39649,7 +39581,7 @@
 			<SGN>2679.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -40110,7 +40042,7 @@
 			<SGN>2699.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -40155,7 +40087,7 @@
 			<SGN>2701.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -40331,7 +40263,7 @@
 			<SGN>2710.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -50850,7 +50782,7 @@
 			<SGN>3186.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -51142,7 +51074,7 @@
 			<SGN>3199.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -51208,7 +51140,7 @@
 			<SGN>3202.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -51230,7 +51162,7 @@
 			<SGN>3203.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -51814,7 +51746,7 @@
 			<SGN>3229.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -52068,7 +52000,7 @@
 			<SGN>3240.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -52135,7 +52067,7 @@
 			<SGN>3243.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -52155,7 +52087,7 @@
 			<SGN>3244.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -52272,7 +52204,7 @@
 			<SGN>3249.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -52803,7 +52735,7 @@
 			<SGN>3273.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -53135,7 +53067,7 @@
 			<SGN>3288.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -53393,7 +53325,7 @@
 			<SGN>3299.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -53419,7 +53351,7 @@
 			<SGN>3300.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -53583,7 +53515,7 @@
 			<SGN>3307.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -53741,7 +53673,7 @@
 			<SGN>3314.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -53827,7 +53759,7 @@
 			<SGN>3318.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -53873,7 +53805,7 @@
 			<SGN>3320.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -54011,7 +53943,7 @@
 			<SGN>3326.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -54034,7 +53966,7 @@
 			<SGN>3327.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -54967,7 +54899,7 @@
 			<SGN>3372.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -55239,7 +55171,7 @@
 			<SGN>3384.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -55280,7 +55212,7 @@
 			<SGN>3386.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -56632,7 +56564,7 @@
 			<SGN>3445.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -56960,7 +56892,7 @@
 			<SGN>3462.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -57055,9 +56987,7 @@
 		<TEXT>
 			<V>Yttynä kattuna korona vennaa</V>
 			<V>tillis tippuu, vene, vene vekkuu</V>
-			<V>
-				<U>karjaa</U>
-				<U>kekkuu</U> uutiskarttuu /harjaa?/; /hekkuu?/</V>
+			<V><U>karjaa</U><U>kekkuu</U> uutiskarttuu /harjaa?/; /hekkuu?/</V>
 			<V>vaaraa nyt, puh, pah, pois.</V>
 		</TEXT>
 	</ITEM>
@@ -57183,7 +57113,7 @@
 			<SGN>3472.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -57206,7 +57136,7 @@
 			<SGN>3473.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -57248,7 +57178,7 @@
 			<SGN>3475.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -58032,7 +57962,7 @@
 			<SGN>3511.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -58166,7 +58096,7 @@
 			<SGN>3517.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -58219,7 +58149,7 @@
 			<SGN>3519.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -58415,7 +58345,7 @@
 			<SGN>3528.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -58459,7 +58389,7 @@
 			<SGN>3530.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -61653,7 +61583,7 @@
 			<SGN>3672.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -62056,7 +61986,7 @@
 			<SGN>3692.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -62080,7 +62010,7 @@
 			<SGN>3693.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -62224,7 +62154,7 @@
 			<SGN>3699.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -62512,7 +62442,7 @@
 			<SGN>3712.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -62611,7 +62541,7 @@
 			<SGN>3717.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -62720,7 +62650,7 @@
 			<SGN>3722.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -62742,7 +62672,7 @@
 			<SGN>3723.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -62763,7 +62693,7 @@
 			<SGN>3724.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -66403,7 +66333,7 @@
 			<SGN>3894.</SGN>
 			<TMP>1933.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -66636,9 +66566,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Virpomisluku Palmusunnuntaina</U>
-			</CPT>
+			<CPT><U>Virpomisluku Palmusunnuntaina</U></CPT>
 			<L>Lapsilla oli Palmusunnuntaina tapana käydä virpomassa taloissa ja sanella:</L>
 			<V>"Virpoi, varpois</V>
 			<V>tuoreeks' terveeks'</V>
@@ -66667,9 +66595,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Pertuusunnuntaista</U>
-			</CPT>
+			<CPT><U>Pertuusunnuntaista</U></CPT>
 			<L>Tytöt kiersivät kirkon kolme kertaa myötäpäivään (saadakseen tietää jotain sulhasesta) ja höpisivät:</L>
 			<V>"Lurtti sulho lupasi tullakseen."</V>
 		</TEXT>
@@ -66690,9 +66616,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Kevättoukoja tehdessä</U>
-			</CPT>
+			<CPT><U>Kevättoukoja tehdessä</U></CPT>
 			<L>Kevättoukojen päätyttyä sanotaan:</L>
 			<V>"Kasvakoon kaura ja onnistukoon ohra,</V>
 			<V>onnistukoon miehet ja vaurastukoon varsat."</V>
@@ -66714,9 +66638,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Madonluvusta</U>
-			</CPT>
+			<CPT><U>Madonluvusta</U></CPT>
 			<V>"Tanne minä sinun manaan</V>
 			<V>kahren kallion rakoon,</V>
 			<V>johonka ei pysty karjan kynsi</V>
@@ -66739,9 +66661,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Maitohampaista</U>
-			</CPT>
+			<CPT><U>Maitohampaista</U></CPT>
 			<L>Äiti sanoo heittäessään lapsensa maitohampaan muurin taakse:</L>
 			<V>"Hiiri seh hiukkahammas,</V>
 			<V>anna mulle rautahammas."</V>
@@ -66806,9 +66726,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Laskijainen</U>
-			</CPT>
+			<CPT><U>Laskijainen</U></CPT>
 			<L>Laskiaisena laskettiin mäkkee ja huurettiin:</L>
 			<V>"pitkii pellavii".</V>
 		</TEXT>
@@ -66829,9 +66747,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Joulu</U>
-			</CPT>
+			<CPT><U>Joulu</U></CPT>
 			<L>Jouluhan se on juhlista parrain. Kyllä sitä ennennii yhtä hartaasti ootettiin kun nyttii. Monenlaisia varustuksia tehtiin. Lapsettii syksykauen hokivat:</L>
 			<V>"Anna jumala joulun tulla,</V>
 			<V>kyllä on kystä aitassa;</V>
@@ -66855,9 +66771,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Laskiaisena</U>
-			</CPT>
+			<CPT><U>Laskiaisena</U></CPT>
 			<L>mentiin aamulla 4:n aikaan mäkeen lasketteleen ja huutaan pitkiä pellavia,</L>
 			<V>"Huraa, pitkiä pellavia!</V>
 			<V>Kuitu kun silkki,</V>
@@ -66880,9 +66794,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Loppiaisen huomenis</U>
-			</CPT>
+			<CPT><U>Loppiaisen huomenis</U></CPT>
 			<L>(sakkanuuttina) vedettiin riukua johonka oli sirottu kelloja. Toinen kello soitti, että "Olutta! Olutta!", toinen: "Viinaa, viinaa!" Silloinkin kulki vanhat ja nuoret miehet kulkueessa kylällä ja joivat loppuun viimeiset sahdit. Sakkanuutin kulkueelle ei annettu rahaa, vaikka ei ne sitä pyytäneetkään. Kun ne sitten oli saaneet talosta sahtia, lauloi ne:</L>
 			<V>"Isännän mä ensin kiitän</V>
 			<V>jok on hongista suojan tehnyt.</V>
@@ -66908,9 +66820,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Laskiainen</U>
-			</CPT>
+			<CPT><U>Laskiainen</U></CPT>
 			<L>Se oli paras mies kylässä, joka laskiaisena ehti ensin huutaa huhaata. Ennen kahtatoista ei saanut huutaa. Yöllä jo mentiin lasketteleen reillä ja kelkoilla ja huurettiin:</L>
 			<V>"Hurroo, hurroo,</V>
 			<V>pitkiä pellavia!</V>
@@ -67077,9 +66987,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Laskiainen</U>
-			</CPT>
+			<CPT><U>Laskiainen</U></CPT>
 			<L>Sillonhan oli tärkee se laskiaissauna. Sinne meni aina kaksi ihmistä kerrassaan. Siällä täyty sitten olla ihan puhumata. Joka vaan siällä puhu, niin sen nimi merkattiin mustaankirjaan ja sitä vihattiin sitten koko vuaren. Sitten koko laskiaisen lasketeltiin kauheesti peräreellä ja kirkkoreellä ja huurettiin:</L>
 			<V>Huraa! pitkiä pellavia,</V>
 			<V>hamppuja kun halkoja,</V>
@@ -67256,9 +67164,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Laskiainen</U>
-			</CPT>
+			<CPT><U>Laskiainen</U></CPT>
 			<L>Silloin sitä noustiin jo 4:ltä aamulla ja liukumaan mentiin vaan! Myöhään yöhön liuttaa ja reellä ajettiin ja huurettiin kaikenlaista liukuessa:</L>
 			<V>Tuhka meille,???</V>
 			<V>Hiilet teille!???</V>
@@ -67341,9 +67247,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Laskiainen</U>
-			</CPT>
+			<CPT><U>Laskiainen</U></CPT>
 			<L>Laskiaisiloihin kuului silloin niinkuin nytkin laskiaismäki, joka jäädytettiin ja laitettiin kuntoon laskiaista edeltävän sunnuntain iltapäivällä.</L>
 			<L>Varhain laskiaisaamuna sitten lapset riensivät mäkeen, jossa luikattiin:</L>
 			<V>"Liu, lau laskiaista,</V>
@@ -67519,9 +67423,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Laskiainen</U>
-			</CPT>
+			<CPT><U>Laskiainen</U></CPT>
 			<L>Jouluks ko tapettiin sikoja, niin sian mahalaukku ja suolet säästettiin laskiaiseksi. Ne tehtiin makkaraks ja vietiin pöytään sillon ko siansorkkasoppakin. Aamulla otettiin parirekiä, korvikelkkoja ja jos mitä ja mentiin joukolla ahteeseen. Flikat avas' palmikkons'. Pojat meni flikkains' kans' ja lystiä oli. Ku se laskettteluvehje?? lähti liukuun mäkee alas huurettiin ja hoilattiin:</L>
 			<V>Huru, huru, huru, huru,</V>
 			<V>pitkiä pellavia-a-a</V>
@@ -67602,9 +67504,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Pääsiäinen</U>
-			</CPT>
+			<CPT><U>Pääsiäinen</U></CPT>
 			<L>Pääsiäisaamuna emäntä varhain meni navettaan ja pani kellon lehmän kaulaan ja sakista antoi heinät pasiksi /?/. Meni sitten navetan ikkunan taakse ja kutsui:</L>
 			<V>"Tulkaa pois lehmät,</V>
 			<V>prtui, ptuu!"</V>
@@ -67744,9 +67644,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Laskiainen</U>
-			</CPT>
+			<CPT><U>Laskiainen</U></CPT>
 			<L>Laskiaisen erikoisruokaa olivat herneet ja pullat. Nämä pullat eivät olleet tavallisia vehnäjauhoista valmistettuja, vaan niissä oli ohrajauhoja ja olivat ne hyvin rasvaisia. Niitä sanottiinkin rasvarieskoiksi.</L>
 			<L>Mäet tehtiin veden avulla hyvin liukkaiksi. Jo puoliyön aikaan oli mäessä laskijoita, sillä oli kilpailu siitä, kuka aikaisemmin ehtisi mäkeen. Täällä oli sekä lapsia että aikuisia. Koko päivä laskettiin mäessä, välillä vain syömässä käytiin. Aina alas laskettaessa huudettiin:</L>
 			<V>"Hurraa pitkiä pellavia!"</V>
@@ -67768,9 +67666,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Kuinka kurkkutauti parannettiin</U>
-			</CPT>
+			<CPT><U>Kuinka kurkkutauti parannettiin</U></CPT>
 			<L>Hän (Rasin mummu)??? otti pussin, käski poikasen istua rahille, istui itse hänen viereensä ja pani pussin lattialle. Sitten hän otti esille siankärsän, sylkäistä tapsautti kärsän päähän ja alkoi painella sillä kaulaa mumisevalla äänellä loitsien:</L>
 			<V>"Ei sian kärsäkään kasva suuremmaksi,</V>
 			<V>kuin se on kerran kasvanunna, pthyi</V>
@@ -67798,9 +67694,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Ampiaisen piston parantaminen</U>
-			</CPT>
+			<CPT><U>Ampiaisen piston parantaminen</U></CPT>
 			<L>Haastateltavani kertoo: "Kerran minua pienenä ollessani pisti ampiainen. Juoksin mummon luo apua saamaan. Mummu otti maata käteensä, paineli kipeää kohtaa sylkien maahan ja loitsien:</L>
 			<V>"Ampu se ennen Annan Matti</V>
 			<V>töytäisi törösakara, pthyi j.n.e."</V>
@@ -67822,9 +67716,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Kohtauksesta parantaminen</U>
-			</CPT>
+			<CPT><U>Kohtauksesta parantaminen</U></CPT>
 			<L>Rasin mummun taikoja oli myös kohtauksesta parantaminen. Kun ihminen oli kohtauksessa, pantiin hänet vatsalleen makaamaan. Taikoja haki sitten leipälapion. Hän toi sen perässään vetäen sairaan luo ja mittasi sairaan: ensin pituuden oikeasta olkapäästä oikeaan jalkaterään ja sitten pituuden vasemmasta olkapäästä vasempaan jalkaterään, koko ajan loitsien:</L>
 			<V>Missä sinun on kohannunna,</V>
 			<V>kussa sinun on kohannunna,</V>
@@ -67851,9 +67743,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Tavallisia taikoja</U>
-			</CPT>
+			<CPT><U>Tavallisia taikoja</U></CPT>
 			<L>Nähdessä ensikerran maaliskuussa täysikuun sanoo:</L>
 			<V>"Minä tervehdin sinua maaliskuu,</V>
 			<V>minä pyydän sinua maaliskuu,</V>
@@ -67953,8 +67843,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<L>
-				<U>Uusi vuosi</U> vastaan otettiin ennustuksin ja taioin. Jalasta otti jokainen pois kengän asettui seisomaan selin oveen huoneen perälle ja heitti kengän jalkainsa välistä kohden ovea ja kysyttiin:</L>
+			<L><U>Uusi vuosi</U> vastaan otettiin ennustuksin ja taioin. Jalasta otti jokainen pois kengän asettui seisomaan selin oveen huoneen perälle ja heitti kengän jalkainsa välistä kohden ovea ja kysyttiin:</L>
 			<V>"Vieläks olen täsä talos ensivuoden."</V>
 		</TEXT>
 	</ITEM>
@@ -67974,8 +67863,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<L>
-				<U>Laskiaisena</U> mentiin aamulla varhain kelkkamäkeen ja huudettiin:</L>
+			<L><U>Laskiaisena</U> mentiin aamulla varhain kelkkamäkeen ja huudettiin:</L>
 			<V>"Liu lau laskiaista</V>
 			<V>pitkii pellavii hienoi hampui.</V>
 			<V>Meidän pellavat syltää pitkii</V>
@@ -68000,9 +67888,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Laskiaisena</U>
-			</CPT>
+			<CPT><U>Laskiaisena</U></CPT>
 			<V>Lipi lipo liinaa</V>
 			<V>pitkii pellavaita.</V>
 			<L>Mitä pitempii reissuloi sillo tek, ni sitä pitempää pellavaa kasvo seuraavan kesän.</L>
@@ -68121,9 +68007,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Narrin parantaminen</U>
-			</CPT>
+			<CPT><U>Narrin parantaminen</U></CPT>
 			<L>"Vielähän minä muistan miten isävainaja kertoi narria parannettavan. Kun se kipu tuli rantteeseen, nin ei sitä ilman noitumista pois saanu." Kuivista pihlajan lastuista rakennettiin kolmikulmainen lato, mutta ei laitettu kattoa. Sitten se lato sytytettiin palamaan ja sairasta kättä liikutettiin siinä päällä savussa edestakaisin. Samalla joku taitava poppamies luki lorua:</L>
 			<V>"Narri, narri pakene pois,</V>
 			<V>talos ja kartanos pallaa."</V>
@@ -68211,7 +68095,7 @@
 		<TEXT>
 			<L>Silloin käytiin liukumassa mäkeä, lapset kelkoilla päivällä ja aika ihmiset rekien kanssa illalla. Mäkiviisuja oli paljon</L>
 			<V>"Hurraa, pitkiä pellavia teille tuppurat - - -!"</V>
-			<V>000</V>
+			<TYHI/>
 			<V>"Lantut suuria kuin nurkanpäitä ja nauriit kuin lautasia."</V>
 		</TEXT>
 	</ITEM>
@@ -68254,9 +68138,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Laskiais-taikoja</U>
-			</CPT>
+			<CPT><U>Laskiais-taikoja</U></CPT>
 			<L>Laskiaisyönä asetutaan kaivon kannelle ja huudetaan 3:sti kaivoon:</L>
 			<V>"Jos sais nährä"</V>
 			<L>silloin sai nähdä sen vuoden tapaukset.</L>
@@ -68658,7 +68540,7 @@
 			<CPT>Narin parantaminen</CPT>
 			<L>Sitä paikkaa, jossa on nari, litistetään ovenraossa 9 kertaa. Joka kerralla kysyy parannettava:</L>
 			<V>"Mitä suljet?"</V>
-			<V>000</V>
+			<TYHI/>
 			<V>"Suljen naria."</V>
 			<L>Vastaa parantaja.</L>
 		</TEXT>
@@ -68880,7 +68762,7 @@
 		<TEXT>
 			<L>Nari paranee, kun potilas asetetaan sellaisen huoneen, joka on jo 3 kertaa siirretty, kynnyksen ulkopuolelle. Itse parantaja asettuu sisäpuolelle. Parantaja hakkaa kirveellä 9 kertaa kynnykseen. Jokaisen kerran perästä kysyy potilas;</L>
 			<V>mitäs hakkaat?</V>
-			<V>000</V>
+			<TYHI/>
 			<V>"Hakkaan naria (esim.) Jaakon kädestä."</V>
 		</TEXT>
 	</ITEM>
@@ -69386,134 +69268,132 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Jaakko ja Maria</U>
-			</CPT>
+			<CPT><U>Jaakko ja Maria</U></CPT>
 			<V>"Nyt aijon minä kertoa</V>
 			<V>kahdesta nuorukaisesta,</V>
 			<V>jotka lapsuudesta tunsivat</V>
 			<V>ystäväks' toinen toisensa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Se poika oli Jaakko nimeltään</V>
 			<V>ja renki köyhä arvoltaan.</V>
 			<V>Hän neiti oli Maria</V>
 			<V>rikkahan talon lapsia.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>He liiton teki keskenään</V>
 			<V>ettei he ennen eriä,</V>
 			<V>ennenkuin kutsuu kuolema</V>
 			<V>luoksensa heitä tulemaan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kun Marian isä kuulla sai</V>
 			<V>heidän liittonsa vakavan,</V>
 			<V>hän Marian kutsui luoksensa</V>
 			<V>ja sanat lausui hälle näin.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>"En anna sulle taloa</V>
 			<V>enkä myöskään rahoja,</V>
 			<V>niitä en anna rengille</V>
 			<V>sillä se on tosivakainen."</V>
-			<V>000</V>
+			<TYHI/>
 			<V>"En pyydä teiltä taloa</V>
 			<V>enkä myöskään rahoja,</V>
 			<V>ne saatte antaa kelle vaan,</V>
 			<V>kun minä armahani saan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kun kaksi oikein rakastaa</V>
 			<V>sydämestänsä toisiaan,</V>
 			<V>ei kaipaa maallista tavaraa,</V>
 			<V>kyllä Jumala niitä on antava.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Sen rakas isä sanon vaan,</V>
 			<V>että liitto on meillä vakava,</V>
 			<V>jos en ole Jaakolla vaimona,</V>
 			<V>hänen kanssaan vaivun kuolemaan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Nyt isä ei enää vastata</V>
 			<V>taitanut sanoihin Marian,</V>
 			<V>mutt' itsekseen hän lausui vaan;</V>
 			<V>"kyllä mä teidät eroitan."</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Siinä talo toinen lähellä;</V>
 			<V>isännät ystävät keskenään,</V>
 			<V>he aikoja ennen puhuneet</V>
 			<V>ja talons yhteen hankkineet.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Naapurin Janne on siivokas,</V>
 			<V>sen saat nyt pitää omanas</V>
 			<V>ja Jannen kanssa hallita</V>
 			<V>saat sinä kahta taloa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kun sunnuntai tuli seuraava,</V>
 			<V>niin kuulutettiin kirkossa:</V>
 			<V>Janne ja Maria olemaan</V>
 			<V>avioliittoon vakavaan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Sen arvaa kaikki tunnossa</V>
 			<V>kuinka Marialle oli raskasta,</V>
 			<V>kun vastoin tahtoaan,</V>
 			<V>hänet kuulutettiin kirkossa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vaan ei hän siitä valita,</V>
 			<V>vaan turvaa taivaan Herrahan</V>
 			<V>ja rukoili siltä onnea,</V>
 			<V>jota Jaakon kans' sai nauttia.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vähitellen nyt kasvot vaaleni</V>
 			<V>ja puna poskilta katosi,</V>
 			<V>hän oli aina yksinään</V>
 			<V>eikä seuroissa nyt kenenkään.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Hän aikoi oikean sulhonsa</V>
 			<V>kanssa pysyä liitossa;</V>
 			<V>päättivät he keskenään,</V>
 			<V>että taivaassa he vihitään.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Nyt hääpäivä läheni</V>
 			<V>ja vieraita paljon käskettiin;</V>
 			<V>häät piti olla komeat,</V>
 			<V>kun talot ne rikkaat molemmat.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Nyt silmäni kiinni vaipuvat,</V>
 			<V>kun aijon tätä kertoa;</V>
 			<V>hääpäivä tuli toivottu,</V>
 			<V>jota aikoja ennen oli aijottu.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vieraita tuli summalta;</V>
 			<V>sulho ja morsian valmisna,</V>
 			<V>hääpuvussansa kauniissa,</V>
 			<V>juuri vihille piti astuman.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Morsian sanoi ulkona</V>
 			<V>olevan hänellä asiaa,</V>
 			<V>ennenkuin vihille astutaan</V>
 			<V>ja liitto tämä solmitaan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Morsian ulos ovesta</V>
 			<V>kiireesti lähti astumaan;</V>
 			<V>siinä sulho ja pappi varttuivat;</V>
 			<V>ei morsianta kuulukkaan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Hääväki lähti katsomaan</V>
 			<V>ja morsianta hakemaan,</V>
 			<V>vaan turha oli työ tää -</V>
 			<V>ei häntä mistään löydetä.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Nyt isä vasta muistikin</V>
 			<V>kuinka Maria ennen sanoikin:</V>
 			<V>"jos en ole Jaakolla vaimona,</V>
 			<V>hänen kanssaan vaivun kuolemaan."</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Muutaman päivän perästä</V>
 			<V>löydettiin he järvestä,</V>
 			<V>Jaakko ja Maria kuolleena,</V>
 			<V>hihnassa yhdessä suololta.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Näin loppui ero vaikia</V>
 			<V>näiltä nuorukaisilta,</V>
 			<V>ehkä taivaassa he iloita</V>
 			<V>yhdessä saavat rauhassa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Nyt vielä vähän lisätä</V>
 			<V>aijomme tällä värssyllä.</V>
 			<V>Joka rakastuneita eroittaa,</V>
@@ -69536,9 +69416,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Suomalaista sitkeyttä jo lapsissakin</U>
-			</CPT>
+			<CPT><U>Suomalaista sitkeyttä jo lapsissakin</U></CPT>
 			<L>Kun olin pieni poika, olin paimentamassa erään rikkaan tirehtöörin vuohia ja pukkeja. Mutta kuinka ollakkaan, kuuma kesäpäivä kun oli, satuin nukahtamaan eväspussini päälle. Ties kuinka kauan olin nukkunut, mutta herätessäni oli koko karjalaumani läheisessä naapurin kaalimaassa.</L>
 			<L>Koetin kaikin voimin ajaa pukit pois kaalimaasta, mutta en saanut. Kun isäntä kuuli asian, karjaisi hän: "Sinun on saatava pukit pois kaalimaasta, hinnalla millä hyvänsä, tai muuten ... saat matkapassit." Ei minun muu auttanut, kun lähteä taivaltamaan ja apua etsimään. Tuli minua susi vastaan. Minä sanoin sudelle:</L>
 			<L>"Kuule susi, pure sinä pukkia, kun eivät pukit mene pois kaalimaasta."</L>
@@ -69853,7 +69731,7 @@
 			<L>Sen lapsen äiti tuli pyytämään eräältä noitamuijalta sammasvettä. Se noitamuija otti viikatteenterän, kolme kovasinta ja viikatteenterän. Piti olla semmoinen tyttö, joka teititteli sitä noitaa.</L>
 			<L>Se nuori tyttö sanoi:</L>
 			<V>"Mitä hiot?"</V>
-			<V>000</V>
+			<TYHI/>
 			<V>"Hion 9 lajia sammasvettä."</V>
 			<L>Tämä tapahtui 9 eri kertaa.</L>
 		</TEXT>
@@ -69874,8 +69752,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Taikuri</U>:</CPT>
+			<CPT><U>Taikuri</U>:</CPT>
 			<L>Haastateltavani isoisä Kalle Tarpeeniemi vainaa käydessään rippikoulua näki ihmeellisen taikateon ja hän sen on sitten myöhemmin lapsilleen kertonut. Oli hyvin kaunis ja aurinkoinen ilma, kun Kalvolan kirkkoa maalattiin (ei nykyistä) ja rippilapset kävivät silloin siellä kouluansa. Oli väliaika ja suntio tuli myös ulos. Yht'äkkiä hän sanoi maalareille: "Annatteko minulle &#189; korttelia viinaa, niin panen käymään ukon ja sateen." Saat, jos vain voit sen näin kauniilla ilmalla tehdä. Silloin suntio meni kirkon pääovelle ja potki vähän aikaa ovea sitten kumarteli siinä edessä monin eri tavoin ja viimein sanoi:</L>
 			<V>"Tuull' Jumala</V>
 			<V>sada Jumala</V>
@@ -69985,9 +69862,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Lasten iltaluku sormista:</U>
-			</CPT>
+			<CPT><U>Lasten iltaluku sormista:</U></CPT>
 			<V>Pannaans' maata</V>
 			<V>sano nää, nää kaks'</V>
 			<V>Syödääns ensin sano</V>
@@ -70017,9 +69892,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Valkeenvihan poistaminen</U>
-			</CPT>
+			<CPT><U>Valkeenvihan poistaminen</U></CPT>
 			<L>Kun valkeenvihat poisotettiin, luettiin:</L>
 			<V>"Vaimo kaukaa tulee,</V>
 			<V>vähä vakkanen kainalossa,</V>
@@ -70121,9 +69994,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Leikkilukuja</U>
-			</CPT>
+			<CPT><U>Leikkilukuja</U></CPT>
 			<V>Kitken kivvee</V>
 			<V>sotken savvee</V>
 			<V>tien tiiliä</V>
@@ -70252,9 +70123,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Panettelu</U>
-			</CPT>
+			<CPT><U>Panettelu</U></CPT>
 			<L>Kun toinen immeinen haukkuu toista, niin tämä haukuttu tekköö tyhyjäksi toisen haukkumisen, jos hän kerran sylykäsee ja huudahtaa:</L>
 			<V>"Suustas ulos,</V>
 			<V>sieraimistas sissää."</V>
@@ -70906,7 +70775,6 @@
 		<TEXT>
 			<L>Pikkuisia lapsia puhallettiin sampailta pois:</L>
 			<L>Missä kolme haapaa kasvoi metsässä, siellä juurella toinen piteli lasta sylissään ja toinen luki loitsuja. Edellinen kysyi:</L>
-			<V>000</V>
 			<V>"Mitäs puhaltelet?"</V>
 			<L>- Tähän vastasi toinen:</L>
 			<V>"Lasta sampailta pois."</V>
@@ -71011,9 +70879,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Kehtolauluja</U>
-			</CPT>
+			<CPT><U>Kehtolauluja</U></CPT>
 			<V>Tuu, tuu, tuu, tuu tupakkirullaa,</V>
 			<V>mistäs tiesit tänne tulla?</V>
 			<V>Tulin pitkin Turkutietä,</V>
@@ -71065,9 +70931,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Hampaan lähtö</U>
-			</CPT>
+			<CPT><U>Hampaan lähtö</U></CPT>
 			<L>Kun hammas lähti, niin se heitettiin muurin väliin ja sanottiin:</L>
 			<V>Hiiri, hiiri, hiukkahammas,</V>
 			<V>anna mulle leipähammas.</V>
@@ -71090,9 +70954,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Laskiaisajolaulu</U>
-			</CPT>
+			<CPT><U>Laskiaisajolaulu</U></CPT>
 			<V>Hoi, roi, roi roikinaa</V>
 			<V>pitkiä pellavia kun korpikuusia</V>
 			<V>ja räätiköitä kun nurkan päitä.</V>
@@ -71113,9 +70975,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Kalastuksesta</U>
-			</CPT>
+			<CPT><U>Kalastuksesta</U></CPT>
 			<V>Ahven, Antti veljeni</V>
 			<V>Tule onkea syömään</V>
 			<L>sanottiin onkea veteen heitettäessä.</L>
@@ -71473,9 +71333,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Leikkiloruja</U>
-			</CPT>
+			<CPT><U>Leikkiloruja</U></CPT>
 			<V>Yyrin, lyyrin, tassin too,</V>
 			<V>koorin, loorin, viirin loo,</V>
 			<V>synti Eeva uppari,</V>
@@ -71669,9 +71527,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Verenvuodon ehkäisy</U>
-			</CPT>
+			<CPT><U>Verenvuodon ehkäisy</U></CPT>
 			<L>Jos ruumiiseen tulee haava, josta vuotaa paljon verta, saa sen pysähtymään seuraavalla tavalla. Joku henkilö lukee hiljaa itsekseen:</L>
 			<V>"Tyydy siihen tyrenen koski,</V>
 			<V>kun et tyydy niin tykehy,</V>
@@ -71799,7 +71655,7 @@
 			<V>"Mene villitty vipuhun.</V>
 			<V>pakurasilimä paulahan,</V>
 			<V>pyöräsilimä pyyryksehen."</V>
-			<K>(Kertoja kuullut "Pihilaja-Annikalta" Karvia)</K>
+			<L>(Kertoja kuullut "Pihilaja-Annikalta" Karvia)</L>
 		</TEXT>
 	</ITEM>
 	<ITEM nro="j13241" k="skvr_246" p="skvr_700" y="1933">
@@ -72145,9 +72001,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Tuutulauluja</U>
-			</CPT>
+			<CPT><U>Tuutulauluja</U></CPT>
 			<V>Tuu, tuu tupakkirulla,</V>
 			<V>mistäs tiesit tänne tulla?</V>
 			<V>Tulin pitkin Turun teitä,</V>
@@ -72175,7 +72029,7 @@
 			<V>mene mäen nokkaan,</V>
 			<V>marjoja plokkaan,</V>
 			<V>meidän Sirkan koppaan!</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Tule sieltä jouluksi kotio!</V>
 			<V>Kylläs meidän portin tiedät,</V>
 			<V>haka alla, pyörä päällä,</V>
@@ -72244,9 +72098,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Tarina käärmeestä</U>
-			</CPT>
+			<CPT><U>Tarina käärmeestä</U></CPT>
 			<L>Käärme saadaan pysähtymään, kun sille sanotaan:</L>
 			<V>Sinä maan mato,</V>
 			<V>käärmeen piru,</V>
@@ -72365,9 +72217,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Haukkumanimiä</U>
-			</CPT>
+			<CPT><U>Haukkumanimiä</U></CPT>
 			<V>Vilikko, kilikko, kimnasneola,</V>
 			<V>pahan hengen parsinneola.</V>
 		</TEXT>
@@ -72433,8 +72283,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Laskiaisesta</U>:</CPT>
+			<CPT><U>Laskiaisesta</U>:</CPT>
 			<V>"Hei hienoa, pitkää, valosta, vahvaa!"</V>
 			<V>"Hei pitkää pellavasta, virokasta liinaa!"</V>
 			<V>"Hurraa äidille pitkiä pellavia,</V>
@@ -72924,61 +72773,59 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Laulu Katrista</U>
-			</CPT>
+			<CPT><U>Laulu Katrista</U></CPT>
 			<V>Katri pieni palveli</V>
 			<V>kuninkaan hovissa.</V>
 			<V>Hän tähden lailla loisteli,</V>
 			<V>toistenkin joukossa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kuningas nuori jutteli</V>
 			<V>noita sulosanoja:</V>
 			<V>"Kuulepas, Katri pienoinen,</V>
 			<V>tuletkos minulle?"</V>
-			<V>000</V>
+			<TYHI/>
 			<V>"Kuulepas Katri pienoinen,</V>
 			<V>tuletkos minulle,</V>
 			<V>harmin ja kultasatulan,</V>
 			<V>minä annan sinulle."</V>
-			<V>000</V>
+			<TYHI/>
 			<V>"Harmista ja kultasatulastasi,</V>
 			<V>en huoli laisinkaan.</V>
 			<V>Ne annan puolisollesi,</V>
 			<V>jos kunnian vain saan."</V>
-			<V>000</V>
+			<TYHI/>
 			<V>"Kuulepas Katri pienoinen,</V>
 			<V>tuletkos minulle,</V>
 			<V>kauneimman kultakruunuistani,</V>
 			<V>minä annan sinulle."</V>
-			<V>000</V>
+			<TYHI/>
 			<V>"Kauniista kultakruunustasi</V>
 			<V>en huoli laisinkaan.</V>
 			<V>Ne annan puolisollesi,</V>
 			<V>jos kunnian vain saan."</V>
-			<V>000</V>
+			<TYHI/>
 			<V>"Kuulepas, Katri pienoinen,</V>
 			<V>tuletkos minulle,</V>
 			<V>niin puolet valtakunnastani,</V>
 			<V>minä annan sinulle."</V>
-			<V>000</V>
+			<TYHI/>
 			<V>"Puolesta valtakunnastasi,</V>
 			<V>en huoli laisinkaan.</V>
 			<V>Ne annan puolisollesi,</V>
 			<V>jos kunnian vain saan."</V>
-			<V>000</V>
+			<TYHI/>
 			<V>"Kuulepas Katri pienoinen,</V>
 			<V>jos et tule minulle,</V>
 			<V>niin paan sun naulatynnyriin</V>
 			<V>ja annan pyörittää."</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ja pani Katrin naulatynnyriin</V>
 			<V>ja antoi pyörittää,</V>
 			<V>mutt' kaksi pientä kyyhkystä,</V>
 			<V>lensivät taivaasta,</V>
 			<V>jotka pienen Katariinan</V>
 			<V>vapahtivat vaivasta.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Mutt' kuinkas kävi kuninkaan,</V>
 			<V>hän kuoli vihdoinkin.</V>
 			<V>Hän kuoli ruttokuoleman</V>
@@ -73090,9 +72937,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Loru(ja) Sotkian taloista</U>
-			</CPT>
+			<CPT><U>Loru(ja) Sotkian taloista</U></CPT>
 			<V>"Pakkanen on", sano Parikka.</V>
 			<V>"Kintaat käteen!" sano Kinnari.</V>
 			<V>"Sukat jalkaan!" sano Sukki.</V>
@@ -73145,9 +72990,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Kahvista</U>
-			</CPT>
+			<CPT><U>Kahvista</U></CPT>
 			<V>En mä kahvia kadehdi</V>
 			<V>enkä laita luojan töitä</V>
 			<V>kyll on kahvi kallis juoma</V>
@@ -73314,9 +73157,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Pyyn pieneneminen</U>
-			</CPT>
+			<CPT><U>Pyyn pieneneminen</U></CPT>
 			<L>Taru kertoo, että pyy oli suurin lintu Vapahtajan aikana maanpäällä. Kerran Vapahtajan kulkiessa metsässä:</L>
 			<V>Pyy pyrähti (lentoon)</V>
 			<V>maa tärähti</V>
@@ -73389,9 +73230,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Viinanpoltosta</U>
-			</CPT>
+			<CPT><U>Viinanpoltosta</U></CPT>
 			<V>Vuonna -66</V>
 			<V>tuli Suomeen laki uus'</V>
 			<V>Viinaa kielttiin keittämästä,</V>
@@ -73934,9 +73773,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Taipaleen ämmän kasku</U>
-			</CPT>
+			<CPT><U>Taipaleen ämmän kasku</U></CPT>
 			<V>Tai, tai, taipaleen ämmä</V>
 			<V>katkasi valkosen vasikan hännän</V>
 			<V>teki siittä kirnun männän</V>
@@ -73968,9 +73805,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Mikäpä tuolla kaukana näkyy?</U>
-			</CPT>
+			<CPT><U>Mikäpä tuolla kaukana näkyy?</U></CPT>
 			<V>Mikäpä tuolla kaukana näkyy?</V>
 			<V>Meri siellä kaukana näkyy.</V>
 			<V>Mikäs sen meren keskellä näkyy?</V>
@@ -74009,9 +73844,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Kehtolaulu</U>
-			</CPT>
+			<CPT><U>Kehtolaulu</U></CPT>
 			<V>Ämmä laulaa sulhaselles'</V>
 			<V>Aaa lullaa lasta,</V>
 			<V>Avaimet on kellarin ikkunan alla.</V>
@@ -74081,7 +73914,7 @@
 			<V>kissan kielellä koitellaan</V>
 			<V>koiran korvalla kuunnellaan</V>
 			<V>sian silmällä sihataan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Tätilässä on musta lehmä. Muurikki,</V>
 			<V>Kipo, Kapo, Kaunikki,</V>
 			<V>minkä täti lypsää,</V>
@@ -74138,9 +73971,9 @@
 			<V>kyns'hattara vippapuu,</V>
 			<V>Hanskan veller kollerii,</V>
 			<V>hanskan keller kollerii.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>[jatkuu:]</V>
-			<V>000</V>
+			<TYHI/>
 			<V>[10204a ja 10204b: KUVA (nuotti)]</V>
 		</TEXT>
 	</ITEM>
@@ -74167,18 +74000,18 @@
 			<V>poika pellon pehmittää;</V>
 			<V>Tuo tytölle tyynyvuaaru,</V>
 			<V>tyttö tyynyvä tarvissoo.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Jaa, juu lemmetsuu,</V>
 			<V>jukkana vaakana vingerkoo,</V>
 			<V>helmipuu, nappipuu,</V>
 			<V>kyns'lattara vippappuu.</V>
 			<V>:,: Hanskankeller kollerii :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kippikoppi kirkkoo,</V>
 			<V>nippinappi nauloi,</V>
 			<V>huomena on Marjapäivä,</V>
 			<V>tänä päinä pääsiäine.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Tummeltuts, viikeriputs,</V>
 			<V>Lunkaamanni, Järpää Anni,</V>
 			<V>viikeliviina - - -.</V>
@@ -75270,7 +75103,7 @@
 			<SGN>10294.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -75479,8 +75312,7 @@
 		<TEXT>
 			<V>Annikki tannikki talleroinen</V>
 			<V>puolen markan pulleroinen.</V>
-			<V>
-				<O>Osti</O> lypsi lehmän, taittoi sarven,</V>
+			<V><O>Osti</O> lypsi lehmän, taittoi sarven,</V>
 			<V>kantoi kiven kalliolle.</V>
 			<V>Mene tästä portista pois.</V>
 		</TEXT>
@@ -75693,7 +75525,7 @@
 		<TEXT>
 			<V>Kukko hyppäs saunan lavolle.</V>
 			<V>Emäntä huusi pois.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kukko hyppäs aidan päälle.</V>
 			<V>Emäntä huusi pois.</V>
 		</TEXT>
@@ -75804,7 +75636,7 @@
 			<SGN>10317.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -75927,7 +75759,7 @@
 			<SGN>10322.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -75976,7 +75808,7 @@
 			<SGN>10324.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -76061,7 +75893,7 @@
 			<SGN>10328.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -76485,7 +76317,7 @@
 			<SGN>10347.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -76594,7 +76426,7 @@
 			<SGN>10352.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -76616,7 +76448,7 @@
 			<SGN>10353.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -76637,7 +76469,7 @@
 			<SGN>10354.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -77359,7 +77191,7 @@
 			<SGN>10385.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -78674,7 +78506,7 @@
 			<SGN>10442.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -79289,8 +79121,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<V>Entten tentten <O>teteli</O>
-			</V>
+			<V>Entten tentten <O>teteli</O></V>
 			<V>teelika ventten</V>
 			<V>piirum paarum puh.</V>
 		</TEXT>
@@ -81483,7 +81314,7 @@
 			<SGN>10568.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -84787,7 +84618,7 @@
 			<SGN> 10713.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -87348,7 +87179,7 @@
 			<SGN>10826.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -87635,7 +87466,7 @@
 			<SGN>10838.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -87701,7 +87532,7 @@
 			<SGN>10841.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -87723,7 +87554,7 @@
 			<SGN>10842.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -87994,7 +87825,7 @@
 			<SGN>10854.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -88215,7 +88046,7 @@
 			<SGN>10864.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -88528,7 +88359,7 @@
 			<SGN>10878.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -88573,7 +88404,7 @@
 			<SGN>10880.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -88593,7 +88424,7 @@
 			<SGN>10881.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -88709,7 +88540,7 @@
 			<SGN>10886.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -89179,7 +89010,7 @@
 			<SGN>10907.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -89512,7 +89343,7 @@
 			<SGN>10922.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -93480,7 +93311,7 @@
 			<SGN>11095.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -93500,7 +93331,7 @@
 			<SGN>11096.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -94163,7 +93994,7 @@
 			<SGN>11125.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -94184,7 +94015,7 @@
 			<SGN>11126.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -94729,7 +94560,7 @@
 			<SGN>11150.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -94814,7 +94645,7 @@
 			<SGN>11154.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -94834,7 +94665,7 @@
 			<SGN>11155.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -96138,7 +95969,7 @@
 			<SGN>11212.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -96403,7 +96234,7 @@
 			<SGN>11224.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -96445,7 +96276,7 @@
 			<SGN>11226.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -97200,7 +97031,7 @@
 			<SGN>11260.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -97287,7 +97118,7 @@
 			<SGN>11264.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -97328,7 +97159,7 @@
 			<SGN>11266.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -97441,7 +97272,7 @@
 			<SGN>11271.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -97461,7 +97292,7 @@
 			<SGN>11272.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -101158,7 +100989,7 @@
 			<SGN>11440.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -101202,7 +101033,7 @@
 			<SGN>11442.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -101450,7 +101281,7 @@
 			<SGN>11453.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -101586,7 +101417,7 @@
 			<SGN>11459.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -101836,7 +101667,7 @@
 			<SGN>11470.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -102290,7 +102121,7 @@
 			<SGN>11490.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -103260,7 +103091,6 @@
 			<V>Anto Mikon suuhun.</V>
 			<V>Mikko luul rusinaks,</V>
 			<V>vanha oksan pökäle.</V>
-			<V />
 		</TEXT>
 	</ITEM>
 	<ITEM nro="j14617" k="skvr_246" p="skvr_3220" y="1933">
@@ -104684,7 +104514,7 @@
 			<SGN>11593.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -105237,7 +105067,7 @@
 			<SGN>11616.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -105309,7 +105139,7 @@
 			<SGN>11619.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -105354,7 +105184,7 @@
 			<SGN>11621.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -105425,7 +105255,7 @@
 			<SGN>11624.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -105564,7 +105394,7 @@
 			<SGN>11630.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -105608,7 +105438,7 @@
 			<SGN>11632.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -105718,7 +105548,7 @@
 			<SGN>11637.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -106980,7 +106810,7 @@
 			<SGN>11692.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -107534,8 +107364,7 @@
 			<V>mus mus mus.</V>
 			<V>Et siiveri kaateri piiveri</V>
 			<V>pus pus pus</V>
-			<V>Niko<U>lai</U> Niko<U>lai</U>
-			</V>
+			<V>Niko<U>lai</U> Niko<U>lai</U></V>
 			<V>Mir<U>jam</U> ja<U>m</U> jam</V>
 			<V>tänttäräärää kuplabuijaa</V>
 			<V>trenuuria nuijaa tyot!</V>
@@ -108424,7 +108253,7 @@
 			<SGN>11754.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -108716,7 +108545,7 @@
 			<SGN>11767.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -108822,7 +108651,7 @@
 			<SGN>11772.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -108933,7 +108762,7 @@
 			<SGN>11777.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -109151,7 +108980,7 @@
 			<V>rokkaa sappo hallonkvist.</V>
 			<V>Hunsa eh, hunsa tyh.</V>
 			<V>Uudiskall du vaara ny.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>(Elimäeltä)</V>
 		</TEXT>
 	</ITEM>
@@ -109166,7 +108995,7 @@
 			<SGN>11787.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -109190,7 +109019,7 @@
 			<SGN>11788.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -109211,7 +109040,7 @@
 			<SGN>11789.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -109232,7 +109061,7 @@
 			<SGN>11790.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -109252,7 +109081,7 @@
 			<SGN>11791.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -109272,7 +109101,7 @@
 			<SGN>11792.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -109292,7 +109121,7 @@
 			<SGN>11793.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -109311,7 +109140,7 @@
 			<SGN>11794.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -109334,7 +109163,7 @@
 			<SGN>11795.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -109489,7 +109318,7 @@
 			<SGN>11802.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -109673,7 +109502,7 @@
 			<SGN>11810.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -109693,7 +109522,7 @@
 			<SGN>11811.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -109850,7 +109679,7 @@
 			<SGN>11318.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -110237,7 +110066,7 @@
 			<SGN>11835.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -110261,7 +110090,7 @@
 			<SGN>11836.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -110283,7 +110112,7 @@
 			<SGN>11837.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -110304,7 +110133,7 @@
 			<SGN>11838.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -110638,7 +110467,7 @@
 			<SGN>11853.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -111483,7 +111312,7 @@
 			<SGN>11889.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -111580,7 +111409,7 @@
 			<SGN>11893.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -114784,7 +114613,7 @@
 			<SGN>12033.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -115218,7 +115047,7 @@
 			<SGN>12052.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -115239,7 +115068,7 @@
 			<SGN>12053.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -115360,8 +115189,7 @@
 		</META>
 		<TEXT>
 			<V>Pihkaheikin laiva lähti</V>
-			<V>
-				<O>varttia</O> kello kuus</V>
+			<V><O>varttia</O> kello kuus</V>
 			<V>onkapannu uus</V>
 			<V>tallukoita kuus</V>
 			<V>yks kaks kolme</V>
@@ -115404,7 +115232,7 @@
 			<SGN>12060.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -115547,7 +115375,7 @@
 			<SGN>12066.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -115809,7 +115637,7 @@
 			<SGN>12078.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -117114,7 +116942,7 @@
 			<SGN>12135.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -118861,7 +118689,7 @@
 			<SGN>12214.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -120565,7 +120393,7 @@
 			<SGN>12290.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -120958,7 +120786,7 @@
 			<SGN>12308.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -121183,7 +121011,7 @@
 			<SGN>12318.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -121254,7 +121082,7 @@
 			<SGN>12321.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -121275,7 +121103,7 @@
 			<SGN>12322.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -122525,7 +122353,7 @@
 			<SGN>12378.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -122787,7 +122615,7 @@
 			<SGN>12389.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -122861,7 +122689,7 @@
 			<SGN>12392.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -123002,7 +122830,7 @@
 			<SGN>12398.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -123026,7 +122854,7 @@
 			<SGN>12399.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -123278,7 +123106,7 @@
 			<SGN>12410.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -123300,7 +123128,7 @@
 			<SGN>12411.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -123748,7 +123576,7 @@
 			<SGN>12430.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -123775,7 +123603,7 @@
 			<SGN>12431.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -124066,7 +123894,7 @@
 			<SGN>12443.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -124111,7 +123939,7 @@
 			<SGN>12445.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -124134,7 +123962,7 @@
 			<SGN>12446.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -124259,32 +124087,6 @@
 			<V>tiir, liir pelistä pois.</V>
 		</TEXT>
 	</ITEM>
-	<ITEM nro="j15540" k="skvr_246" p="skvr_4002" y="1933">
-		<META>
-			<ID>15540</ID>
-			<LOC>
-				<AREA>h</AREA>
-				<PAR>Viipurin mlk..</PAR>
-				<VIL>Säiniö.</VIL>
-			</LOC>
-			<COL>Hämeenlinnan alakansakouluseminaari</COL>
-			<SGN>12451.</SGN>
-			<TMP>1939 [1932-1933].</TMP>
-			<INF>
-				<NAME>Toini Minkkinen</NAME>
-				<CTX>Tellervo Minkkinen. Toini Minkkinen, 24 v. </CTX>
-			</INF>
-		</META>
-		<TEXT>
-			<V>Yketin tyketin</V>
-			<V>toukon loukon</V>
-			<V>tie mitä maataa</V>
-			<V>kultaa kaataa</V>
-			<V>tiir, liir pelistä pois.</V>
-			<V>000</V>
-			<K>NB!see on eelmisega identne ja miks on skaneeritud 2 kordaNB!</K>
-		</TEXT>
-	</ITEM>
 	<ITEM nro="j15541" k="skvr_246" p="skvr_4281" y="1933">
 		<META>
 			<ID>15541</ID>
@@ -124343,7 +124145,7 @@
 			<SGN>12454.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -124366,7 +124168,7 @@
 			<SGN>12455.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -124948,7 +124750,7 @@
 			<SGN>12480.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -125038,7 +124840,7 @@
 			<SGN>12484.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -125083,7 +124885,7 @@
 			<SGN>12486.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -127347,7 +127149,7 @@
 			<SGN>12583.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -127844,7 +127646,7 @@
 			<SGN>12605.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -127904,7 +127706,7 @@
 			<SGN>12603.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -128014,7 +127816,7 @@
 			<SGN>12613.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -128318,7 +128120,7 @@
 			<SGN>12626.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -128339,7 +128141,7 @@
 			<SGN>12627.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -128473,7 +128275,7 @@
 			<SGN>12634.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -130283,7 +130085,7 @@
 			<SGN>12713.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -130749,7 +130551,7 @@
 			<SGN>12732.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -130770,7 +130572,7 @@
 			<SGN>12733.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -130794,7 +130596,7 @@
 			<SGN>12734.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -130861,7 +130663,7 @@
 			<SGN>12737.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -133041,7 +132843,7 @@
 			<SGN>12834.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -134687,7 +134489,7 @@
 			<SGN>12906.</SGN>
 			<TMP>1939 [1932-1933].</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -135053,50 +134855,48 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Alma ja Hilma</U>
-			</CPT>
+			<CPT><U>Alma ja Hilma</U></CPT>
 			<L>Puutarhassa kasvoi kaksi omenapuuta. Toinen kaatui kukkimisaikana myrskyssä, mutta toinen kasvoi edelleen. Puutarhan omistajalla oli 2 tytärtä, Alma ja Hilma.</L>
 			<V>Alma neito vanhempi</V>
 			<V>hän kasvoi kodissansa</V>
 			<V>niinkuin kedon kukkanen</V>
 			<V>on kaunis kasvoistansa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vanhempansa toimittivat</V>
 			<V>kouluun hänet vielä.</V>
 			<V>Naisten taiteellisuutta</V>
 			<V>hän hyvin oppi siellä.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Nuori koulun opettaja</V>
 			<V>siellä suloisesti suostui</V>
 			<V>Almaa rakastamaan</V>
 			<V>sydämellisesti.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Näin hän puhui Almalle:</V>
 			<V>"Oi, Alma, neitoseni,</V>
 			<V>jos nyt sinut omakseni</V>
 			<V>saisin ikuisesti.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Että meissä rakkaus</V>
 			<V>niin paljon vaikuttaisi,</V>
 			<V>ettei meitä kuolemakaan</V>
 			<V>vielä erottaisi.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Näin nyt täytyi ulkomaille</V>
 			<V>lähtee opettajan.</V>
 			<V>Siellä tulee viipymään</V>
 			<V>hän koko vuoden ajan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Sillä aikaa Alma tuli</V>
 			<V>häihin kutsutuksi.</V>
 			<V>Siellä Alman uskollisuus</V>
 			<V>tuli muutetuksi.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Siellä häätalossa</V>
 			<V>oli nuori sotaherra,</V>
 			<V>siellä Alman nähdä sai</V>
 			<V>hän ensimmäisen kerran.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Niin hän tahtoi tanssia</V>
 			<V>nyt Alman kanssa siellä,</V>
 			<V>sylissänsä hyväillä ja</V>
@@ -135106,7 +134906,7 @@
 			<V>vuoden jälkeen tuli</V>
 			<V>ja hän tämän kertomuksen</V>
 			<V>Almasta nyt kuuli,</V>
-			<V>000</V>
+			<TYHI/>
 			<V>niin hän kohta unhotti</V>
 			<V>pois naimisasiansa</V>
 			<V>eikä koskaan liittoo tehnyt</V>
@@ -135245,9 +135045,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Leikkiloru</U>
-			</CPT>
+			<CPT><U>Leikkiloru</U></CPT>
 			<V>Mikä kirkko</V>
 			<V>- ryssän kirkko</V>
 			<V>mikä ryssä</V>
@@ -135532,7 +135330,7 @@
 			<V>Yhteiskunnan mätämuna</V>
 			<V>Olet vaikka sinä,</V>
 			<V>mutt' en minä.</V>
-			<K>Saatu lapsilta.</K>
+			<L>Saatu lapsilta.</L>
 		</TEXT>
 	</ITEM>
 	<ITEM nro="j16027" k="skvr_246" p="skvr_2910" y="1943">
@@ -136424,9 +136222,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Tarinoita jms</U>
-			</CPT>
+			<CPT><U>Tarinoita jms</U></CPT>
 			<L>Pariskunnalla oli Aapi-niminen pieni lapsi. Vaimo oli uskoton miehelleen ja seurusteli Pakkanen-nimisen miehen kanssa. Pakkasen tullessa häntä tapaamaan selvitti hän tilannetta laulaen lasta tuudittaessaan:</L>
 			<V>Älä sinä Pakkanen tupaan tule,</V>
 			<V>kun Aapi tuutii ja lullaa!</V>
@@ -136459,19 +136255,19 @@
 			<V>Vieno tuuli lounasesta puhalteli hiljaa.</V>
 			<V>Nurmikolla istuskeli Vilhelmi ja Hilma</V>
 			<V>:,: joista minä aion laulella näin :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vilhelm oli talonpoika ja Hilma palkkapiika.</V>
 			<V>Kahden kesken oli heillä aina hupaisinta</V>
 			<V>:,: kesällä kukkien seurassa :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vilhelmi se Hilmaansa halas' lempiästi</V>
 			<V>Hilma kauniit kasvonsa peitti luurillansa,</V>
 			<V>:,: ja aikoi hän ruveta itkemään :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Mitäs itket Hilmaseni, miksi kyynel vuotaa</V>
 			<V>Etkö sinä Hilmaseni uskallakaan luottaa</V>
 			<V>:,: omaanpa rakkauteesi :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vilhelmi se Hilmallensa lemmenliiton vannoi:</V>
 			<V>Ijäisesti rakastaa ja sormuksetkin antoi</V>
 			<V>:,: merkiksi rakkaudelleen :,:</V>
@@ -136498,12 +136294,12 @@
 			<V>jotka toisiansa rakastivat.</V>
 			<V>Heidän välillään oli yksi lahti</V>
 			<V>ja juokseva puronen vain.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Oli kaksi vihollista samall',</V>
 			<V>jotka kuulivat keskustelun.</V>
 			<V>Ja he sammuttivat kynttilät rannalt'</V>
 			<V>ja he vajosivat aaltoihin.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vie terveiset isälleni,</V>
 			<V>rakkaalle äidilleni,</V>
 			<V>Minä lepäjän meren aalloiss'</V>
@@ -136526,9 +136322,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Lastenloruja, hokuja yms</U>
-			</CPT>
+			<CPT><U>Lastenloruja, hokuja yms</U></CPT>
 			<V>Ukko akka tingestakka,</V>
 			<V>höyryn pöyryn puks!</V>
 		</TEXT>
@@ -138373,7 +138167,7 @@
 			<SGN>15053.</SGN>
 			<TMP>1943.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -138394,7 +138188,7 @@
 			<SGN>15054.</SGN>
 			<TMP>1943.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -138415,7 +138209,7 @@
 			<SGN>15055.</SGN>
 			<TMP>1943.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -138443,7 +138237,7 @@
 			<SGN>15056.</SGN>
 			<TMP>1943.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -138464,7 +138258,7 @@
 			<SGN>15057.</SGN>
 			<TMP>1943.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -138486,7 +138280,7 @@
 			<SGN>15058.</SGN>
 			<TMP>1943.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -138507,7 +138301,7 @@
 			<SGN>15059.</SGN>
 			<TMP>1943.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -138529,7 +138323,7 @@
 			<SGN>15060.</SGN>
 			<TMP>1943.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -138550,7 +138344,7 @@
 			<SGN>15061.</SGN>
 			<TMP>1943.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -138572,7 +138366,7 @@
 			<SGN>15062.</SGN>
 			<TMP>1943.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -138594,7 +138388,7 @@
 			<SGN>15063.</SGN>
 			<TMP>1943.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -138614,14 +138408,12 @@
 			<SGN>15064.</SGN>
 			<TMP>1943.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Pääsiäisenä:</U>
-			</CPT>
+			<CPT><U>Pääsiäisenä:</U></CPT>
 			<V>Virvon, varvon, tuoreeks terveeks,</V>
 			<V>rikkaaks, rakkaaks,</V>
 			<V>Sulle vihta, mulle raha.</V>
@@ -138666,39 +138458,37 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Kaarina Kuussalon kukkainen</U>
-			</CPT>
+			<CPT><U>Kaarina Kuussalon kukkainen</U></CPT>
 			<V>"Nuor' Kaarina Kuassalon kukkainen",</V>
 			<V>näin kertovi mummoni vanha,</V>
 			<V>"Oi immyt tuuhea tukkainen</V>
 			<V>Taru neidon on kauhea kuulla."</V>
-			<V>000</V>
+			<TYHI/>
 			<V>"Horn aatelin knaapeista uljain Klau</V>
 			<V>näki impyen kirkossa kerran.</V>
 			<V>Hän katsoi immyttä katsoi taas.</V>
 			<V>Taru neidon on kaunista kuulla."</V>
-			<V>000</V>
+			<TYHI/>
 			<V>"Klau ratsasti kirkosta Kuussaloon,</V>
 			<V>Ken ois' mitä voinut luulla</V>
 			<V>ja anoi immyttä omakseen</V>
 			<V>Taru neidon on kaunista kuulla."</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Klaun isä täst' oli vihainen:</V>
 			<V>Perit poikani noidan verta.</V>
 			<V>"Mutta noidan saatan mä syytteeseen.</V>
 			<V>Rikos tahravi aatelisverta."</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Näin Kaarina noitana tuomittiin</V>
 			<V>"Ken ois' sitä voinut luulla.</V>
 			<V>Ja Kalevan kankaalla mestattiin</V>
 			<V>Taru neidon on kauhea kuulla."</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Mestauspaalulla Kaarina huus'</V>
 			<V>huusi hän hurjalla suulla:</V>
 			<V>"Oi, kohtalon syy mikä onnettomuus!</V>
 			<V>Miks' vaaditte viatonta verta?"</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Tämä kivi nyt paikan sai</V>
 			<V>Kangasalan kirkon seinään.</V>
 			<V>Punapaatosen kai olet nähnyt siell'</V>
@@ -138721,30 +138511,28 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Imatran rannalla</U>
-			</CPT>
+			<CPT><U>Imatran rannalla</U></CPT>
 			<V>Se hupainen ilta muist' mieleeni viel'.</V>
 			<V>kun vietin mä Imatran rannalla siell'.</V>
 			<V>Siell' Hilman mä ihanan kohdata sain,</V>
 			<V>joka kukoist' kuin kukkainen kedolla vain.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Plyymit ne hatussa lenteli häll',</V>
 			<V>Ja sinisest' silkist' oli länninki pääll'.</V>
 			<V>Ketjut kultaiset kaulalla välähteli vaan.</V>
 			<V>Hilma oli neitonen vierahan maan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vaikk' silkkiä ja kultaa hänen yllänsä loist',</V>
 			<V>ei löytänyt rakkauden iloa moist'.</V>
 			<V>Hän tarjosi kätens' ja sydämens' mull'</V>
 			<V>ja liitto se tehtiin kuin laulussa kuull'.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Viiniä, viiniä Hilmall' oli myöt',</V>
 			<V>kun vietimme Imatran rannalla yöt'.</V>
 			<V>"Sunflirun, sunflarun",</V>
 			<V>Hilma lauleli vaan,</V>
 			<V>että sinustakos Juho minä sulhaisen saan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Hilma kaunihit kasvonsa pluusilla peitt',</V>
 			<V>kun rintaani vasten hän lepäämään heitt'.</V>
 			<V>Auringonsäteet kuumotti niin,</V>
@@ -138771,12 +138559,12 @@
 			<V>oli tumma ja vaalea.</V>
 			<V>Tytär tumma se koko kuunaalla</V>
 			<V>tuli kuuluksi kauniina.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Tytär vaalea kävi kirkossa</V>
 			<V>ja seuroissa uskovien.</V>
 			<V>Näki vanha sen, näki kiitellen</V>
 			<V>kylän nuoriso pilkaten.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>"Ennen kuolisin</V>
 			<V>kuin mä hyljäisin</V>
 			<V>ilot ihanat nuoruuden",</V>
@@ -138801,9 +138589,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Hippaloruja</U>
-			</CPT>
+			<CPT><U>Hippaloruja</U></CPT>
 			<V>Erkki istui jäällä</V>
 			<V>viiden pennin päällä,</V>
 			<V>junttapulla kainalossa</V>
@@ -138896,9 +138682,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Vuodenajoista</U>
-			</CPT>
+			<CPT><U>Vuodenajoista</U></CPT>
 			<V>Kuu kiurusta kesään</V>
 			<V>puolikuuta peipposesta,</V>
 			<V>västäräkistä vähäsen,</V>
@@ -139151,9 +138935,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Vanhan kansan uskomuksia</U>
-			</CPT>
+			<CPT><U>Vanhan kansan uskomuksia</U></CPT>
 			<CPT>tautien parantamisesta:</CPT>
 			<L>Irronnut hammas piti heittää uunin päälle, ja sanoa:</L>
 			<V>"Lok, lok, anna mulle luuhammas</V>
@@ -140288,9 +140070,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Karjalaisia tapoja kankaan kudonnassa</U>
-			</CPT>
+			<CPT><U>Karjalaisia tapoja kankaan kudonnassa</U></CPT>
 			<L>Karjalaisia käsitöitä oli tehtävä niin tarkkaan, että sanottiin että ne oli tehtävä "ikkunanpalles, päivänrinnas".</L>
 			<V>"Jumal abu kangurill'"</V>
 			<L>sanotaan jos tullaan taloon missä kangasta kudotaan. Kun kangas on luomapuilla sanotaan (että kangas tulisi valmiiksi niin pian kuin mahdollista)</L>
@@ -140310,7 +140090,7 @@
 			<L>Jos kudottiin epäsiistin /epäsiistiä?/ kangasta sanotiin:</L>
 			<V>"Kudoo neido, räiskyttää,</V>
 			<V>yks pii pirras, kaks laugua kangas."</V>
-			<V>000</V>
+			<TYHI/>
 			<V>"Hyvää kangast pidää kudoa muga</V>
 			<V>ku madontappoa."</V>
 			<L>Kuorschaliin?? tappuraa kehrätessä sanottiin: (sylkäisten)</L>
@@ -140323,7 +140103,7 @@
 			<V>Uuksjärven ukkosin,</V>
 			<V>Petäjäselän pekkosill,</V>
 			<V>Libo Oras järven ottajill."</V>
-			<V>000</V>
+			<TYHI/>
 			<V>"Ei lasta itkemätöntä,</V>
 			<V>ei kangasta katkeamatonta."</V>
 		</TEXT>
@@ -140344,12 +140124,8 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Lauluja</U>
-			</CPT>
-			<CPT>
-				<U>Kehtolaulu</U>
-			</CPT>
+			<CPT><U>Lauluja</U></CPT>
+			<CPT><U>Kehtolaulu</U></CPT>
 			<V>"Aa-aa akana,</V>
 			<V>kahen lukon takana,</V>
 			<V>lapsi makaa vakaana,</V>
@@ -141387,9 +141163,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Itkäy neitshyt</U>
-			</CPT>
+			<CPT><U>Itkäy neitshyt</U></CPT>
 			<V>Itkäy neitshyt ulahuttau,</V>
 			<V>kadajikis kajahuu.</V>
 			<V>Katshon yläh päivä paistau</V>
@@ -142207,7 +141981,7 @@
 			<SGN>18335.</SGN>
 			<TMP>1943.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -143144,9 +142918,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Kissa ja hiiri</U>
-			</CPT>
+			<CPT><U>Kissa ja hiiri</U></CPT>
 			<V>Hiiri meni metsään,</V>
 			<V>pieni kelkka perässä,</V>
 			<V>pieni kirves kelkkasessa.</V>
@@ -143186,9 +142958,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Tuutulauluja</U>
-			</CPT>
+			<CPT><U>Tuutulauluja</U></CPT>
 			<V>Tuu, tuu, tuutukainen,</V>
 			<V>tupa oli uuden uutukainen.</V>
 			<V>Tupa tehty turpehista,</V>
@@ -144335,9 +144105,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Tuutulaulu</U>
-			</CPT>
+			<CPT><U>Tuutulaulu</U></CPT>
 			<V>Tuutipa tuuti lasta,</V>
 			<V>tulepa surma vastaan,</V>
 			<V>lyö kurikalla kummaista,</V>
@@ -144426,7 +144194,7 @@
 			<V>pientä linnunpoikaa.</V>
 			<V>Pienellä linnulla pikkunen nokka,</V>
 			<V>sillä se lasta hoitaa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Minäpä laulan lapselleni</V>
 			<V>enkä laula muille.</V>
 			<V>Laulaapa ne taivaan linnut</V>
@@ -145353,9 +145121,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Käärmeen sanat</U>
-			</CPT>
+			<CPT><U>Käärmeen sanat</U></CPT>
 			<V>Pidätä piru parka,</V>
 			<V>että mä suitset suuhus saan,</V>
 			<V>maa paina maata vastaan,</V>
@@ -145378,9 +145144,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Kärpän sanat</U>
-			</CPT>
+			<CPT><U>Kärpän sanat</U></CPT>
 			<V>Kärppä nimes, pidä vihas</V>
 			<V>anna elikolle elikon terveys.</V>
 		</TEXT>
@@ -145401,9 +145165,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Pukaman sanat</U>
-			</CPT>
+			<CPT><U>Pukaman sanat</U></CPT>
 			<V>Pukama, pukama</V>
 			<V>putken polttama,</V>
 			<V>siirrä sijaa, muuta majaa,</V>
@@ -145427,9 +145189,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Sisiliskoa vastaan</U>
-			</CPT>
+			<CPT><U>Sisiliskoa vastaan</U></CPT>
 			<V>Sisilisko, rautakisko,</V>
 			<V>sinä niin painava ko rautakanki,</V>
 			<V>minä niin köykänen ko lepänlehti.</V>
@@ -145451,9 +145211,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Veren pidätyssanat</U>
-			</CPT>
+			<CPT><U>Veren pidätyssanat</U></CPT>
 			<V>Tyynny veri, seiso veri,</V>
 			<V>niinkuin kivi kosken pohjass',</V>
 			<V>niinkuin terva paatin lairass'</V>
@@ -145477,9 +145235,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Ähkyn sanat</U>
-			</CPT>
+			<CPT><U>Ähkyn sanat</U></CPT>
 			<L>(Heikoon ähkyyn)</L>
 			<V>Ähky nimes, pidä kipus,</V>
 			<V>anna hevoselle hevosen terveys.</V>
@@ -145719,8 +145475,7 @@
 		</META>
 		<TEXT>
 			<L>Kun lapsia kylvetettiin saunassa laulettiin niille, jos itkivät mm. seuraavia lauluja.</L>
-			<CPT>
-				<U>Mene yskä ukkolaan.</U>..</CPT>
+			<CPT><U>Mene yskä ukkolaan.</U>..</CPT>
 			<V>Mene yskä ukkolaan</V>
 			<V>ukkolasta akkalaan</V>
 			<V>anna akkojen rykiä</V>
@@ -145767,9 +145522,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Mie se laulan lapsen virren</U>
-			</CPT>
+			<CPT><U>Mie se laulan lapsen virren</U></CPT>
 			<V>Mie se laulan lapsen virren</V>
 			<V>pitemmän kuin seinähirren</V>
 			<V>Mie se laulan lapselleni</V>
@@ -145942,7 +145695,7 @@
 			<SGN>22258.</SGN>
 			<TMP>1943.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -146112,9 +145865,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Kulkuripojan ruokamatka</U>
-			</CPT>
+			<CPT><U>Kulkuripojan ruokamatka</U></CPT>
 			<V>Kulkuripoika tuli taloon. Emäntä kysymään häneltä: "Mikä sinua vaivaa, kun olet noin kurjan näköinen?" "Minulla on kovasti nälkä." "Et saa ennen ruokaa, ennenkuin ajat pukin pois kaalimaasta." Poika ryhtyi heti tuumasta toimeen. Mutta vaikka hän parhaansa yritti, ei pukki ollut tietävinään. Poika lähti etsimään apua. Sattui tulemaan susi vastaan. Poika sanoi sudelle: Tule susi puremaan pukkia, että pukki lähtisi pois kaalimaasta ja minä saisin ruokaa." Susi ei kuitenkaan totellut. Tuli honka vastaan. Poika pyysi honkaa lyömään sutta, että susi purisi pukkia, että pukki lähtisi pois kaalimaasta. Honkakaan ei totellut. Tuli sitten tuli vastaan. Poika pyysi tulta avukseen, mutta tämä ei luvannut polttaa honkaa, j.n.e. Poika kulki edelleen. Nyt tuli vesi vastaan, mutta vesikään ei totellut poikaa. Samoin kävi, kun härkä tuli vastaan. Vihdoin poika tapasi vanhan ukon. Tämä taas alkoi ihmetellä, että miksi poika oli niin surkean näköinen. Poika kertoi heti ukolle asiansa. Ukko ihastui kovasti. Hänkin sanoi olevansa nälkäinen kovasti, mutta kertoi myös saavansa kaikki tottelemaan itseänsä. Hän oli nimittäin noita. Eikä aikaakaan, kun härkä joi veden, vesi sammutti tulen, tuli poltti honkaa, honka löi sutta, susi puri pukkia ja pukki lähti pois kaalimaasta. Nyt poika ja ukko menivät kertomaan emännälle, että pukkia ei ollut enää kaalimaassa. Emäntä oli kovasti hyvillään, että pukki ei ollut ehtinyt syödä kaikkia kaaleja. Samalla hän kantoi kulkuripojalle ja ukolle höyryävää keittoa pöytään.</V>
 		</TEXT>
 	</ITEM>
@@ -146346,8 +146097,8 @@
 			<ID>16481</ID>
 			<LOC>
 				<AREA>l</AREA>
-				<PAR>Kalajoki.</PAR>>
-</LOC>
+				<PAR>Kalajoki.</PAR>
+				</LOC>
 			<COL>Hämeenlinnan alakansakouluseminaari</COL>
 			<SGN>22936.</SGN>
 			<TMP>1943.</TMP>
@@ -146538,9 +146289,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Ajan laskua</U>
-			</CPT>
+			<CPT><U>Ajan laskua</U></CPT>
 			<V>Heikki neljännellä,</V>
 			<V>Paavali viijennellä,</V>
 			<V>Kyntteli kuuvennella.</V>
@@ -146566,9 +146315,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Vanhoja lauluja</U>
-			</CPT>
+			<CPT><U>Vanhoja lauluja</U></CPT>
 			<V>"Tytys meni Pilipakalle.</V>
 			<V>rajat lyötiin penkin alle.</V>
 			<V>Tytyksella oli asiaa.</V>
@@ -146593,9 +146340,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Kehtolauluja</U>
-			</CPT>
+			<CPT><U>Kehtolauluja</U></CPT>
 			<V>"Otto se meni myllylle</V>
 			<V>suutarin hyssytys kärryllä.</V>
 			<V>Isä on Övermarkilla timpraamassa,</V>
@@ -146769,29 +146514,27 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Vilho ja Pertta</U>
-			</CPT>
+			<CPT><U>Vilho ja Pertta</U></CPT>
 			<V>Ol' kerran piennä poikana</V>
 			<V>Vilho paimenessa</V>
 			<V>ja siellä tuli tuntemaan</V>
 			<V>ihanan Perttansa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ja yhdessä he kulkivat</V>
 			<V>kun kouluun lähtivät.</V>
 			<V>Yhdessä luki läksynsä</V>
 			<V>ja leikkins leikkivät.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ville jatkoi opintojaan</V>
 			<V>yliopistossa</V>
 			<V>mutt' Pertta sitävastoin</V>
 			<V>kävi työssä tehtaassa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Sitten Vilho matkusti</V>
 			<V>pois kauas virkaansa</V>
 			<V>ja eikä enää muistanut</V>
 			<V>entistä Perttaansa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>[KUVA]</V>
 		</TEXT>
 	</ITEM>
@@ -147349,9 +147092,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Kaaropiilolukuja</U>
-			</CPT>
+			<CPT><U>Kaaropiilolukuja</U></CPT>
 			<V>Ankuta, rankuta, rillepruu</V>
 			<V>setter, faaper, fiiberfuu.</V>
 			<V>Ammun kam, setter kam.</V>
@@ -147465,9 +147206,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Loitsu</U>
-			</CPT>
+			<CPT><U>Loitsu</U></CPT>
 			<V>Ahven, ahven, ankara kala</V>
 			<V>tule minun onkein ottamaa</V>
 			<V>siimoo sipasemmaa,</V>
@@ -147489,9 +147228,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Runo luvattomasta hirventapusta</U>
-			</CPT>
+			<CPT><U>Runo luvattomasta hirventapusta</U></CPT>
 			<L>(Kirj. hirventappaja Henter Laitinen)</L>
 			<L>I</L>
 			<V>Pilli-Jussi, pien mies</V>
@@ -147525,9 +147262,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Runo tappeluista</U>
-			</CPT>
+			<CPT><U>Runo tappeluista</U></CPT>
 			<V>Tappelu on tapahtuna</V>
 			<V>kesällä heinäkuussa</V>
 			<V>Kokonkylän Koittilassa</V>
@@ -147916,9 +147651,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Viljan kylvö, kasvu ja käyttö</U>
-			</CPT>
+			<CPT><U>Viljan kylvö, kasvu ja käyttö</U></CPT>
 			<V>Kaheksais kauraviikko,</V>
 			<V>seitsemäis sen paremp'.</V>
 			<L>(Pietarin päivästä takaisin laskettuna.)</L>
@@ -148133,9 +147866,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Kehtolauluja</U>
-			</CPT>
+			<CPT><U>Kehtolauluja</U></CPT>
 			<V>Mikäpä merellä uipi?</V>
 			<V>Laiva tuo merellä uipi.</V>
 			<V>Mikä laivan kannen päällä?</V>
@@ -148422,9 +148153,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Lapsille laulettu laulu</U>
-			</CPT>
+			<CPT><U>Lapsille laulettu laulu</U></CPT>
 			<V>Turun luran luttupaimen</V>
 			<V>aja karjas tälle pualen.</V>
 			<V>Tääll' on mansikat makosempi</V>
@@ -150899,9 +150628,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Lemmennostosauna</U>
-			</CPT>
+			<CPT><U>Lemmennostosauna</U></CPT>
 			<L>Juhannusaattona lämmitettiin sauna. Koottiin mahdollisimman monenlaisia kukkia, joista tehtiin vasta. Tällä vastalla kyvetti joku vanha ihminen nuorta neitoa samalla sanoen:</L>
 			<V>"Nouse lempi liehumaan,</V>
 			<V>kunnia kupahumaan,</V>
@@ -151031,9 +150758,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Riienluku</U>
-			</CPT>
+			<CPT><U>Riienluku</U></CPT>
 			<L>Jos lapsessa oli riisi, lämmitettiin sauna ja riienkylvettäjä vei lapsen saunaan. Siellä hän kylvetti lasta koiran heispuusta tehdyllä vastalla. Kylvettäessään hän luki:</L>
 			<V>"Oo sie Pyhä Muarie emoni,</V>
 			<V>Pyhä Piika pikkarainen,</V>
@@ -152104,54 +151829,52 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Birgitta neito</U>
-			</CPT>
+			<CPT><U>Birgitta neito</U></CPT>
 			<V>Minä olen se kulkijaritari,</V>
 			<V>jota elämän onni ei suosi.</V>
 			<V>Ja täällä mun aarteeni kallis on</V>
 			<V>ja tänne soutelen joka vuosi...</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Turun sillalle haahti se laskettiin,</V>
 			<V>lännen tuulet sen merelle vei.</V>
 			<V>Yli Naanatalin siintävän saariston</V>
 			<V>pyhät luostarin kellot ne soi.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ja se jätti kaiken niin katkeran,</V>
 			<V>että sydämen pohjasta viils'</V>
 			<V>Pois lähti sulho matkaamaan</V>
 			<V>kyynel neidon silmässä kiils'.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ja hän muisti sen Laukon kartanon,</V>
 			<V>johon lehtevä kuja johti.</V>
 			<V>Ja hän ratsasti ohitse portin sen</V>
 			<V>jossa kurkivaakunat hohti.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Sinä olit minun linnani ritari,</V>
 			<V>sinut kadotin liian varhain.</V>
 			<V>Ja he istuttivat ihanan ruususen</V>
 			<V>tuonne luostarin harmaaseen tarhaan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Nyt hyvästi, hyvästi armaani,</V>
 			<V>en näe sua milloinkaan.</V>
 			<V>Ja hyvästi, hyvästi valkama,</V>
 			<V>siellä kuljimme kuutamossa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Tähdet luo hohtavan loistonsa</V>
 			<V>yli luostarin muurin harmaan.</V>
 			<V>Silmät katsovat tornin ikkunasta</V>
 			<V>ne näkevät kasvot armaan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vielä kerrotaan Birgitta neidosta</V>
 			<V>että kätensä yhteen hän liitti.</V>
 			<V>Koko yön hän luostarin pihalla,</V>
 			<V>itki, itki ja kulki.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Tuli vieraan heimosta karski mies,</V>
 			<V>vihan viljat ne hedelmöi.??</V>
 			<V>niin vietiin se ihana neitonen,</V>
 			<V>joka sulhoaan ikävöi.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Minä olen se kulkijaritari,</V>
 			<V>ja laulu mun lohtuni on.</V>
 			<V>Oman armaan luokse käy kulkuni,</V>
@@ -152755,9 +152478,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Tarina papista ja rengistä</U>
-			</CPT>
+			<CPT><U>Tarina papista ja rengistä</U></CPT>
 			<L>Sunnuntaiaamuna meni renki noutamaan pappia kirkkoon. Kun hän tuli pappilan oven edustalle ei pappia kuulunut. Silloin renki meni kysymään, että eikö kirkkoherra aio tänä sunnuntaina kirkkoon lähteäkään. Kirkkoherra kuitenkin sanoi, ettei nyt mikään sunnunole??. Kyllä on, sanoi renki ja alkoi luetella:</L>
 			<V>"Maanantaina myllyyn mentiin,</V>
 			<V>tiistaina kotia tultiin,</V>
@@ -154135,9 +153856,9 @@
 			<V>Kuulin siellä kellon lyövän.</V>
 			<V>Mitä se silloin löi?</V>
 			<V>Yks', kaks' ---</V>
-			<V>000</V>
+			<TYHI/>
 			<V>/?/</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ismu, pyntee, hilis, kilis,</V>
 			<V>kankuri pykkää sauhua.</V>
 			<V>Ankkuri paanee /?/</V>
@@ -155062,9 +154783,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Ongella</U>
-			</CPT>
+			<CPT><U>Ongella</U></CPT>
 			<V>Anna Antti ahvenia,</V>
 			<V>Pekka pieniä kaloja.</V>
 		</TEXT>
@@ -155084,9 +154803,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Marjaan mennessä</U>
-			</CPT>
+			<CPT><U>Marjaan mennessä</U></CPT>
 			<V>Kippis kappis kannuni täyteen,</V>
 			<V>jos ei täyteen, niin puolilleen,</V>
 			<V>jos ei puolilleen, niin pohjan peitteeks',</V>
@@ -155109,9 +154826,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Tuutulaulu</U>
-			</CPT>
+			<CPT><U>Tuutulaulu</U></CPT>
 			<V>Aa, tuuti lasta,</V>
 			<V>tule surma vastaa,</V>
 			<V>nuppoo kurikalla kummastakkii,</V>
@@ -155337,9 +155052,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Parannusloitsu</U>
-			</CPT>
+			<CPT><U>Parannusloitsu</U></CPT>
 			<V>Pthyi sian paskaa siteeks'</V>
 			<V>koiran paskaa koiteeks'</V>
 			<V>harakan paskaa hauteeks'.</V>
@@ -156221,9 +155934,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Leikkiloru</U>
-			</CPT>
+			<CPT><U>Leikkiloru</U></CPT>
 			<V>Maateva teijaa</V>
 			<V>tiippuu viisii</V>
 			<V>tasariisii</V>
@@ -156340,7 +156051,9 @@
 			<COL>Hämeenlinnan vankila</COL>
 			<SGN>VK 23:43.</SGN>
 			<TMP>1910.</TMP>
+			<INF>
 			<CTX>J. Tuppela?</CTX>
+			</INF>
 		</META>
 		<TEXT>
 			<CPT>kärmen käsky</CPT>
@@ -156358,7 +156071,9 @@
 			<COL>Hämeenlinnan vankila</COL>
 			<SGN>VK 23:47.</SGN>
 			<TMP>1910.</TMP>
+			<INF>
 			<CTX>J. Tuppela?</CTX>
+			</INF>
 		</META>
 		<TEXT>
 			<V>veri seiso niin kuin seinä,</V>
@@ -156386,7 +156101,9 @@
 			<COL>Hämeenlinnan vankila</COL>
 			<SGN>VK 23:69.</SGN>
 			<TMP>1910.</TMP>
+			<INF>
 			<CTX>J. Tuppela?</CTX>
+			</INF>
 		</META>
 		<TEXT>
 			<L>Otat saunan kiukasta kiven ja panet sen virsikirjan sisällä ja otat kirven ja kierät 2. kerta myötä päivä 1. kerta vasta päivä sen virsi kirjan ja sen kirven ja otat sen kiven joka on sen kirjan sisällä ja menet sihen huskol jollas meinat tämän työn tehdä ja heität katon pällä sen kiven ja sanot.</L>
@@ -156404,7 +156121,9 @@
 			<COL>Hämeenlinnan vankila</COL>
 			<SGN>VK 23:72.</SGN>
 			<TMP>1910.</TMP>
+			<INF>
 			<CTX>J. Tuppela?</CTX>
+			</INF>
 		</META>
 		<TEXT>
 			<L>Saa pahat välist vaimon ja miehen välillä otta hiuksia kumpaiseltakin ja kiertä mukuta kiven ympäri ja heittä kuohuvan lahtessen ja saano</L>
@@ -156422,7 +156141,9 @@
 			<COL>Hämeenlinnan vankila</COL>
 			<SGN>VK 23:73.</SGN>
 			<TMP>1910.</TMP>
+			<INF>
 			<CTX>J. Tuppela?</CTX>
+			</INF>
 		</META>
 		<TEXT>
 			<L>varkan pois estäminen otta 9. raetta suoloija 9. ohranjy otta 3. kerta villoja otta 3. pientä levän muriesta ja vetä vähä voita joka levän palan pällä ja vie ympäri asunon 2. kerta myöt päivä 1 vastapäivä pane sen laisen pisin valkian kohdal alle valkian ja sanot</L>
@@ -156445,7 +156166,9 @@
 			<COL>Hämeenlinnan vankila</COL>
 			<SGN>VK 23:74.</SGN>
 			<TMP>1910.</TMP>
+			<INF>
 			<CTX>J. Tuppela?</CTX>
+			</INF>
 		</META>
 		<TEXT>
 			<CPT>Sada hevosen pulskasks'</CPT>
@@ -156466,7 +156189,9 @@
 			<COL>Hämeenlinnan vankila</COL>
 			<SGN>VK 23:77.</SGN>
 			<TMP>1910.</TMP>
+			<INF>
 			<CTX>J. Tuppela?</CTX>
+			</INF>
 		</META>
 		<TEXT>
 			<V>kars katen silmän</V>
@@ -156503,7 +156228,9 @@
 			<COL>Hämeenlinnan vankila</COL>
 			<SGN>VK 23:78.</SGN>
 			<TMP>1910.</TMP>
+			<INF>
 			<CTX>J. Tuppela?</CTX>
+			</INF>
 		</META>
 		<TEXT>
 			<CPT>at ulos neula eläimistö tai ihmisest</CPT>
@@ -156526,7 +156253,9 @@
 			<COL>Hämeenlinnan vankila</COL>
 			<SGN>VK 23:79.</SGN>
 			<TMP>1901.</TMP>
+			<INF>
 			<CTX>J. Tuppela?</CTX>
+			</INF>
 		</META>
 		<TEXT>
 			<CPT>jos okas mene jalkan taika muuhun</CPT>
@@ -156550,7 +156279,9 @@
 			<COL>Hämeenlinnan vankila</COL>
 			<SGN>VK 23:86.</SGN>
 			<TMP>1910.</TMP>
+			<INF>
 			<CTX>J. Tuppela?</CTX>
+			</INF>
 		</META>
 		<TEXT>
 			<L>etsi 3 lähdettä ja otta 3 leppäistä oksa ja työ /?/ nillä joka lähtesen ja eri oksat joka lähtelä ja sano sanat "nouse neitoinen vedestä hieno helma hettestä minun ainoan avuksen yksinäisen ympärillä vastuksia voittaman kahden puolen kaataman" ja sitte taitta lepän säröllä ja otta sittä yhden särön ja otta sillä säröllä 9 kerta joka lähtestä sitä sora pohjasta, ja sanat ovat seuravat, juokse ennen luojan koskent myötä virran vaste virran kerran purot pullottele, ja sitten heität kaikki säröt ja oksat lähtesen ja sanot, kuin annat mullen vedestä voima ja väkeä niin minä annan nämat sulle kuin olet ottannut santa lähtestä niin otat hopia rukan ja krapat veittellä vähä" sanot??, kullalla sua kumaran ja hopialla houkuttelen, ja menet juhanus yönä koskelle ja otat 3 lepän oksa ja lyöt nillä 3 kerta" ja sanot. neitsy maria emoinen rakas äiti armainen nosta kosken kon valiset alta taivan apua itte pilvistä pitäsin hattarahien hallitsian, lujatan joka lyöntiä pällä, kuin lyövän lepän oksilla" ja otta lepän ja taitta säröllä ja otta 9 kerta sillä säröllä, ja sanot juoksi ennen luoja kosken myötä virran vastavirran herran porot pullottele lujetun joka otaa pällä kuin oletan ja sitten heität kosken ne lepän oksat ja samoin särön" ja sanot ovat kuni annat mullen vedestä voima ja väkevä niin annan minä nämät sulle" ja sitten risu ittensa alasti ja mene kosken ja uui vasta virta ja otta 3 kerta suhunsa ja niele alas ja otat 3 kerta vahto ja niele alas, ja sitten nouse ylös vasta viran päin, ja sitten puke pälensä ja lähte kotio takansa katsomatta, ja koitte vähä hillitä luontoinsa.</L>
@@ -156566,7 +156297,9 @@
 			<COL>Hämeenlinnan vankila</COL>
 			<SGN>VK 23:88.</SGN>
 			<TMP>1901.</TMP>
+			<INF>
 			<CTX>J. Tuppela?</CTX>
+			</INF>
 		</META>
 		<TEXT>
 			<CPT>varkan pois estäminen,</CPT>
@@ -156589,9 +156322,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Kevät-taikoja</U>
-			</CPT>
+			<CPT><U>Kevät-taikoja</U></CPT>
 			<L>Kun keväällä kuulee ensikerran käen kukkuvan, niin pitää katsoa, että oikean jalan kantapään alla on silloin karva, jos se musta, tietää murhetta, valkonen ja punanen hyvää. Ja missäpäin käki kukkuu, sielläpäin on oleva tuleva sulhanen tai (morsian). Silloin luetaan sanat:</L>
 			<V>Kuku, kuku kulta käk'</V>
 			<V>Montako vuotta on naimiseen.</V>
@@ -156633,9 +156364,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Hiiren pesiä</U>
-			</CPT>
+			<CPT><U>Hiiren pesiä</U></CPT>
 			<L>Jos ajatellaan lehmän saaneen syödä, josta se tulee kipeäksi ja turpoaa, niin pitää huutaa sen oikeaan korvaan kolme kertaa:</L>
 			<V>"Ootkos syönyt hiirenpesiä?"</V>
 			<L>Silloin tauti parani.</L>
@@ -156676,8 +156405,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Paiseen parannus tavat</U>:</CPT>
+			<CPT><U>Paiseen parannus tavat</U>:</CPT>
 			<L>Painettiin paisetta pikkusormella ja luettiin sanat:</L>
 			<V>Yhdeksän; kahdeksan,</V>
 			<V>Seitsemän, kuusi,</V>
@@ -156706,16 +156434,12 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Toinen tapa</U>:</CPT>
+			<CPT><U>Toinen tapa</U>:</CPT>
 			<L>Painettiin paisetta nimettömällä sormella, ja luettiin sanat:</L>
 			<V>Kymmenen, yhdeksän,</V>
 			<V>kahdeksan, seitsemän,</V>
-			<V>
-				<U>Kuusi, viisi,</U>
-			</V>
-			<V>
-				<U>Neljä, kolme,</U> = Kolmeen kertaan</V>
+			<V><U>Kuusi, viisi,</U></V>
+			<V><U>Neljä, kolme,</U> = Kolmeen kertaan</V>
 			<V>Kaksi, yksi,</V>
 			<V>Ei yhtään.</V>
 			<L>(syläistiin maahan).</L>
@@ -156736,8 +156460,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Kolmas tapa</U>:</CPT>
+			<CPT><U>Kolmas tapa</U>:</CPT>
 			<L>Henkilö, joka oli kämmeniensä välissä hieronut lettimaan, hän paineli kämmenellään paisetta ja luki seuraavat sanat:</L>
 			<V>Painu paha, elä paisu,</V>
 			<V>Päältä tuntumattomaksi,</V>
@@ -156767,8 +156490,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Ampiaisen sanat</U>:</CPT>
+			<CPT><U>Ampiaisen sanat</U>:</CPT>
 			<L>Kun tahdottiin varjella itseään ampiaisen pistoksilta, niin luettiin ampiaisen pesällä sanat:</L>
 			<V>"Pistä piikkis pihaan,</V>
 			<V>Kannukses kankaaseen,</V>
@@ -156794,8 +156516,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Saunan lämpimän sanat</U>:</CPT>
+			<CPT><U>Saunan lämpimän sanat</U>:</CPT>
 			<L>Kun tahdottiin varjella kirveen tai puukon haavaa, kädessä tai jalassa saunan lämpimän vihoilta, niin luettiin sanat haavaan ennen saunaan menoa:</L>
 			<V>Mutt' hirsi alimmainen.</V>
 			<V>Kurk' hirsi ylimmäinen,</V>
@@ -156820,8 +156541,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Vihneen pois ajo sanat</U>:</CPT>
+			<CPT><U>Vihneen pois ajo sanat</U>:</CPT>
 			<L>Kun vihne menee sormeen tai ihoon, niin "höpötetään" rasvaan, kolmeen kertaan sanat, ja sillä rasvalla hierotaan, voijellaan, kipeätä paikkaa, joka haaralta, keskelle päin, eli sitä paikkaa, missä vihne on:</L>
 			<V>"Piha rikka, piin rikka,</V>
 			<V>Muan rikka, mantereen rikka,</V>
@@ -156847,8 +156567,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Kiven vihan sanat</U>:</CPT>
+			<CPT><U>Kiven vihan sanat</U>:</CPT>
 			<V>Tuo Jesus kiverikin avain</V>
 			<V>Kiverikki lyväkses,</V>
 			<V>Halspanda pannakses</V>
@@ -156878,8 +156597,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Karjan annen sanat</U>:</CPT>
+			<CPT><U>Karjan annen sanat</U>:</CPT>
 			<L>(Taijan selitys:)</L>
 			<L>Kerättiin yhdeksän lammen rannalta veden ajamia roskia, ne kuivattiin, sitten jauhettiin hienoksi pahkakupissa, pyöreällä kivellä. - - - jakoi kakun niin moneen osaan, kuin talossa oli lehmiä, antoi jokaiselle lehmälle palasen suuhun, ja sitten viimeksi meni ja kyyristyi kellolehmän eteen, antoi palan suuhun ja luki seuraavan loitsun:</L>
 			<V>"Karina hyvä emäntä</V>
@@ -156910,8 +156628,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Toiset sanat kuuluivat</U>:</CPT>
+			<CPT><U>Toiset sanat kuuluivat</U>:</CPT>
 			<V>Karina kipo kaponen</V>
 			<V>Anna mulle musta vasikka,</V>
 			<V>Vastaanotan valkosenkin</V>
@@ -156939,9 +156656,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Lehmän muutto toiseen taloon</U>
-			</CPT>
+			<CPT><U>Lehmän muutto toiseen taloon</U></CPT>
 			<L>Kun lehmä ostetaan jostakin, niin tehtiin taika, että se kulki hyvin, ja myöskin pysyi uudessa kodissa, eikä ikävöinyt.</L>
 			<L>Lehmän uusi omistaja meni hakemaan sitä sieltä, mistä sen oli ostanut. Ensiksi, kun meni lehmän luo, niin sanoi lehmän korvaan seuraavat sanat:</L>
 			<V>Seuraa minua</V>
@@ -156973,9 +156688,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Metsän peitossa</U>
-			</CPT>
+			<CPT><U>Metsän peitossa</U></CPT>
 			<L>Kun eläimiä jää metsän peittoon eikä niitä muuten löydä, niin otetaan vähän viinaa ja raha, mennään metsään, ensimäiseen kusijaispesään, kuin vastaan tulee, kaadetaan se viina ja raha pannaan viinan päälle ja sanotaan sanat:</L>
 			<V>Anna pois metsä omani,</V>
 			<V>Vieläkö minun pitää metältä ostaa,</V>
@@ -156998,8 +156711,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Valkean sanat</U>:</CPT>
+			<CPT><U>Valkean sanat</U>:</CPT>
 			<L>Sanat luetaan kolmesti lehmän maittilaan, jota sairas ryyppää ensin kolmasti sisälle, ja sitten lopulla voijellaan palanutta paikkaa.</L>
 			<V>Kolme on kovaa veljestä,</V>
 			<V>Vesi ja valkea.</V>
@@ -157021,12 +156733,9 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Muahinen</U>
-			</CPT>
+			<CPT><U>Muahinen</U></CPT>
 			<L>Otettiin vanhan aijan alta seipään juuresta palanen maata kouraan ja sillä painettiin kipeätä paikkaa kolmasti ja joka painamisella luettiin sanat:</L>
-			<L>
-				<U>Muahisen sanat</U>:</L>
+			<L><U>Muahisen sanat</U>:</L>
 			<V>Terve mua</V>
 			<V>Terve manta,</V>
 			<V>Terveys vielä terveyttäjä!</V>
@@ -157048,8 +156757,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Pahkojen painelu sanat</U>:</CPT>
+			<CPT><U>Pahkojen painelu sanat</U>:</CPT>
 			<L>Pahkoja ja paiseen alkuja painettiin oikeankäden nimettömällä sormella, johon ensin syläistiin, kolmeen kertaan, ja joka painamisella luetaan sanat:</L>
 			<V>Sipiria nimes</V>
 			<V>Kaper kastajas,</V>
@@ -157071,8 +156779,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Pistoksen sanat</U>:</CPT>
+			<CPT><U>Pistoksen sanat</U>:</CPT>
 			<L>Luettiin maitoon, loitsiessa ei saanut maitoon hengittää, eikä huokua. Sitä maitoa ryyppäsi sairas sisälle kolmesti, eikä ryypätessä saanut henkiä maitoon, lopulla maidolla voijeltiin kipeitä paikkoja. Sanat luettiin kolmeen kertaan:</L>
 			<V>Pistä sinä yksi,</V>
 			<V>Minä pistän kaksi,</V>
@@ -157127,12 +156834,9 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Koin voije</U>
-			</CPT>
+			<CPT><U>Koin voije</U></CPT>
 			<L>Tehdään samalla tavalla rasvaan kuin edellinenkin.</L>
-			<L>
-				<U>Koin sanat</U>:</L>
+			<L><U>Koin sanat</U>:</L>
 			<V>Kuiva koi kolottaa,</V>
 			<V>Märkä koi märättää,</V>
 			<V>Mänköhön mäkihin,</V>
@@ -157158,8 +156862,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Ruton suolat</U>:</CPT>
+			<CPT><U>Ruton suolat</U>:</CPT>
 			<L>Otetaan suoloja astiaan ja sekoitetaan veitsenkärjellä tulisijan päällä, ja hämmentäessä luetaan "Isä meidän" esim. rukous kolmeen kertaan takaperin "amen, ijankaikkisesti ja aina nyt kunnia ja voima. Valtakunta on sinun sillä - - - j.n.e."</L>
 			<L>Sen jälkeen sekoitetaan suolat veteen ja annetaan sairaalle sisälle. Käytettiin eläimille ja ihmisille.</L>
 		</TEXT>
@@ -157179,8 +156882,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Maon sanat</U>:</CPT>
+			<CPT><U>Maon sanat</U>:</CPT>
 			<V>Oo, sinä mato musta maanalainen,</V>
 			<V>Kirjava kiven alainen,</V>
 			<V>Leppivettenkin alainen,</V>
@@ -157203,8 +156905,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Koin sanat</U>:</CPT>
+			<CPT><U>Koin sanat</U>:</CPT>
 			<V>Kuiva koi, märkä koi.</V>
 			<V>Menköön mäkihin,</V>
 			<V>Mäkihistä kankahisiin,</V>
@@ -157227,8 +156928,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Puun sanat</U>:</CPT>
+			<CPT><U>Puun sanat</U>:</CPT>
 			<V>Puu purkis Jumalan luoma,</V>
 			<V>Maan vesa mantereesta,</V>
 			<V>Kanto Herran kasvattama,</V>
@@ -157255,8 +156955,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Rauvan sanat</U>:</CPT>
+			<CPT><U>Rauvan sanat</U>:</CPT>
 			<V>Rauta raukka,</V>
 			<V>Ruosteen ruoka,</V>
 			<V>Ett ollut silloin</V>
@@ -157282,9 +156981,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Koiran taika</U>
-			</CPT>
+			<CPT><U>Koiran taika</U></CPT>
 			<L>Äkäiselle koiralle luettiin yhdeksän kertaa sanat:</L>
 			<V>"Elä hauku, jok' oot yhtä äitiä,</V>
 			<V>ja yhdeksätä isää".</V>
@@ -157306,9 +157003,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Karjan talous taikoja</U>
-			</CPT>
+			<CPT><U>Karjan talous taikoja</U></CPT>
 			<L>Kun lehmä ostettiin jostakin, ja kun se tuotiin uuteen kotiin, otettiin kolme karvaa sarvien välistä, ja pantiin navettaan seinän rakoon samalle kohdalle, mihin lehmäkin laitettiin parteen, ja lyötiin lehmän sarvia kolme kertaa seinään ja sanottiin joka kerta:</L>
 			<V>"Muista kotis",</V>
 			<L>tämä siksi, ettei lehmä ikävöinyt vanhaan kotiinsa.</L>
@@ -157329,8 +157024,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Toinen lehmän tuonti tapa</U>:</CPT>
+			<CPT><U>Toinen lehmän tuonti tapa</U>:</CPT>
 			<L>Kun lähdettiin kotoa lehmää hakemaan, niin otettiin suoloja taskuun. Sitten pyydettiin siitä talosta, josta lehmä otettiin pieni palanen leipää, mikä annettiin lehmälle vasta uudessa kodissa. Kun tultiin likelle uutta kotia, niin laitettiin ne kotoa otetut suolat alakiven päälle, ja kierrettiin lehmää sen ympäri kaksi kertaa myötä- ja yksi kerta vastapäivään, jonka jälkeen annettiin suolat lehmän suuhun. Sitten pihaan tultua laitettiin vesisaavin kantokorento poikkipuolin navetan kynnyksen alle ulkopuolelle, jonka yli lehmä astui navettaan. Navetassa lyötiin lehmänsarvea kolmasti seinään ja hoettiin:</L>
 			<V>"Muista kotis".</V>
 			<L>Silloin ei lehmä ikävöinyt vanhaan kotiinsa.</L>
@@ -157351,9 +157045,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Ruumiintartunnainen</U>
-			</CPT>
+			<CPT><U>Ruumiintartunnainen</U></CPT>
 			<L>Jos ruumiista tarttuu ihmiseen joku kipu tai kolotus, parannetaan sitä seuraavasti:</L>
 			<L>Otetaan lähteestä vettä ja sillä pestään sairas kokonaan. Sen jälkeen otetaan kupari tai hopearaha, jolla kierretään sairasta yhdeksän kertaa vasta- ja kolme kertaa myötäpäivään. Vesi viedään hautuumaahan, sen haudan päälle, josta ruumiista kipu on tarttunna. Kun vesi on kaadettu maahan, pannaan se raha veden päälle, ja sanotaan sanat kolmeen kertaan.</L>
 			<V>Järsi tuota!</V>
@@ -157375,9 +157067,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Niärän näppy silmässä</U>
-			</CPT>
+			<CPT><U>Niärän näppy silmässä</U></CPT>
 			<L>Se saatiin pois seuraavalla tavalla: Otettiin kolmesta pintapäreestä, kolme tikkua kustakin, yhteensä yhdeksän tikkua. Niistä tehtiin takkakivelle kolmisoppinen kota, eli aitta, sitten sytytettiin valkea joka nurkkaan yhtäaikaa. Kun kota rupesi palamaan, pantiin kipeä silmä sen päälle savuun ja hojettiin:</L>
 			<V>"Niärän näppy kotas palaa".</V>
 			<L>Niin kauan kuin kota kesti palaa, sitten syläistiin siihen.</L>
@@ -157398,9 +157088,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Näppy kielessä</U>
-			</CPT>
+			<CPT><U>Näppy kielessä</U></CPT>
 			<L>Jos näppy tuli kieleen, niin piti sanoa jollekin toiselle:</L>
 			<V>"Näppy on kielessä".</V>
 			<L>Johon toinen vastasi:</L>
@@ -157423,8 +157111,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Sanat</U>:</CPT>
+			<CPT><U>Sanat</U>:</CPT>
 			<V>Jost on kalvat katkenna,</V>
 			<V>Siihen kalvat kasvakoon,</V>
 			<V>Mistä liha liikkunna,</V>
@@ -157451,12 +157138,9 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Hivellys lanka</U>
-			</CPT>
+			<CPT><U>Hivellys lanka</U></CPT>
 			<L>Samallainen kuin edellinen, mutta se tehdään yksivärisestä, pesemättömästä lampaan villasesta, kolmisäkeisestä, harmaasta langasta. Ja sanat luetaan kolmeen kertaan, vähän ennen, kun lanka vedetään solmuun, viedään lanka huuliin kiinni sanoja hpöttäessä??. Käytetään samoin kuin edellistä.</L>
-			<L>
-				<U>Sanat</U>:</L>
+			<L><U>Sanat</U>:</L>
 			<V>Jost' on kalvat katkenna,</V>
 			<V>Siihen kalvat kasvakoon,</V>
 			<V>Suuret suonet suutaksuksin,</V>
@@ -157478,8 +157162,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<L>
-				<U>Multialla tehtiin kolmiväriseen lankaan solmut selän takana</U>, s.o. pantiin kädet selän taa, ja tehdessä luettiin sanat, sitten kun lanka oli valmis, syläistiin siihen.</L>
+			<L><U>Multialla tehtiin kolmiväriseen lankaan solmut selän takana</U>, s.o. pantiin kädet selän taa, ja tehdessä luettiin sanat, sitten kun lanka oli valmis, syläistiin siihen.</L>
 			<V>Hivelty ihmisen jalka,</V>
 			<V>Kivisellä kirkkotiellä,</V>
 			<V>Jost' on suonia sortunna,</V>
@@ -157503,8 +157186,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Veren seisotus sanat</U>:</CPT>
+			<CPT><U>Veren seisotus sanat</U>:</CPT>
 			<L>Luetaan haavaan:</L>
 			<V>Tuki ukko turpehilla,</V>
 			<V>Paina pirun peukalolla,</V>
@@ -157527,8 +157209,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Veren seisotus sanat</U>:</CPT>
+			<CPT><U>Veren seisotus sanat</U>:</CPT>
 			<V>Seiso kuin seinä,</V>
 			<V>Asetu kuin aita,</V>
 			<V>Jos et muuten seiso,</V>
@@ -157567,9 +157248,7 @@
 			<TMP>1868.</TMP>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Köyhyydessä</U>
-			</CPT>
+			<CPT><U>Köyhyydessä</U></CPT>
 			<L>W. 1.</L>
 			<V>Äitin' mun synnytti tuoss' suuress' köyhyydess'</V>
 			<V>:,: Ja murheenmaljaa maistoin jo pienestä lapsuudest'. :,:</V>
@@ -157622,17 +157301,17 @@
 			<V>lohduttamaan minua.</V>
 			<V>:,:Sillä minun sydämmeni</V>
 			<V>ikävöipi sinua.:,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Sinussapa sieluseeni</V>
 			<V>lohdutuksen löydän viel'.</V>
 			<V>:,: Vaikkas olet kaukana</V>
 			<V>ja eksyksissä suruntiell'. :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Niinkuin armas aurinkoinen</V>
 			<V>pimeyden poistaa pois. Niin</V>
 			<V>:,: oman kultani rakkaus,</V>
 			<V>on sydämmelleni lohdutus. :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Luotu olen vaeltamaan</V>
 			<V>läpi maailman pauhaavan.</V>
 			<V>:,: Toivon että levon saan</V>
@@ -157655,7 +157334,7 @@
 			<CPT>SUOMENNIEMEN TÄHTI</CPT>
 			<V>Musta meri lavia se sinisellen siintää.</V>
 			<V>:,: Suomenniemen rannalla tuo kultani silmä kiiltää. :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Suomennimen?? rannalla siell' paistaa kirkas tähti.</V>
 			<V>:,: Wasta poika ihastui, kun kotimaallen lähti. :,:</V>
 			<K>SÄVEL: ks. mt.</K>
@@ -157676,13 +157355,13 @@
 			<CPT>EPÄILEVÄ</CPT>
 			<V>Tässä istun yksinäni surussani näin laulelen</V>
 			<V>:,: Ehkä tulis jos kultan' kuulis ilahuttamaan sydäntän'. :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Puna poskes ja kelta tukkas On mun kovasti vanginnut</V>
 			<V>:,: Kyllä taisi se turha olla Että mä sua odotin. :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Makiat huules ja viekas kieles Ovat ihan mun pettänyt</V>
 			<V>:,: Nyt siis täydyn jo olla uskoss' Ettäs olet mun jättänyt. :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Jos en minä sinua saa niin minä menen täält kauvas pois</V>
 			<V>:,: Sillen merellen sinisellen Jossa murheeni loppu ois. :,:</V>
 			<K>SÄVEL: ks. mt.</K>
@@ -157725,27 +157404,27 @@
 			<V>Riemuellen laulavat,</V>
 			<V>Sirkut kukka kumpuralla</V>
 			<V>:,:Iloitellen tanssivat.:,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kukat terinensä päilyy,</V>
 			<V>Koreilevat tuoksuen.</V>
 			<V>:,: Puiden latvat nuokkuu, häilyy,</V>
 			<V>Kuiskailevat riemuiten. :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ah! on heillä kultans luona,</V>
 			<V>Kenen kanssa laulavat.</V>
 			<V>:,: Jok' on heillen lempens suonna;</V>
 			<V>Siis he riemueelevat. :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Mun vaan täytyy yksin olla,</V>
 			<V>Suru mun on kumppani;</V>
 			<V>:,: Käynkös huoneess', vainiolla,</V>
 			<V>Wettä vuotaa silmäni. :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Liekkiväissä sydän sykkii,</V>
 			<V>Tuntuu vallan vaipuvan,</V>
 			<V>:,:Weri suonissani tykkii,</V>
 			<V>On kuin saisin kuoleman.:,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Sydäntäsi älä kiellä,</V>
 			<V>Ainain! lempivältäsi,</V>
 			<V>:,:Silloin riemuitsisin vielä,</V>
@@ -157770,7 +157449,7 @@
 			<V>kuivalla kankahlla??,</V>
 			<V>:,: Kuinkas neito punottaa</V>
 			<V>tuonssuuren surun alla. :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Suo ei kasva kiviä</V>
 			<V>eikä kangas karpaloita,</V>
 			<V>:,: Kuinkas taitaa iloinen olla</V>
@@ -157795,22 +157474,22 @@
 			<V>Oli maansa rakkauteen,</V>
 			<V>:,: Waikk' ol impens' rukkoillunna</V>
 			<V>Häntä jäämään autuuteen. :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Pilvi toivon tähden peitti,</V>
 			<V>Neiti itki katkeraan,</V>
 			<V>:,: Sulhonsa kun hänet heitti</V>
 			<V>Kuni kukka kuihtumaan. :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Anoi siitä sulhollensa</V>
 			<V>Taivahalta kostoa,</V>
 			<V>:,: Sekä lohdutuksena</V>
 			<V>Toivoi hälle kuoloa. :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Waan kun miehuus sodan poisti,</V>
 			<V>Haudass' sulho makasi,</V>
 			<V>:,: Haudan päällä patsas loisti,</V>
 			<V>Isän maa min pystytti. :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Niinpä nähtiin neidon silloin</V>
 			<V>Patsaan luona polvillaan.</V>
 			<V>:,: Murehtivan aamuin illoin</V>
@@ -157835,12 +157514,12 @@
 			<V>täällä murheen laksossa,</V>
 			<V>:,: Ikävyydess' ollessan'</V>
 			<V>täällä vierahalla maall'. :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Tämän vanhan muurin sisäll'</V>
 			<V>on aika ikävä,</V>
 			<V>:,: Mieleeni juohtuu se iloinen aika</V>
 			<V>ja entinen koti maa. :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Älä sure äitini</V>
 			<V>että mullen kävi näin,</V>
 			<V>:,: Sure niitä kauniita tyttöjä</V>
@@ -157865,17 +157544,17 @@
 			<V>Sillä laivat on rannoilla,</V>
 			<V>:,: Mun täytyypi lähteä sotaan</V>
 			<V>Isän maata varjelemaan. :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Isän maani rakkaus</V>
 			<V>On mun tänne saattanut,</V>
 			<V>:,: Ja se raskas ja kallis vala</V>
 			<V>Jonka olen mä vannonut. :, :</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Miekat siellä seisovat</V>
 			<V>Juuri verellä pirskotetut,</V>
 			<V>:,: Tästä näetten nuoret neitseet</V>
 			<V>Meidän urhoollisuuttamme. :, :</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Luonto verrattu rautahan</V>
 			<V>Sydän kiveä kovempi,</V>
 			<V>:,: Ei pelosta mitäkään tiennyt</V>
@@ -157898,7 +157577,7 @@
 			<CPT>ERO-LAULU</CPT>
 			<V>Hyväst' nyt jääkää kaikk' hyvät ystävät,</V>
 			<V>:,: Minä menen poies ja tulen jälleen tänn'. :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Silloin ma tulen kun maa viheiröitsee,</V>
 			<V>:,: Kukkaset ne kukoistaa ja lehti puussa on. :,:</V>
 			<K>Sävel: ks. mt.</K>
@@ -157921,32 +157600,32 @@
 			<V>Pienen virran rannalla:</V>
 			<V>:,: Kuuli soiton sulhasensa</V>
 			<V>Tuolla vuoren reunalla. :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kanteleinen kajahteli</V>
 			<V>Sulhasensa ilossa;</V>
 			<V>:,: Neidon silmist' tipahteli</V>
 			<V>Wettä kuumaa huolissa. :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Mikä sen niin neidon jätti</V>
 			<V>Ikävässä huolemaan?</V>
 			<V>:,: Ystävänsä hänen petti,</V>
 			<V>Saattoi suruss' kuolemaan. :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Itku silmin neito näki,</V>
 			<V>Kuinka leivo kielevä,</V>
 			<V>:,: Kumppaninsa iloo teki,</V>
 			<V>Onnestansa laulava. :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Silloin suru surmallansa</V>
 			<V>Neidon rintaa trunteli,</V>
 			<V>:,: Kun hän kuuli korvillansa</V>
 			<V>Ystävänsä kanteleen. :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>["]Sulje, virta, kyyneleeni,</V>
 			<V>Sulje, virta, silmäni,</V>
 			<V>:,: Sinä olet ystäväni,</V>
 			<V>Koska hyljäs kultani.["] :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Sinne vaipui virran alle</V>
 			<V>Neitonen se kaunihin;</V>
 			<V>:,: Leivo laulull' surkialle</V>
@@ -157973,32 +157652,32 @@
 			<V>muu kauniimpi katsella,,??</V>
 			<V>:,: Kuin tähdet ja tuo kirkas kuu :,:</V>
 			<V>Ylhäällä taivaalla.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Mun mieleni rientää?? maasta pois</V>
 			<V>koska tutkin taivasta,</V>
 			<V>:, : En enää täällä olla vois :,:</V>
 			<V>Kosk' pääsnen vaivoista.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Mä olen?? täällä kulkeva</V>
 			<V>kuin outo ainakin,</V>
 			<V>:,: Kosk' pysähtyy mun riemuni :,:</V>
 			<V>Ja loppuu vaivani.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Mä olen täällä yksinän'</V>
 			<V>kuin lintu korvessa,</V>
 			<V>:,: Pois on mun ainoa ystävän' :,:</V>
 			<V>Maan mustan mullassa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Hän ol' mun ainoa iloni</V>
 			<V>Tääll' murheen laskossa</V>
 			<V>:,: Waan senkin Herra korjasi :,:</V>
 			<V>Iässä parhaassa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Tuoll' lepää minun kultani,</V>
 			<V>Maan mustan mullassa;</V>
 			<V>:,: Ja ruusut hautaa peittääpi :,:</V>
 			<V>Maatessaan rauhassa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ah!'?? hauta mullen parempi</V>
 			<V>Kuin täällä oloni</V>
 			<V>:,: Ja kuolo vielä parempi :,:</V>
@@ -158020,19 +157699,17 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Merimiehen-laulu</U>
-			</CPT>
+			<CPT><U>Merimiehen-laulu</U></CPT>
 			<V>Matka pitä on minulla aivan</V>
 			<V>Enkä tiedä jos palajan</V>
 			<V>:,: Ystäväni nyt rannallen?? jätän</V>
 			<V>haltuun Jumalan :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Koska myrsky ja rajuilma</V>
 			<V>Nouseepi merellä</V>
 			<V>:,: Niin silloin ma ystäväni muista</V>
 			<V>Joka jäi rannalle. :,:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kuin meren päähän päästään,</V>
 			<V>Laiva takasin käännetään</V>
 			<V>:,: Ja sitten me kotia tulemm'</V>
@@ -158061,19 +157738,19 @@
 			<V>Kun on pitkät mun päiväni</V>
 			<V>Rallalla la rai ai ai</V>
 			<V>Kun on pitkät mun päiväni.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Auringon noustess' aamuisell'</V>
 			<V>Kuin minä unestu&#776;?? heräsin</V>
 			<V>Sydämmen' oli surusta täys'</V>
 			<V>Kun minä kultani hyljäsin</V>
 			<V>Rallalla la rai ai ai</V>
 			<V>Kun minä kultani hyljäsin.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Sinun sini silmäsi</V>
 			<V>sytytti sydämmen' palamaan</V>
 			<V>Sinun kasvos' ihanuus</V>
 			<V>Iäti muistuu mielehen</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Rallalla la rai ai ai</V>
 			<V>Iäti muistuu?? mielehen.</V>
 		</TEXT>
@@ -158090,8 +157767,7 @@
 			<TMP>1917.</TMP>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Tuutulauluja</U> Nurmkesesta??</CPT>
+			<CPT><U>Tuutulauluja</U> Nurmkesesta??</CPT>
 			<V>Tuu tuu tupakki rulla(a).</V>
 			<V>Mistäs tiesit tänne tulla</V>
 			<V>Tiesin tulla tietä myöten</V>
@@ -158300,29 +157976,27 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Karjalan kaipuu</U>
-			</CPT>
+			<CPT><U>Karjalan kaipuu</U></CPT>
 			<V>Kerran Karjalam majoilla</V>
 			<V>Vienan lasten laulun mailla</V>
 			<V>kankahilla kaunehilla</V>
 			<V>Vienan taaton tanhuvilla</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Siinä istuin siinä mietin</V>
 			<V>mihin on kadonut kansa</V>
 			<V>mis on taattojen tarinat</V>
 			<V>itku virren virittäjät</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Mis on miehet, missä vaimot</V>
 			<V>missä impyet ihanat</V>
 			<V>Pojat potrat varreltansa</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Pojat on sortunu sodassa</V>
 			<V>miehet miekan mittelöissä</V>
 			<V>Pois on vaimot, pois on immet</V>
 			<V>viety maille vierahille</V>
 			<V>Juonista julman tyränin</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ei soinu sävel suloinen</V>
 			<V>poissa on Kalevan kannel</V>
 			<V>pois on vaarit valko hapset</V>
@@ -158394,9 +158068,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<V>
-				<O>Tuulu</O>
-			</V>
+			<V><O>Tuulu</O></V>
 			<CPT>Tuutu lauluja Metsäpirtistä</CPT>
 			<V>Tule uniukko meille</V>
 			<V>tuo sie unta tulessasi</V>
@@ -158422,9 +158094,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<O>Tuulu</O>
-			</CPT>
+			<CPT><O>Tuulu</O></CPT>
 			<CPT>Tuutu lauluja Metsäpirtistä</CPT>
 			<V>Tuutimpa tuutimpa tuutimpa lasta</V>
 			<V>tuutimpa lasta tuonelahan</V>
@@ -158533,7 +158203,7 @@
 			<V>kankas kultainen kumisi</V>
 			<V>aisa koivunen kolisi</V>
 			<V>vemhel piukki pihlajainen</V>
-			<V>000</V>
+			<TYHI/>
 			<V>jatkuu??</V>
 		</TEXT>
 	</ITEM>
@@ -158555,8 +158225,7 @@
 			<L>Metsä väen elämää kertoo tämä seuraava.</L>
 			<V>Hiljua hiitet hiiskuttavat pillijänsä</V>
 			<V>piiskuttavat Kun he kupistansa syövät</V>
-			<V>
-				<O>ku</O> tahi kunhe l<O>o</O>ikkii lyövät tapiolan tarhoillaan =e</V>
+			<V><O>ku</O> tahi kunhe l<O>o</O>ikkii lyövät tapiolan tarhoillaan =e</V>
 		</TEXT>
 	</ITEM>
 	<ITEM nro="j16989" k="jr_915" p="skvr_3870" y="1965">
@@ -158874,7 +158543,7 @@
 			<V>kylävägi kuulkua</V>
 			<V>mustua häkkii murhatah</V>
 			<V>paimoi poigua tuomitah</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Turu turu tulgua</V>
 			<V>kyläväki kuulkua</V>
 			<V>mustua häkkii murhatah</V>
@@ -159029,7 +158698,7 @@
 			<CPT>LORU</CPT>
 			<V>Tuatto tuas muamo muas</V>
 			<V>tuatan hattu paitahan piäs.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Tuatto tuas, muamo muas</V>
 			<V>tuatan hattu paltshan piäs</V>
 		</TEXT>
@@ -159118,7 +158787,7 @@
 			<V>Midäpä itket tyttöseni</V>
 			<V>vai sinun appi pahoin pitää?</V>
 			<V>Appi on ku isä omassa koissa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Mutsone metsäs itki</V>
 			<V>vesitiellä vieretteli,</V>
 			<V>kaivotiellä kallisteli</V>
@@ -159128,7 +158797,7 @@
 			<V>vai anoppi pahoin pitää.</V>
 			<V>Anoppi on ku emo omassa koissa</V>
 			<V>Anoppi on ku emo omassa koissa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Muttshone?? metsäs itki</V>
 			<V>vesitiellä vieretteli,</V>
 			<V>kaivotiellä kallisteli,</V>
@@ -159160,7 +158829,7 @@
 			<V>astyub gekeåtå guejaa ntäteb</V>
 			<V>hiekka se helisi helmoille</V>
 			<V>multa se pölisi polville</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Mänin minä siskon luokse</V>
 			<V>sisko se vastaan juoksi</V>
 			<V>kysyn siskolta armastani</V>
@@ -159225,7 +158894,7 @@
 			<V>Omal jallal pollemmo pollemmo</V>
 			<V>a libo tshuurun pollemmo pollemmo.</V>
 			<L>Ei muista kertoja edelleen.</L>
-			<L>huom! tsh = ts&#780;</L>
+			<K>huom! tsh = ts&#780;</K>
 		</TEXT>
 	</ITEM>
 	<ITEM nro="j17010" k="jr_986" p="skvr_4110" y="1936">
@@ -159591,10 +159260,10 @@
 			<V>Omenaine oma lehmä,</V>
 			<V>älä mäne niittuu,</V>
 			<V>äläkä niitu aitaa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Tulee niitu isäntä,</V>
 			<V>ottua kello kaulastas.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Tulee niitu emäntä,</V>
 			<V>lypsiä maijo nännästäs.</V>
 		</TEXT>
@@ -159615,10 +159284,10 @@
 			<CPT>Kehtolaulu</CPT>
 			<V>Muut mänee kirkkoo</V>
 			<V>minä kurja karjaa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Muut kuulee kirko kellot</V>
 			<V>minä kurja karjan kellot.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Muut näkee papin parran</V>
 			<V>minä kurja pukin parran.</V>
 		</TEXT>
@@ -159643,7 +159312,7 @@
 			<V>Nurmi-Tuomas nukkuu,</V>
 			<V>käkikin jo kukkuu</V>
 			<V>Nurmi-Tuomas nukkuu.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Taaton toivo lapsonen,</V>
 			<V>nuku hento hymyillen,</V>
 			<V>äitin kukka pienoo</V>
@@ -159923,10 +159592,8 @@
 			<V>kaheksas karvanekakara,</V>
 			<V>yheksäs yrttitarha,</V>
 			<V>kymmenes kyykärme.</V>
+			<L>Lapsina juoksimme kilpaa joko postin tai aidan yli, tahi uimaan, tai minne tahansa, niin oli selvää että jokainen olisi ollut enkeli. Tätä lorua sitten hoettiin sitämukaan kun "mukula" pääsi järveen tai aidan yli.</L>
 		</TEXT>
-		<REFS>
-#1 Lapsina juoksimme kilpaa joko postin tai aidan yli, tahi uimaan, tai minne tahansa, niin oli selvää että jokainen olisi ollut enkeli. Tätä lorua sitten hoettiin sitämukaan kun "mukula" pääsi järveen tai aidan yli.
-</REFS>
 	</ITEM>
 	<ITEM nro="j17039" k="jr_76" p="skvr_2750" y="1959">
 		<META>
@@ -160029,16 +159696,14 @@
 			<V>suaresta niemee,</V>
 			<V>siello kaksi kalamiestä</V>
 			<V>toine Liisa ja toine äite</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Souvetaa suaree,</V>
 			<V>suaresta niemee,</V>
 			<V>suajaa kaloja,</V>
 			<V>kiiskijä kive alta,</V>
 			<V>ahvenija apajalta.</V>
+			<L>Lasta (noin 1-4 v.) pijetää sillätavalla sylissä että kasvot on vastakkai ja käsistä kii, sitte souvetaa eestakasi ja lorua lujetaa souvu tahissa. Kalamiehistä lapse nimi mainitaa aina ensi.</L>
 		</TEXT>
-		<REFS>
-#1?? Lasta (noin 1-4 v.) pijetää sillätavalla sylissä että kasvot on vastakkai ja käsistä kii, sitte souvetaa eestakasi ja lorua lujetaa souvu tahissa. Kalamiehistä lapse nimi mainitaa aina ensi.
-</REFS>
 	</ITEM>
 	<ITEM nro="j17044" k="jr_76" p="skvr_2750" y="1959">
 		<META>
@@ -160056,10 +159721,8 @@
 			<V>Pappi, lukkar, talonpoika,</V>
 			<V>kuppar, rikas, rakas, köyhä,</V>
 			<V>keppikerjäläine.</V>
+			<L>Näin lapsina luimme toistemme napeista ja omalla kohdallamme pelkäsimme keppikerjäläistä.</L>
 		</TEXT>
-		<REFS>
-#1?? Näin lapsina luimme toistemme napeista ja omalla kohdallamme pelkäsimme keppikerjäläistä.
-</REFS>
 	</ITEM>
 	<ITEM nro="j17045" k="jr_76" p="skvr_2750" y="1959">
 		<META>
@@ -160079,7 +159742,7 @@
 			<V>ylennä alenna hiippatu liippatu,</V>
 			<V>arvaa kennenkä sormepiällä se rällättää.</V>
 			<L>Yks leikkijöistä rupee kumaraa asentoo ja toiset leikkijät pistiävät yhe sormesa häne selekäsä piälle ja joku - - -</L>
-			<L>(kuvaus jatkuu, kts. käsikirj.)</L>
+			<K>(kuvaus jatkuu, kts. käsikirj.)</K>
 		</TEXT>
 	</ITEM>
 	<ITEM nro="j17046" k="jr_76" p="skvr_2750" y="1959">
@@ -160250,12 +159913,12 @@
 			<V>unen poika porstuasta:</V>
 			<V>"Onko lasta kätkyessä,</V>
 			<V>pientä peitetten sisässä."</V>
-			<V>000</V>
+			<TYHI/>
 			<V>&#8212; &#8212;</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Tuuti lullaa lupukka</V>
 			<V>Eikö se lapsi nukukkaa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>???</V>
 		</TEXT>
 	</ITEM>
@@ -160398,11 +160061,11 @@
 			<L>tai</L>
 			<V>2. "Suur-ikäne' suolarae</V>
 			<V>halaki orren halenneessa raossa".</V>
-			<V>000</V>
+			<TYHI/>
 			<V>3. "Pyy istuva kekkas</V>
 			<V>keskelle keski-oksoa</V>
 			<V>kaks saksan naskalia käessä".</V>
-			<V>000</V>
+			<TYHI/>
 			<V>4. "Nikitin, nakitin nauhan peälle,</V>
 			<V>voari istuu aetan peällä.</V>
 			<V>Hakkoo yhtä, hakkoo toesta</V>
@@ -160425,9 +160088,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Lallin kehtolaulu</U>
-			</CPT>
+			<CPT><U>Lallin kehtolaulu</U></CPT>
 			<V>Sitten sinä poeka poeka oisit,</V>
 			<V>jos sä leivän lehtosta toisit,</V>
 			<V>kangaran (= lintu) kanarvikosta,</V>
@@ -160641,9 +160302,9 @@
 			<V>sokeria sekaan heitettiin.</V>
 			<V>Pääskyset vatiin ammensi,</V>
 			<V>hopeiset lusikat laidalle.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>-</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Viis kuus poikalasta kuivan kuusen oksalla.</V>
 			<V>Tul'pa ne kylmät pohjatuulet,</V>
 			<V>viskasi pojat lattiaan.</V>
@@ -160881,7 +160542,7 @@
 		<TEXT>
 			<V>"Lohiliisa limppupiira,</V>
 			<V>Kalakaija makkaramaija."</V>
-			<V>000</V>
+			<TYHI/>
 			<V>"Matti ja Mari</V>
 			<V>on kaunis pari,</V>
 			<V>mutt' Antti ja Aune</V>
@@ -161333,14 +160994,14 @@
 			<V>löysim_minä tämän sormuksen.</V>
 			<V>Älä opeta munua valhesen,</V>
 			<V>sil&#772;ä äi&#815;tini u&#776;m&#772;ärtä&#772; sen.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>&#8212; &#8212;</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Se ilta oli kau&#815;nis i&#815;a ihana,</V>
 			<V>lin&#772;ut kilvas&#772;a lau&#815;leli.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>&#8212; &#8212;</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Aamul&#772;a, koska tiit&#772;ä heräi&#815;si,</V>
 			<V>oli ai&#815;uan u&#776;ksinän,</V>
 			<V>poi&#815;es oli i&#815;o lai&#815;vakin ran&#772;alta,</V>
@@ -161415,7 +161076,7 @@
 			<V>eikä sorassa ammuta,</V>
 			<V>mutta varjele itses meren aalloilta,</V>
 			<V>ettei ne sua upota.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Se laiva oli Saksan korkkipuust.</V>
 			<V>mastot oli kalanluust,</V>
 			<V>ja se istuin oli puhtaasta kullasta,</V>
@@ -161428,18 +161089,16 @@
 			<LOC>
 				<AREA>a</AREA>
 				<PAR>Taivassalo.</PAR>
+				<VIL>Niittula</VIL>
 			</LOC>
 			<COL>Laina Hänninen</COL>
 			<SGN>448.</SGN>
 			<TMP>1913-14.</TMP>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Tapanin laulu</U>
-			</CPT>
+			<CPT><U>Tapanin laulu</U></CPT>
 			<V>"Nouskaa ylös kävelemän,</V>
 			<V>ystaviänn' tervettimän."</V>
-			<K>Taivassalo, Niittula.</K>
 			<V>"Voi tätä vaivaloista matkaa,</V>
 			<V>jonka olemme eteemme ottaneet</V>
 			<V>ei sungan se vaivoja maksa,</V>
@@ -161452,7 +161111,7 @@
 			<V>em_meet_tee näljän tähren tätä,</V>
 			<V>vaan julistamm', vaan julistamm'</V>
 			<V>vanhan Tefaanin muisto.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Tefaanus vanhan aikan</V>
 			<V>Valkian valoll' joulun juhlall'</V>
 			<V>Ol' sangen koviss pai&#815;koi&#815;ss'</V>
@@ -161677,7 +161336,7 @@
 			<V>ia armot&#772;omasti kua&#815;letet&#772;i&#772;n.</V>
 			<V>Kuka tia&#815;&#776;s, kuka tia&#815;&#776;s;</V>
 			<V>ei hän maksanu kans&#772;a&#772;".</V>
-			<L>/epäselvää, v-kirjaimet aivan u-kirjaimien näköisia/</L>
+			<K>/epäselvää, v-kirjaimet aivan u-kirjaimien näköisia/</K>
 		</TEXT>
 	</ITEM>
 	<ITEM nro="j17119" k="skvr_37" p="skvr_540" y="1913">
@@ -161716,9 +161375,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Valakian sanat</U>
-			</CPT>
+			<CPT><U>Valakian sanat</U></CPT>
 			<V>Souveltiinpa, jouveltiinpa,</V>
 			<V>nevan nientä kierreltiin;</V>
 			<V>tarttupa venone kiinni,</V>
@@ -161745,9 +161402,7 @@
 			<TMP>1921.</TMP>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Rauvan synty nevalla</U>
-			</CPT>
+			<CPT><U>Rauvan synty nevalla</U></CPT>
 			<V>Neitoset niityllä istu.</V>
 			<V>Mikä lypsi musta maijo,</V>
 			<V>mikä valutti valakose,</V>
@@ -162195,7 +161850,7 @@
 			<V>mistäs tiesit tänne tulla?</V>
 			<V>Tulin pitkin Turuntietä</V>
 			<V>vaeltelin valta tietä."</V>
-			<V>000</V>
+			<TYHI/>
 			<V>"Tule surma suota myöte</V>
 			<V>telkittele tietä myöte,</V>
 			<V>lyö sie kurikalla kumpastakkii</V>
@@ -162435,9 +162090,7 @@
 		<TEXT>
 			<L>Niin ikään oli ennen seuraava lauleutus eli vatkutus:</L>
 			<V>Mie mään tupaa; tuvas' ei jouk' ketää;</V>
-			<V>
-				<O>mie mään riihee: riihes' ei jouk</O>
-			</V>
+			<V><O>mie mään riihee: riihes' ei jouk</O></V>
 			<V>mie mää saunaa: saunas ei jouk' ketää;</V>
 			<V>mie mää riihee: siellä on ukko ja akka</V>
 			<V>ja kumpikin on humalassa.</V>
@@ -162541,10 +162194,8 @@
 			<V>Elli keitti vellii,</V>
 			<V>omista otrajauhostaa</V>
 			<V>Velli kuatu karsinaa.</V>
-			<V>
-				<O>siitä Elli itkemää</O>,</V>
-			<V>
-				<O>Ellin</O> lapset latkimaa. = siitä</V>
+			<V><O>siitä Elli itkemää</O>,</V>
+			<V><O>Ellin</O> lapset latkimaa. = siitä</V>
 			<V>Elli ihek itkemää.</V>
 		</TEXT>
 	</ITEM>
@@ -162647,7 +162298,7 @@
 			<V>pisti pinon rakoon.</V>
 			<V>Pino sytty palamaan,</V>
 			<V>Jussi juoksi pakoon.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Jussi jurikka ju- - /?/,</V>
 			<V>piä kalikka /???/</V>
 		</TEXT>
@@ -163672,13 +163323,13 @@
 			<V>maalla segä merellä -</V>
 			<V>Vain ei kasva niin kaunista ruusua,</V>
 			<V>oman kullan verdasta.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Jos kuldani kuulis ja tyköni tulis,</V>
 			<V>ilahuttais häi miun mieleni -</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ja linnut ne laulaa ja vedet ne seilaa,</V>
 			<V>vain ei nyt tuuli häilytä -</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Tämän kaunehen virran reunalla??</V>
 			<V>raskas on mun oleskella -.</V>
 		</TEXT>
@@ -163723,13 +163374,14 @@
 		<TEXT>
 			<CPT>NUORIEN LAULUJA:</CPT>
 			<V>Päivän kyytty keriälin,</V>
-			<V>Poikki jaamas#1 ripoitin.</V>
+			<V>Poikki jaamas<REFNR target="#n1">#1</REFNR> ripoitin.</V>
 			<V>Vorotnoi tuattonj,</V>
 			<V>Serkoovoi tiettonj.</V>
 		</TEXT>
 		<REFS>
-#1 = maantiestä.
-</REFS>
+			<REFTXT xml:id="n1">#1 = maantiestä.
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM nro="j17206" k="skvr_38" p="skvr_6285" y="1900">
 		<META>
@@ -163749,12 +163401,13 @@
 		</META>
 		<TEXT>
 			<CPT>NUORIEN LAULUJA:</CPT>
-			<V>Ostan musten perosen -#1</V>
+			<V>Ostan musten perosen -<REFNR target="#n1">#1</REFNR></V>
 			<V>Tule tietto Serone!</V>
 		</TEXT>
 		<REFS>
-#1 = (peretnik) suomeksi esiliina.
-</REFS>
+			<REFTXT xml:id="n1">#1 = (peretnik) suomeksi esiliina.
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM nro="j17207" k="skvr_38" p="skvr_6285" y="1900">
 		<META>
@@ -163777,11 +163430,12 @@
 			<V>Valgeisuar' tules paloli</V>
 			<V>Randases nesrät.</V>
 			<V>Kaunis kuldoi kangahal,</V>
-			<V>Rutshkai#1 suappua jallan al.</V>
+			<V>Rutshkai<REFNR target="#n1">#1</REFNR> suappua jallan al.</V>
 		</TEXT>
 		<REFS>
-#1 = (rutskaja) nariseva, ääntävä.
-</REFS>
+			<REFTXT xml:id="n1">#1 = (rutskaja) nariseva, ääntävä.
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM nro="j17208" k="skvr_38" p="skvr_6285" y="1900">
 		<META>
@@ -163825,15 +163479,18 @@
 		</META>
 		<TEXT>
 			<V>Läkkiä tytöt kanavoil</V>
-			<V>Primiettimäh#1 prihaloi:</V>
-			<V>Savoskoloi smotrakkoi#2,</V>
-			<V>Ljubuskoi prijaateloi.#3</V>
+			<V>Primiettimäh<REFNR target="#n1">#1</REFNR> prihaloi:</V>
+			<V>Savoskoloi smotrakkoi<REFNR target="#n2">#2</REFNR>,</V>
+			<V>Ljubuskoi prijaateloi.<REFNR target="#n3">#3</REFNR></V>
 		</TEXT>
 		<REFS>
-#1 = silmäilemään (nuoria miehiä)
-#2 = tehtaan työnjohtajia
-#3 = rakkaita, hyviä ystäviä
-</REFS>
+			<REFTXT xml:id="n1">#1 = silmäilemään (nuoria miehiä)
+</REFTXT>
+			<REFTXT xml:id="n2">#2 = tehtaan työnjohtajia
+</REFTXT>
+			<REFTXT xml:id="n3">#3 = rakkaita, hyviä ystäviä
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM nro="j17210" k="skvr_38" p="skvr_6285" y="1900">
 		<META>
@@ -163854,14 +163511,15 @@
 		<TEXT>
 			<V>Tuuloo, tuuloo, äijäl tuuloo,</V>
 			<V>konsuko tuuloo, konsuko ei.</V>
-			<V>Vägitukatshusel#1 tuulou:</V>
+			<V>Vägitukatshusel<REFNR target="#n1">#1</REFNR> tuulou:</V>
 			<V>Muaman kodjih tuulou -</V>
 			<V>Taatoi peräsen pideä,</V>
 			<V>Veikki Viinasen vedeä.</V>
 		</TEXT>
 		<REFS>
-#1 = tavallisesti, väki kovasti.
-</REFS>
+			<REFTXT xml:id="n1">#1 = tavallisesti, väki kovasti.
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM nro="j17211" k="skvr_38" p="skvr_6285" y="1900">
 		<META>
@@ -163882,12 +163540,13 @@
 		<TEXT>
 			<V>Ei ole jouduo, ei ole jouduo</V>
 			<V>Vesikorvoi?? kandamah.</V>
-			<V>Laimo#1 jouduo, laimo jouduo</V>
+			<V>Laimo<REFNR target="#n1">#1</REFNR> jouduo, laimo jouduo</V>
 			<V>Tietoil suudu andamah!</V>
 		</TEXT>
 		<REFS>
-#1 = merkinnee: pitää (joutua)
-</REFS>
+			<REFTXT xml:id="n1">#1 = merkinnee: pitää (joutua)
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM nro="j17212" k="skvr_38" p="skvr_6285" y="1900">
 		<META>
@@ -163955,11 +163614,12 @@
 			<V>Minun piädänj kivistäy</V>
 			<V>- en tiijä mindäh -</V>
 			<V>Tietto vierahal rannal</V>
-			<V>- mooshet#1 sendäh -!</V>
+			<V>- mooshet<REFNR target="#n1">#1</REFNR> sendäh -!</V>
 		</TEXT>
 		<REFS>
-#1 = luultavasti; kai, varmaankin.
-</REFS>
+			<REFTXT xml:id="n1">#1 = luultavasti; kai, varmaankin.
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM nro="j17215" k="skvr_38" p="skvr_6285" y="1900">
 		<META>
@@ -163981,11 +163641,12 @@
 			<V>A voi voi kui juotattaa vai</V>
 			<V>suvensammalik on al.</V>
 			<V>Katshokkai vai suven briha</V>
-			<V>mi on suuri sloovana! (sluavane)#1</V>
+			<V>mi on suuri sloovana! (sluavane)<REFNR target="#n1">#1</REFNR></V>
 		</TEXT>
 		<REFS>
-#1 = maineinen.
-</REFS>
+			<REFTXT xml:id="n1">#1 = maineinen.
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM nro="j17216" k="skvr_38" p="skvr_6285" y="1900">
 		<META>
@@ -164026,14 +163687,16 @@
 		</META>
 		<TEXT>
 			<V>Alin, alin, alinaa!</V>
-			<V>E'ule pogostal#1 sildaa -</V>
+			<V>E'ule pogostal<REFNR target="#n1">#1</REFNR> sildaa -</V>
 			<V>Eigä piästä mieron koirat</V>
-			<V>minun tiettou pranimaa!#2</V>
+			<V>minun tiettou pranimaa!<REFNR target="#n2">#2</REFNR></V>
 		</TEXT>
 		<REFS>
-#1 = pitäjälle.
-#2 = tärvelemään, turmelemaan.
-</REFS>
+			<REFTXT xml:id="n1">#1 = pitäjälle.
+</REFTXT>
+			<REFTXT xml:id="n2">#2 = tärvelemään, turmelemaan.
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM nro="j17218" k="skvr_38" p="skvr_6285" y="1900">
 		<META>
@@ -164052,14 +163715,15 @@
 			</INF>
 		</META>
 		<TEXT>
-			<V>Ragahane#1 rannal palo -</V>
+			<V>Ragahane<REFNR target="#n1">#1</REFNR> rannal palo -</V>
 			<V>Sih katshoin kui viidua.</V>
 			<V>Haroilan on prihaset kui</V>
 			<V>tyttölöin ker riiduau.</V>
 		</TEXT>
 		<REFS>
-#1 = ranka.
-</REFS>
+			<REFTXT xml:id="n1">#1 = ranka.
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM nro="j17219" k="skvr_38" p="skvr_6285" y="1900">
 		<META>
@@ -164124,15 +163788,18 @@
 		</META>
 		<TEXT>
 			<V>Panin valgein pouran piäh,</V>
-			<V>Tshiraitshin#1 da maraitshin.#2</V>
-			<V>Kuzuin tiettonj besodah#3,</V>
+			<V>Tshiraitshin<REFNR target="#n1">#1</REFNR> da maraitshin.<REFNR target="#n2">#2</REFNR></V>
+			<V>Kuzuin tiettonj besodah<REFNR target="#n3">#3</REFNR>,</V>
 			<V>Suud' annoin da iär' ajoin.</V>
 		</TEXT>
 		<REFS>
-#1 = pesin, puhdistin.
-#2 = likasin, turmelin.
-#3 = tansseihin, paremmin: illanistuntaan.
-</REFS>
+			<REFTXT xml:id="n1">#1 = pesin, puhdistin.
+</REFTXT>
+			<REFTXT xml:id="n2">#2 = likasin, turmelin.
+</REFTXT>
+			<REFTXT xml:id="n3">#3 = tansseihin, paremmin: illanistuntaan.
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM nro="j17222" k="skvr_38" p="skvr_6285" y="1900">
 		<META>
@@ -164151,12 +163818,13 @@
 			</INF>
 		</META>
 		<TEXT>
-			<V>Taatoi maguau muamoin gostjis#1</V>
+			<V>Taatoi maguau muamoin gostjis<REFNR target="#n1">#1</REFNR></V>
 			<V>Veikoi Annjoin keral istuu -</V>
 		</TEXT>
 		<REFS>
-#1 = kestissä.
-</REFS>
+			<REFTXT xml:id="n1">#1 = kestissä.
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM nro="j17223" k="skvr_38" p="skvr_6285" y="1900">
 		<META>
@@ -164176,16 +163844,20 @@
 		</META>
 		<TEXT>
 			<V>Vuotin, vuotin vuuven päivät -</V>
-			<V>Sudrah#1 mändih vuotandat:</V>
-			<V>Tietoil jengua#2 pakkoin#3,</V>
-			<V>- Ei ole jengua kanfiettah.#4</V>
+			<V>Sudrah<REFNR target="#n1">#1</REFNR> mändih vuotandat:</V>
+			<V>Tietoil jengua<REFNR target="#n2">#2</REFNR> pakkoin<REFNR target="#n3">#3</REFNR>,</V>
+			<V>- Ei ole jengua kanfiettah.<REFNR target="#n4">#4</REFNR></V>
 		</TEXT>
 		<REFS>
-#1 = tyhjään, turhaan.
-#2 = rahaa.
-#3 = pyysin, anoin.
-#4 = konfektiin, makeiseen.
-</REFS>
+			<REFTXT xml:id="n1">#1 = tyhjään, turhaan.
+</REFTXT>
+			<REFTXT xml:id="n2">#2 = rahaa.
+</REFTXT>
+			<REFTXT xml:id="n3">#3 = pyysin, anoin.
+</REFTXT>
+			<REFTXT xml:id="n4">#4 = konfektiin, makeiseen.
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM nro="j17224" k="skvr_38" p="skvr_4140;skvr_6285" y="1900">
 		<META>
@@ -164204,7 +163876,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<K>On loitsun oppinut Tulemajärven Pallahten mieheltä</K>
+			<L>On loitsun oppinut Tulemajärven Pallahten mieheltä</L>
 			<L>siten, että ensin se mies oli hänelle sen lukenut, vaan kun ei ole vielä päähänsä tarttunut, oli se mies puhunut maitoon ja laskenut sen läpi kylynuunista ja juottanut tämän hänelle ja sitte lukenut uudestaan loitsun, jolloin se oli iäksi päivää päähänstä tarttunut.</L>
 			<L>(Puhutaan suoliin):</L>
 			<V>- - -</V>
@@ -164542,7 +164214,7 @@
 			<V>- se taitaa olla saari.</V>
 			<V>Ja viitessä, kuutessä pitäjässä</V>
 			<V>On pojalla oppivaari.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ja hakekoot, hakekoot tän kylän pojat</V>
 			<V>Valokuvan heilastansa</V>
 			<V>Ja ei meijän tarvitte juonitella</V>
@@ -165244,12 +164916,12 @@
 			<V>kaiken joukon kanssa,</V>
 			<V>Kaikesta joukosta katshelmah</V>
 			<V>Omua kullastansa??.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Augua morsein kammarin ovi,</V>
 			<V>Piäsöö sulhanj sisää.</V>
 			<V>Ei siell' ole peljättävää</V>
 			<V>Äitiä eigä isää.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ota siellä omasi</V>
 			<V>ja katsos kaunehembi.</V>
 			<V>Mäne rauhah, mäne rauhah</V>
@@ -165273,23 +164945,28 @@
 			</INF>
 		</META>
 		<TEXT>
-			<V>Tule dushoi#1 besodah#2</V>
+			<V>Tule dushoi<REFNR target="#n1">#1</REFNR> besodah<REFNR target="#n2">#2</REFNR></V>
 			<V>En voi tulla eloisenj!</V>
-			<V>Nygynj miero primiettii#3</V>
-			<V>Primiettii dai pomiettii.#4</V>
-			<V>Meijän rakkaus riitshittih#5</V>
+			<V>Nygynj miero primiettii<REFNR target="#n3">#3</REFNR></V>
+			<V>Primiettii dai pomiettii.<REFNR target="#n4">#4</REFNR></V>
+			<V>Meijän rakkaus riitshittih<REFNR target="#n5">#5</REFNR></V>
 			<V>Hekkastaala biilastaala</V>
 			<V>Hekka HOma?? tshoma</V>
 			<V>Hittolan hieruo</V>
 			<V>Jorolan vieruo.</V>
 		</TEXT>
 		<REFS>
-#1 = ystävä
-#2 = iltaa istumaan, illatsuihin
-#3 = tarkastaa, huomaa
-#4 = tarkastaa sekä panettelee, selän takaa puhuu pahaa
-#5 = revittiin, purettiin
-</REFS>
+			<REFTXT xml:id="n1">#1 = ystävä
+</REFTXT>
+			<REFTXT xml:id="n2">#2 = iltaa istumaan, illatsuihin
+</REFTXT>
+			<REFTXT xml:id="n3">#3 = tarkastaa, huomaa
+</REFTXT>
+			<REFTXT xml:id="n4">#4 = tarkastaa sekä panettelee, selän takaa puhuu pahaa
+</REFTXT>
+			<REFTXT xml:id="n5">#5 = revittiin, purettiin
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM nro="j17269" k="skvr_38" p="skvr_4090" y="1900">
 		<META>
@@ -165360,22 +165037,22 @@
 			<V>Lahella lagialla -</V>
 			<V>Poijista maistoi likkoin rakkaus</V>
 			<V>Aivan magialla -</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Jos minä merellä selvä oisin,</V>
 			<V>Laskisin laivan luodoo -</V>
 			<V>Mänisin mualla katshomaha</V>
 			<V>kullan kaunista muodoo -</V>
-			<V>000</V>
+			<TYHI/>
 			<V>En minä kuldani sinuo pidäs</V>
 			<V>kauvan katshomatta -</V>
 			<V>Vaikka vartti portin pällä</V>
 			<V>Aivan lakkaamatta -</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Laivan mashtot heilutti se</V>
 			<V>Angara pohjostuuli -</V>
 			<V>Pojat ne rannalla itkevä,</V>
 			<V>Likkoin hukkuvan luuli -</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ei ole minulla kammaria,</V>
 			<V>Ei vanhaa eigä uutta -</V>
 			<V>Liekkös kuldani varannuh</V>
@@ -165403,27 +165080,27 @@
 			<V>tulit ikäviksi -</V>
 			<V>Surun tähten sydämmeni</V>
 			<V>tuli kipeäksi.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>On se minun kullalleni</V>
 			<V>kammari ja pieni -</V>
 			<V>Saisingo minä kulgiettavaks</V>
 			<V>suurenbaisen tieni!</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kerda on jo kihlottu ja</V>
 			<V>kahitshi kuuloitettu -</V>
 			<V>Pois pidää lähtie ja</V>
 			<V>hyvä kylä jättiä -</V>
-			<V>000</V>
+			<TYHI/>
 			<V>En minä sure</V>
 			<V>kylän kauneutta -</V>
 			<V>Vain minä suren lähtiessäni</V>
 			<V>poigien rakkavutta.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Likat poigie etshivä ja</V>
 			<V>pojat meidä löysi -</V>
 			<V>Näin se minä händä,</V>
 			<V>hevosta se köysi -</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Venone soudaa lyyröittääbi ja</V>
 			<V>uibi konnun randah - -</V>
 		</TEXT>
@@ -165449,27 +165126,27 @@
 			<V>olit ennen lämmin?</V>
 			<V>- Taijat muida rakastaa ja</V>
 			<V>minuo pilkal pidiä.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Onpa se tässä kylässä</V>
 			<V>talo kuni linna -</V>
 			<V>Tuosta minä kullan otan,</V>
 			<V>vaikka maksaa hinnan -</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Oisko se tällä välillä</V>
 			<V>pikun pikkune mägi -</V>
 			<V>Ei se meidä erottais</V>
 			<V>kogo kylän vägi.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Hitto se huolii entisistä,</V>
 			<V>nyt se laulan näiss -</V>
 			<V>Nyt se laulan, nyt se laulan</V>
 			<V>tämän likan häissä.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Likka se istuu ikkunalla</V>
 			<V>kuin on kaunis kukka -</V>
 			<V>Poiga viruu ikkunan alla</V>
 			<V>kuin on vanha hukka -</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Likka se on kaunis kuin</V>
 			<V>valittu nauris,</V>
 			<V>poiga se on lysti kuin</V>
@@ -165589,12 +165266,12 @@
 			<V>Vain ei romuluita,</V>
 			<V>Romuluut kun lapsen suabi,</V>
 			<V>ne tuloo avosuita.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kolmen markan kyyvillä ajan,</V>
 			<V>vaikk' ei kannattaisi,</V>
 			<V>tuommosen hentun itselle otan,</V>
 			<V>jot' ei annettaisi.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vaan kaks' oli meidä veljeksijä</V>
 			<V>yhten mamman lasta -</V>
 			<V>Vain toisen raukan täydyi mennä</V>
@@ -165622,17 +165299,17 @@
 			<V>kesällä huavan lehti -</V>
 			<V>Poigien silmä tarkittaa kui</V>
 			<V>talvella taivoitähti.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Likkasilla ja lindusilla on</V>
 			<V>liikkujaiset mielet -</V>
 			<V>Poigasilla ja kukkosilla on</V>
 			<V>yhtenlaiset mielet.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Tuoll' on poijalla taskukellot</V>
 			<V>ne käyvää vilskutellaa -</V>
 			<V>Saisitto tytöt sellaset poijat</V>
 			<V>mit tanssia hilskutellaa!</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Tanssin minä taputtelen,</V>
 			<V>tuputtelen vielä -</V>
 			<V>Ei ole pitkät pillun karvat,</V>
@@ -165660,12 +165337,12 @@
 			<V>Välistä andoi vettä -</V>
 			<V>- kui sinä menet kylähä ni</V>
 			<V>jott' ei tytöt petä-!</V>
-			<V>000</V>
+			<TYHI/>
 			<V>- Mond' oli mutkia matkan tiellä</V>
 			<V>mielellä haigialla -</V>
 			<V>- Vasta se tundu tän pojan keral</V>
 			<V>elos vaigialla -</V>
-			<V>000</V>
+			<TYHI/>
 			<V>- Milläbä lienen, kullaba lienen</V>
 			<V>kullan suututtanut?</V>
 			<V>Monie kerdoi vieres viruin</V>
@@ -165815,7 +165492,7 @@
 			<V>El' ole arga piiga parga,</V>
 			<V>Katsho pojal silmih -</V>
 			<V>Juomarit ta tuhlarit</V>
-			<V>ta laishkat vietoishiekat#1</V>
+			<V>ta laishkat vietoishiekat<REFNR target="#n1">#1</REFNR></V>
 			<V>Surun sinul tuottaa</V>
 			<V>kun katshot likkaa:</V>
 			<V>hamehes on halla - -</V>
@@ -165824,8 +165501,9 @@
 			<V>piiga kun vaimoks muuttui -</V>
 		</TEXT>
 		<REFS>
-#1 viettelijät
-</REFS>
+			<REFTXT xml:id="n1">#1 viettelijät
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM nro="j17283" k="skvr_38" p="skvr_4150" y="1900">
 		<META>
@@ -165926,7 +165604,7 @@
 			<V>mäne mualla saunah,</V>
 			<V>siell' on likat huogehembat,</V>
 			<V>jotta virttä laulaa -</V>
-			<V>siel on vuasat#1 valmehembat -</V>
+			<V>siel on vuasat<REFNR target="#n1">#1</REFNR> valmehembat -</V>
 			<V>kutshu kuldua juomah!</V>
 			<V>Kulda ju'ou jurjettaa,</V>
 			<V>korijasti käybi -</V>
@@ -165934,8 +165612,9 @@
 			<V>- Itshe tahtos nauraa -</V>
 		</TEXT>
 		<REFS>
-#1 "vuasat" = kaljat, sahdit.
-</REFS>
+			<REFTXT xml:id="n1">#1 "vuasat" = kaljat, sahdit.
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM nro="j17285" k="skvr_38" p="skvr_4150" y="1900">
 		<META>
@@ -165956,20 +165635,22 @@
 		<TEXT>
 			<V>Kaikil poijil kaupan viinua,</V>
 			<V>joskin pajuvettä -</V>
-			<V>Oman kullan kormeniss#1 on</V>
+			<V>Oman kullan kormeniss<REFNR target="#n1">#1</REFNR> on</V>
 			<V>mehiläsen mettä.</V>
 			<V>Sadaa lunda, sadaa vettä,</V>
 			<V>sadaa piikoiragehutta -</V>
-			<V>Suojärven rundjit#2, randjit#2</V>
+			<V>Suojärven rundjit<REFNR target="#n2">#2</REFNR>, randjit<REFNR target="#n2">#2</REFNR></V>
 			<V>juuvaa järvivettä -</V>
 			<V>Hoi sinä pikki Illikköne,</V>
 			<V>pane käsi kaulaa -</V>
 			<V>jos miero nauraa -!</V>
 		</TEXT>
 		<REFS>
-#1 taskussa.
-#2 herjanimiä
-</REFS>
+			<REFTXT xml:id="n1">#1 taskussa.
+</REFTXT>
+			<REFTXT xml:id="n2">#2 herjanimiä
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM nro="j17286" k="skvr_38" p="skvr_4150" y="1900">
 		<META>
@@ -165992,12 +165673,12 @@
 			<V>ja akkusen all' on jogi -</V>
 			<V>Niill' on kahtella nuorukkaisella</V>
 			<V>veret on yhteh sobi -</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Männää tuonne järven randah,</V>
 			<V>kahtoo kalasia -</V>
 			<V>Ombas siellä poiga parga</V>
 			<V>likkoin palasia!</V>
-			<L>[vrt. 620??]</L>
+			<K>[vrt. 620??]</K>
 		</TEXT>
 	</ITEM>
 	<ITEM nro="j17287" k="skvr_38" p="skvr_4150" y="1900">
@@ -166021,20 +165702,20 @@
 			<V>kuusi, viisitoista -</V>
 			<V>Ei nyt enää tässä kyläs</V>
 			<V>elämäni loista. [vrt. 626??]</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Elämäni loistais??, vain</V>
 			<V>kuolemaan pidää,</V>
 			<V>kuin se minun kuldani</V>
 			<V>muida mieles pidää -</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Hoi on, hoi on hoikka likka,</V>
 			<V>hoikkanj olet hendo -</V>
 			<V>Minä taijan täs kylässä</V>
 			<V>niin kuin lindu lehdoh.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Pois pidiä lähtie ja</V>
 			<V>hyvä kylä jättiä - -</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ei ole suru lähtiessä</V>
 			<V>kylän kaunehutta,</V>
 			<V>suru miul on matkan kaiken</V>
@@ -166117,7 +165798,7 @@
 			<V>Kaikill' on kadajakelkat,</V>
 			<V>Jolla virsiä vedääbi,</V>
 			<V>Sanoma kuletteloobi -.</V>
-			<V>Kiitshkeiss#1 on kiivahie -</V>
+			<V>Kiitshkeiss<REFNR target="#n1">#1</REFNR> on kiivahie -</V>
 			<V>- Selälleh on selvittäte.</V>
 			<V>Yks' on tyttö, tyhmä tyttö,</V>
 			<V>Korbisellällä?? kodona -</V>
@@ -166129,7 +165810,7 @@
 			<V>Missä miehet mellehtiibi,</V>
 			<V>Kylän urohot ummehtiibi?</V>
 			<V>Löydää miehet on majoilla -</V>
-			<V>Maja on tehty kuusen koskusis#2 -</V>
+			<V>Maja on tehty kuusen koskusis<REFNR target="#n2">#2</REFNR> -</V>
 			<V>Kihlo heidä kirkkahilla,</V>
 			<V>Kirkkahilla rengahilla -</V>
 			<V>Tehtih kauppoja kujassa,</V>
@@ -166138,9 +165819,11 @@
 			<V>Eigä annettu amenda.</V>
 		</TEXT>
 		<REFS>
-#1 kiistoissa
-#2 kojista, kuorista, kuorilevyistä
-</REFS>
+			<REFTXT xml:id="n1">#1 kiistoissa
+</REFTXT>
+			<REFTXT xml:id="n2">#2 kojista, kuorista, kuorilevyistä
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM nro="j17291" k="skvr_38" p="skvr_4140" y="1900">
 		<META>
@@ -166252,9 +165935,9 @@
 			<V>luposin?? likan naija</V>
 			<V>Sinä likka uskolline</V>
 			<V>(?) asuit uuven paijan???</V>
-			<V>000</V>
+			<TYHI/>
 			<V>&#8212; &#8212;</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Likkoin?? silmät lipettää??</V>
 			<V>kuin kesällä?? huavan lehtet</V>
 			<V>poikien silmät tarkittaa</V>
@@ -166428,11 +166111,12 @@
 			<V>Palavale pane vain!</V>
 			<V>- Pois pilvi päivän eis,</V>
 			<V>anna päivän paistaa,</V>
-			<V>Pois jupku#1 pipin eis,</V>
+			<V>Pois jupku<REFNR target="#n1">#1</REFNR> pipin eis,</V>
 			<V>anna nuppu nuustaa.</V>
-			<V>000</V>
-			<V>l&#772; hameet.</V>
 		</TEXT>
+		<REFS>
+		<REFTXT xml:id="n1">#1 hameet.</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM nro="j17301" k="skvr_38" p="skvr_4180" y="1903">
 		<META>
@@ -166498,13 +166182,11 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Sammon ryöstöstä</U>
-			</CPT>
+			<CPT><U>Sammon ryöstöstä</U></CPT>
 			<V>Pohjolasta kun lähettiin pakoon</V>
 			<V>Sammon saatua, niin käski</V>
 			<V>Väinämöinen Lemminkäistä:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Nouse purjepuun nenähän,</V>
 			<V>joko näkyy Pohajan akka!</V>
 			<L>Lemminkäinen sanoi:</L>
@@ -166567,9 +166249,9 @@
 			<V>toinen ??</V>
 			<V>???</V>
 			<V>j.n.e.???</V>
-			<V>000</V>
+			<TYHI/>
 			<V>[KUVA: [käsialalla]]</V>
-			<V>000</V>
+			<TYHI/>
 			<V>kun se ääni kansan suusta</V>
 			<V>öin ja päivin kaikuu.</V>
 		</TEXT>
@@ -166680,10 +166362,8 @@
 			<TMP>1903.</TMP>
 		</META>
 		<TEXT>
-			<L>
-				<U>Tiedonanto</U>
-			</L>
-			<K>Europaeuksen Kuikasta saaduksi otaksuttu Luojan laivaretki -kappale ("Luona täss' on Luojan lampi -") on todella Kuikasta saatu ja on sen laulanut Miitrei Issakainen, kuollut jo noin 13 vuotta sitte. Näin vakuuttivat tämän kirjoittajalle mainitun Issakaisen sisar Matroi Issakainen ja tämän poika Iivana Ratinen. Tämän kirjoittajan käydessä mainitussa kylässä sekä yllä merkittynä vuonna että kaksi vuotta aikaisemmin kesällä 1900, ei kukaan osannut mainittua kappaletta laulaa.</K>
+			<L><U>Tiedonanto</U></L>
+			<L>Europaeuksen Kuikasta saaduksi otaksuttu Luojan laivaretki -kappale ("Luona täss' on Luojan lampi -") on todella Kuikasta saatu ja on sen laulanut Miitrei Issakainen, kuollut jo noin 13 vuotta sitte. Näin vakuuttivat tämän kirjoittajalle mainitun Issakaisen sisar Matroi Issakainen ja tämän poika Iivana Ratinen. Tämän kirjoittajan käydessä mainitussa kylässä sekä yllä merkittynä vuonna että kaksi vuotta aikaisemmin kesällä 1900, ei kukaan osannut mainittua kappaletta laulaa.</L>
 		</TEXT>
 	</ITEM>
 	<ITEM nro="j17308" k="skvr_38" p="skvr_4180" y="1903">
@@ -166925,7 +166605,7 @@
 			<V>Aa aukkaa jänisnetässä laukkaa.</V>
 			<V>Janiksellä?? kellot on kaulassa.</V>
 			<V>Heikillä Nuttu Naulassa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>&#8212; &#8212;</V>
 			<L>laulaissa voi laulaa millenimelle tahansa</L>
 		</TEXT>
@@ -167065,9 +166745,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Koiran saa mieltymään</U>
-			</CPT>
+			<CPT><U>Koiran saa mieltymään</U></CPT>
 			<L>Jos ostaa Vanhan koiran On silloin kuin koiran uusi omistaja hikeety. On otettava leipäpalanen ja siihen Hangata hikeään, suottää se koiralla ja sanoa.</L>
 			<V>Seuraa isantaas.</V>
 		</TEXT>
@@ -167338,7 +167016,7 @@
 		<TEXT>
 			<V>Aa aa aholle, aholla on kauniita kukkii</V>
 			<V>niitäpä?? se pikku Olli. huviksensa nukkii.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Aa hussalla heijaa, huomena pitään peij,</V>
 			<V>jaat. kakkaroita paistetaan,</V>
 			<V>harakan siivillä voijetaan.</V>
@@ -167359,7 +167037,7 @@
 			<V>Aa aa. aukkaa. jänis metässä laukkaa</V>
 			<V>jäniksellä kellot on kaulassa.</V>
 			<V>Ollilla, nuttu on naulassa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Aa tuuti lasta, tule surma vastaan</V>
 			<V>lyök kurikalla kumpastaak.</V>
 			<V>likkoo sekä lasta.</V>
@@ -167533,9 +167211,7 @@
 			<TMP>1890.</TMP>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Miten tyttö "taikoo" miehen ihteesä</U>
-			</CPT>
+			<CPT><U>Miten tyttö "taikoo" miehen ihteesä</U></CPT>
 			<L>Tyttö ottaa ohrasie jauhoja, joista teköö taikinan, menöö kotaan ja istuu aljastettuna kota-lieteen, siinä paljaijen reisiinsä peällä leipoo kakun taikinasta, ja leipoissaan laulaa:</L>
 			<V>"Nouse nokka, seiso seipo</V>
 			<V>Tämän likan lihalle,</V>
@@ -167585,9 +167261,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Leikkiin käydessä:</U>
-			</CPT>
+			<CPT><U>Leikkiin käydessä:</U></CPT>
 			<L>(kirjoitettu ääntämisen mukaisuutta tavotellen)</L>
 			<V>A| polve| pjärve| munk</V>
 			<V>siise| dunk|</V>
@@ -167622,9 +167296,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Leikkiin käydessä:</U>
-			</CPT>
+			<CPT><U>Leikkiin käydessä:</U></CPT>
 			<V>Tuoksun| taaksun|</V>
 			<V>tuomen| teikaa|</V>
 			<V>viikaa| vaakaa|</V>
@@ -167656,9 +167328,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Leikkiin käydessä:</U>
-			</CPT>
+			<CPT><U>Leikkiin käydessä:</U></CPT>
 			<V>Eve|rikin| estin| kestin|</V>
 			<V>arvaa| kennen| sormen| pääll.|</V>
 		</TEXT>
@@ -167723,8 +167393,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Leikkiin</U> käydessä:</CPT>
+			<CPT><U>Leikkiin</U> käydessä:</CPT>
 			<V>menin| kerran| kaupun|kii</V>
 			<V>kuulin| siellä| kellon| lyövän|</V>
 			<V>mitä se| silloin| löi?|</V>
@@ -167748,8 +167417,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<L>
-				<U>Leikkiin</U> käydessä luetaan sormille:</L>
+			<L><U>Leikkiin</U> käydessä luetaan sormille:</L>
 			<V>niilaa| naalaa| järven| jäällä|</V>
 			<V>arvaas| kennen| sormen| päällä|</V>
 		</TEXT>
@@ -167770,16 +167438,16 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Leikkiin</U> käydessä:</CPT>
+			<CPT><U>Leikkiin</U> käydessä:</CPT>
 			<V>Osikon| tosikon| moikon| loikon|</V>
 			<V>simmonen| maakari|</V>
-			<V>#1 kultani| kaakari|</V>
+			<V><REFNR target="#n1">#1</REFNR> kultani| kaakari|</V>
 			<V>tiir| liir| lippar| pippar| <U>pois</U>.|</V>
 		</TEXT>
 		<REFS>
-#1 lie vaihtoehtoisesti myös kultanen
-</REFS>
+			<REFTXT xml:id="n1">#1 lie vaihtoehtoisesti myös kultanen
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM nro="j17349" k="skvr_247" p="skvr_2510" y="1907">
 		<META>
@@ -167797,15 +167465,15 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Leikkiin</U> käydessä:</CPT>
-			<V>muija| istu| aitan#1| päällä|</V>
+			<CPT><U>Leikkiin</U> käydessä:</CPT>
+			<V>muija| istu| aitan<REFNR target="#n1">#1</REFNR>| päällä|</V>
 			<V>kerii| lankaa| lastan| päälle|</V>
 			<V>huutaa| että| viisi|kymment| on| <U>pois</U>|</V>
 		</TEXT>
 		<REFS>
-#1 en tiedä varmaan onko se aidan vai aitan.
-</REFS>
+			<REFTXT xml:id="n1">#1 en tiedä varmaan onko se aidan vai aitan.
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM nro="j17350" k="skvr_247" p="skvr_2510" y="1907">
 		<META>
@@ -167823,8 +167491,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Leikkiin</U> käydessä:</CPT>
+			<CPT><U>Leikkiin</U> käydessä:</CPT>
 			<V>anni| panni| palle|roinen|</V>
 			<V>puolen| markan| pulle|roinen|</V>
 			<V>lypsi| lehmän| taitto<O>i</O>| sarven|</V>
@@ -167847,8 +167514,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Leikkiin</U> käydessä:</CPT>
+			<CPT><U>Leikkiin</U> käydessä:</CPT>
 			<V>yks| tynnyr| ruutia| täys|</V>
 			<V>ampui| miehen| oikean| silmän| <U>pois</U>.</V>
 		</TEXT>
@@ -167869,14 +167535,11 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Leikkiin käydessä:</U>
-			</CPT>
+			<CPT><U>Leikkiin käydessä:</U></CPT>
 			<V>Ellet| tahro| tiiliä| kantaa|</V>
 			<V>nii_me| maate|kylmää(n)| aittaa(n)|</V>
 			<V>leipää| säkkii(n)| puuroo| kuppii(n)|</V>
-			<V>mutt ei| ole| lusik|<U>kaa</U>
-			</V>
+			<V>mutt ei| ole| lusik|<U>kaa</U></V>
 		</TEXT>
 	</ITEM>
 	<ITEM nro="j17353" k="skvr_247" p="skvr_2510" y="1907">
@@ -167895,8 +167558,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Leikkiin käydessä</U>:</CPT>
+			<CPT><U>Leikkiin käydessä</U>:</CPT>
 			<V>lekamia| lakamia| rettui| ruttui|</V>
 			<V>maa| vaa| saa|</V>
 			<V>sarvet| korvet| takkura|</V>
@@ -167943,9 +167605,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Leikkiin käydessä:</U>
-			</CPT>
+			<CPT><U>Leikkiin käydessä:</U></CPT>
 			<V>Yttenä| kattena|</V>
 			<V>korotin(n)a| vonnaa|</V>
 			<V>tillin| tiepukka|</V>
@@ -167992,8 +167652,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Leikkiin</U> käydessä tai <U>sormille</U> luettaissa</CPT>
+			<CPT><U>Leikkiin</U> käydessä tai <U>sormille</U> luettaissa</CPT>
 			<V>annun| tannun| taavit|soo|</V>
 			<V>vili vili| vippaa| vili vili| koo|</V>
 			<V>santtan| syyri| santtan| syyri|</V>
@@ -168019,9 +167678,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Leikkiin</U> käydessä luetaan <U>sormille:</U>
-			</CPT>
+			<CPT><U>Leikkiin</U> käydessä luetaan <U>sormille:</U></CPT>
 			<V>Osikin| tosikin| oukun| loukun|</V>
 			<V>nilles| nippuu| nalles| nappuu|</V>
 			<V>hoi| hoi| houkun| loukun|</V>
@@ -168046,9 +167703,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Pellavan kylvö</U>
-			</CPT>
+			<CPT><U>Pellavan kylvö</U></CPT>
 			<L>Kun pellavia kylvettiin, niin joka nakkooksella piti sanoa:</L>
 			<V>"kappa ja leiviskä,</V>
 			<V>nakkoos ja naula!"</V>
@@ -168071,9 +167726,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Nauriin kylvö</U>
-			</CPT>
+			<CPT><U>Nauriin kylvö</U></CPT>
 			<L>Silloin kun nauriita suusta kylvettiin sanottiin joka sylköökselle:</L>
 			<V>"töllii ja möllii!"</V>
 		</TEXT>
@@ -168262,9 +167915,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Leikki luku</U>
-			</CPT>
+			<CPT><U>Leikki luku</U></CPT>
 			<V>Eppel peppel piirum paarum</V>
 			<V>puust rokken satton vaaron</V>
 		</TEXT>
@@ -168304,9 +167955,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Lasten luku leikissä</U>
-			</CPT>
+			<CPT><U>Lasten luku leikissä</U></CPT>
 			<V>Yk| tok| toro| moro|</V>
 			<V>viu| vau| vina| tina|</V>
 			<V>tillin| tup.|</V>
@@ -168328,9 +167977,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Leikkiluku</U>
-			</CPT>
+			<CPT><U>Leikkiluku</U></CPT>
 			<V>Enten| tenten| teilikka| menten|</V>
 			<V>hissin| tissin| vääveli| vissin|</V>
 			<V>oravia| käpäliä| keijaa| meijaa|</V>
@@ -168352,9 +167999,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Leikkiluku</U>
-			</CPT>
+			<CPT><U>Leikkiluku</U></CPT>
 			<V>Syylä jäälä sylttä käärä</V>
 			<V>arvaas kennen kätten päälä</V>
 			<V>tiller tippu nippu nappu</V>
@@ -168377,9 +168022,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Leikkilukuja</U>
-			</CPT>
+			<CPT><U>Leikkilukuja</U></CPT>
 			<V>Annikka| rannikka| roo</V>
 			<V>vipla| vapla| voo|</V>
 			<V>askul|tam|</V>
@@ -168404,9 +168047,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Leikkiluku</U>
-			</CPT>
+			<CPT><U>Leikkiluku</U></CPT>
 			<V>Kävin| kerran| kaupun|kissa</V>
 			<V>kuulin| siellä| kellon| lyövän|</V>
 			<V>mitä se| sillo| löi.|</V>
@@ -168430,8 +168071,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Leikkiluku</U> (ruots.)</CPT>
+			<CPT><U>Leikkiluku</U> (ruots.)</CPT>
 			<V>Eppel peppel pirum parum buff</V>
 			<V>kråkan satt på hallonqvist</V>
 			<V>hon sa' ett hon sa' tu'</V>
@@ -168568,9 +168208,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Ampiaisen luku</U>
-			</CPT>
+			<CPT><U>Ampiaisen luku</U></CPT>
 			<V>phyi???</V>
 			<V>Älä, ammu ampiainen</V>
 			<V>älä pistä piikkiäs</V>
@@ -168595,9 +168233,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Venähtäminen</U>
-			</CPT>
+			<CPT><U>Venähtäminen</U></CPT>
 			<L>Venähtäminen on se kun käsi uupuu yhtämittaisessa työssä ja menee hervottomaksi. Se parannetaan siten, että otetaan 9 syltä villalankaa, johon tehdään 9 solmua ja tämä lanka kääritään ranteen eli kalvosimen ympäri. Parantaja ottaa sitten veitsen ja viiltelee ranteen ympärille. Parannettava kysyy:</L>
 			<V>Mitä leikkaat?</V>
 			<L>Parantaja vastaa:</L>
@@ -168621,9 +168257,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Vanhan kansan ajanlasku</U>
-			</CPT>
+			<CPT><U>Vanhan kansan ajanlasku</U></CPT>
 			<V>Tuomaast 6 (viikkoa) Kynttilään</V>
 			<V>Kynttiläst 3 Mattiin</V>
 			<V>Matist 4 Maariaan</V>
@@ -168651,17 +168285,17 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Sormien</U> nimet</CPT>
-			<V>peukalo = tuma_tukki#1</V>
+			<CPT><U>Sormien</U> nimet</CPT>
+			<V>peukalo = tuma_tukki<REFNR target="#n1">#1</REFNR></V>
 			<V>etusormi = likipukki</V>
 			<V>keskis. = laamanni</V>
 			<V>nimetön s. = aaprahammi</V>
 			<V>pikku s. = vikkelviliit</V>
 		</TEXT>
 		<REFS>
-#1 johtuu ehkä siitä, että peukalon ensi niveltä käytetään tuuman mittana. (vrt. tuumastukki = mittakeppi (tuumissa?))
-</REFS>
+			<REFTXT xml:id="n1">#1 johtuu ehkä siitä, että peukalon ensi niveltä käytetään tuuman mittana. (vrt. tuumastukki = mittakeppi (tuumissa?))
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM nro="j17385" k="skvr_247" p="skvr_2800" y="1907">
 		<META>
@@ -168678,18 +168312,19 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Sormien</U> nimet</CPT>
-			<V>peukalo = täin tappar#1</V>
-			<V>etusormi = voin lappar#2</V>
+			<CPT><U>Sormien</U> nimet</CPT>
+			<V>peukalo = täin tappar<REFNR target="#n1">#1</REFNR></V>
+			<V>etusormi = voin lappar<REFNR target="#n2">#2</REFNR></V>
 			<V>keski s. == pitkä Pietar</V>
 			<V>nimetön s. = nimetöis Matti</V>
 			<V>pikku s. = vähä Hanssi</V>
 		</TEXT>
 		<REFS>
-#1 täi, kirppu tapetaan peukalon kynnellä jotakin kovaa esim. pöytää vasten
-#2 etusormella lapset silittävät leivälle voin, joka on annettu yhdessä möhkäleessä
-</REFS>
+			<REFTXT xml:id="n1">#1 täi, kirppu tapetaan peukalon kynnellä jotakin kovaa esim. pöytää vasten
+</REFTXT>
+			<REFTXT xml:id="n2">#2 etusormella lapset silittävät leivälle voin, joka on annettu yhdessä möhkäleessä
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM nro="j17386" k="skvr_247" p="skvr_3400" y="1907">
 		<META>
@@ -168777,9 +168412,7 @@
 			<TMP>1938.</TMP>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Maidon katoaminen</U>
-			</CPT>
+			<CPT><U>Maidon katoaminen</U></CPT>
 			<L>Jos lehmästä katosi maito, niin lypsettiin vasemman jalan kenkään samasta lehmästä maitoa vetäen 3:sti joka nännästä. Se henkilö, joka tätä lääkitsemistä toimitti, kiersi lehmän ympäri kolme kertaa myötäpäivään. Sen jälkeen hän kaatoi maidon lehmän vasempaan korvaan ja hän sanoi samalla:</L>
 			<V>"maitosi enetköön niinkuin kuukin."</V>
 		</TEXT>
@@ -168796,9 +168429,7 @@
 			<TMP>1938.</TMP>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Kanataika</U>
-			</CPT>
+			<CPT><U>Kanataika</U></CPT>
 			<L>Kanat saatiin munimaan yhteiseen pesään, kun joulupäivänä annetaan niiden syödä yhteisestä kupista ohria navetan lattialla olevan olkikuvon päällä. Ja samalla sanotaan:</L>
 			<V>"munikaa yhteen pesään"</V>
 		</TEXT>
@@ -168819,9 +168450,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Pitkä talvi</U>
-			</CPT>
+			<CPT><U>Pitkä talvi</U></CPT>
 			<V>1. Pitkä talvi tapoinensa</V>
 			<V>kolkk kylmä kulkenut</V>
 			<V>kumma kävin kuulemassa</V>
@@ -168983,9 +168612,7 @@
 			</INF>
 		</META>
 		<TEXT>
-			<CPT>
-				<U>Vanhat katonneet</U>
-			</CPT>
+			<CPT><U>Vanhat katonneet</U></CPT>
 			<V>Vanhat ovat katonneet</V>
 			<V>uuteks kaikki tulleheet</V>
 			<V>Näin raikuu raamatusta</V>
@@ -169076,9 +168703,7 @@
 		<TEXT>
 			<V>Aa lulla pienen kullan</V>
 			<V>valkovillan viinapullo,</V>
-			<V>
-				<U>kuk</U>
-				<O>a</O> siellä puuron keitti, = (kukko); = o</V>
+			<V><U>kuk</U><O>a</O> siellä puuron keitti, = (kukko); = o</V>
 			<V>kana kasteen lämmitti,</V>
 			<V>pikku lintu voin sulatti,</V>
 			<V>harakka lusikat pesi,</V>
@@ -169599,14 +169224,12 @@
 			<V>Paraere Riikka,</V>
 			<V>eilesten, keilesten</V>
 			<V>keikamus piikka</V>
-			<V>
-				<O>Hak Hakkittula Tiirra</O> /Hakhittula Tiina?/???</V>
+			<V><O>Hak Hakkittula Tiirra</O> /Hakhittula Tiina?/???</V>
 			<V>Heimura Viia</V>
 			<V>ja Heitupa piikka</V>
 			<V>Hakhittula Tiina</V>
 			<V>ja Veinakala lampu</V>
-			<V>ja tumpu potmatia potina, <O>tantti-</O>
-			</V>
+			<V>ja tumpu potmatia potina, <O>tantti-</O></V>
 			<V>tanttina Elina eli kule alina /?/,</V>
 			<V>eilesten, keilesten</V>
 			<V>keikamus piikka,</V>
@@ -169652,7 +169275,7 @@
 			<V>vipel, voopel voos,</V>
 			<V>askun tuut, mimp, pamp,</V>
 			<V>neek nuut /?/ part, pois!</V>
-			<V>000</V>
+			<TYHI/>
 			<V>(askun tampimpam,</V>
 			<V>vetu ketu,</V>
 			<V>silken, salken,</V>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE KOKONAISUUS SYSTEM "skvr7.dtd">
 <KOKONAISUUS>
 	<ITEM k="jr_337" p="skvr_4180" y="1936" nro="j34679">
 		<META>
@@ -39,7 +40,7 @@
 			<V>orava voita ottamaan,</V>
 			<V>mäne hyvä kirnu</V>
 			<V>kymmeneen minuuttin voiks /?/.</V>
-			<L>/Käsikirjoituksessa epäselvä käsiala./</L>
+			<K>/Käsikirjoituksessa epäselvä käsiala./</K>
 		</TEXT>
 	</ITEM>
 	<ITEM k="skvr_1144" p="skvr_5110" y="1913" nro="j34681">
@@ -365,12 +366,12 @@
 			<V>ja kolkutti kehdon laitaa.</V>
 			<V>Sinustapa se hurjempi vesa</V>
 			<V>maailmaan tulla taitaa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Aa vissa lullaa vakussa</V>
 			<V>se kitisee ja parkuu.</V>
 			<V>Siinä on kahden nuorukaisen</V>
 			<V>rakkauden alku.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Aa vissa lullaa lauleli mamma</V>
 			<V>ja aa vissa lullaa lasta.</V>
 			<V>Pane pieni silmä kiinni ja</V>
@@ -5884,7 +5885,7 @@
 			<V>Kokko lenti koilisesta,</V>
 			<V>havulintu halki maista,</V>
 			<V>liiteleks&#780;e, loateleks&#780;i,</V>
-			<V>liitih kokko linnan loalla#1</V>
+			<V>liitih kokko linnan loalla<REFNR target="#n1">#1</REFNR></V>
 			<V>seinällä s&#780;elenäs&#780;ulka,</V>
 			<V>kat's&#780;ou kassapäistä kaunehinta,</V>
 			<V>tukkapäistä turpehinta,</V>
@@ -5929,8 +5930,10 @@
 			<V>käpäs käjen annantah,</V>
 			<V>mäne myyen myötyrin&#769;.</V>
 		</TEXT>
-		<REFS>#1 ikkunalla
-</REFS>
+		<REFS>
+			<REFTXT xml:id="n1">#1 ikkunalla
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM k="skvr_1364" p="skvr_6030" y="1936" nro="j34905">
 		<META>
@@ -8201,7 +8204,7 @@
 			<V>ounakko miun kajo nuorukkuizie kananimyzie kavotellah,</V>
 			<V>ta kajon puuvutellah,</V>
 			<V>ei sitä kajon ylizie kananimyzie,</V>
-			<V>kajon puuvutellah,#1</V>
+			<V>kajon puuvutellah,<REFNR target="#n1">#1</REFNR></V>
 			<V>ennenkun näillä kirjalippahaizilla,</V>
 			<V>ennenkun kiirehittä ilmasitta kiiraan kuolella,</V>
 			<V>ennen olis pitän savoin rauvoin rauta ---</V>
@@ -8259,7 +8262,7 @@
 			<V>eikä vihyttäjäin&#769;i lapsi viisaan luojitella,</V>
 			<V>vierona voartuain&#769; viisaan luojitteliutui,</V>
 			<V>vieron voartuain&#769;.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Terve pirtti täysin&#769;e,</V>
 			<V>ulkon&#769;i urohin&#769;e,</V>
 			<V>mistä tiesit teltamoin&#769;</V>
@@ -8271,8 +8274,10 @@
 			<V>neijon kultasen kojista,</V>
 			<V>---</V>
 		</TEXT>
-		<REFS>#1 ennen olis pitän ympäri kaunehista ilmasista kajon huolella,
-</REFS>
+		<REFS>
+			<REFTXT xml:id="n1">#1 ennen olis pitän ympäri kaunehista ilmasista kajon huolella,
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM k="jr_143" p="skvr_2960" y="1964" nro="j34975">
 		<META>
@@ -8988,7 +8993,7 @@
 			<SGN>KT 354:55.</SGN>
 			<TMP>1962.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -9258,7 +9263,7 @@
 			<CPT>Tuutilaulu (tietysti)</CPT>
 			<V>Tullaa! tullaa!</V>
 			<V>Kyllä toimeen tullaan!</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Sinä talvella tukkitöissä,</V>
 			<V>minä rukkia rullaan.</V>
 		</TEXT>
@@ -10183,137 +10188,137 @@
 			<V>on hurja hän rakastamaan.</V>
 			<V>Vaan pian hän vanhan unohtaapi,</V>
 			<V>kun uuden hän nähdä saa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ja uutta hän hurjemmasti</V>
 			<V>kuin entistä jumaloi,</V>
 			<V>ja uuden huulilta kaiken</V>
 			<V>sen puhtaamman turmella voi.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Monen pojan toiveet hän petti,</V>
 			<V>kun lemmen leikiks' hän löi.</V>
 			<V>oni itkee, kun ilta joutuu,</V>
 			<V>ja kyyneleet kuivaa yö.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ei pettänyt tahallansa,</V>
 			<V>hän oli tenhotar,</V>
 			<V>hän uutta lempeä halaa,</V>
 			<V>niin vanha jäädä saa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Monasti karvas kyynel</V>
 			<V>poskellen vierähtää,</V>
 			<V>kun pettämänsä pojan</V>
 			<V>tuskan hän nähdä saa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kerrankin pettämälleen</V>
 			<V>pojalle lausui näin:</V>
 			<V>"Oi, anteeksi anna mulle,</V>
 			<V>että tehnyt olen sulle näin.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Minäkin tuskaa tunnen,</V>
 			<V>kun en voi rakastaa,</V>
 			<V>vaan lempi häilyväinen</V>
 			<V>rintaani riuduttaa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kätensä lumivalkeen</V>
 			<V>pojan kaulalle kietoi hän</V>
 			<V>ja kuumilla suuteloilla</V>
 			<V>haihduttaa ikävää.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Hänen olentonsa oli niin hellä,</V>
 			<V>ja kaikki hän lumosi,</V>
 			<V>ei vihannut häntä kukaan,</V>
 			<V>vaan kaikki rakasti.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vaan pojasta kun erosi,</V>
 			<V>niin aamu sarasti.</V>
 			<V>Silloinpa tuskissansa</V>
 			<V>neitonen rukoili:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>"Oi, Jumalani taivaan</V>
 			<V>mua raukkaa sääli sä.</V>
 			<V>Ja rakkaus polttavainen</V>
 			<V>rintaani lähetä.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Oi, miksi en minä kun muutkin</V>
 			<V>voi oikein rakastaa,</V>
 			<V>ja olla uskollinen</V>
 			<V>vain yhden rinnalla.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ja neidon rukoukset</V>
 			<V>tulivat kuulluksi</V>
 			<V>Yks' kuutamoinen ilta</V>
 			<V>neidon rakkaus heräsi.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Tuo kuuluisa viuluniekka</V>
 			<V>ja säveltaituri</V>
 			<V>se rakkauden tulen</V>
 			<V>neidon rintahan sytytti.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vaan soittaja niinkuin hänkin,</V>
 			<V>hän oli hurmaaja.</V>
 			<V>Hän neidon hurmas ja jätti,</V>
 			<V>se oli tapansa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kuu hopeoitaan kun luopi,</V>
 			<V>puol' yö oli käsissä,</V>
 			<V>kun neito kiireisesti</V>
 			<V>riens' armastaan tapaamaan,</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kun armaansa kotiin hän saapui,</V>
 			<V>niin tuskissaan saneli:</V>
 			<V>"Olen kuullut, toista sä lemmit,</V>
 			<V>sano, onko totta se."</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Hän pilkannaurahduksen</V>
 			<V>vaan osaksensa saa,</V>
 			<V>ja saatanan soitto uljas</V>
 			<V>oli vastauksensa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>"Oi Ruud! Oi, armas Ruud!</V>
 			<V>oi etkö tiedä sä.</V>
 			<V>sinun lastasi rintani alla</V>
 			<V>parhaillaan kannan mä.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Nyt taituri nousi tuoliltaan,</V>
 			<V>heitti viulun luotansa.</V>
 			<V>Ja viulun kielet tuskasta</V>
 			<V>heikosti parahtivat.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>"Oletko tyhmä, Sonja",</V>
 			<V>hän kiukuissaan saneli.</V>
 			<V>"Miksi antauduit sä mulle,</V>
 			<V>on oma vikasi.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>On viuluni minut opettanut</V>
 			<V>tyttöjä pettämään.</V>
 			<V>On viuluni minut opettanut</V>
 			<V>lapseni jättämään.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Siis poistu luotani Sonja,</V>
 			<V>tahdon olla yksin mä.</V>
 			<V>En kyyneleitäsi mä kestä,</V>
 			<V>niitä ei ole itselläin!"</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Hän viulun ylös nosti,</V>
 			<V>sen painoi rintaansa.</V>
 			<V>"Tätä minä yksin lemmin",</V>
 			<V>lausui hän pilkallaan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>"Siis hyvästi jääös Sonja,</V>
 			<V>nyt täytyy lähteä sun."</V>
 			<V>Ja hellällä kosketuksellaan</V>
 			<V>sai viulunsa väräjämään.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Mutt' kalman kalpeana</V>
 			<V>kuunteli neito tuo,</V>
 			<V>kun soittaja pilkallansa</V>
 			<V>luontoaan kuvaili.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Saatanan uljas soitto,</V>
 			<V>joka ennen viehätti,</V>
 			<V>Hänen kummaan järkeen saattoi,</V>
 			<V>ja järkensä pimitti.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Rajusti huudahtaapi:</V>
 			<V>"Sinä kurja petturi,</V>
 			<V>jollet sä lemmi mua,</V>
@@ -10342,73 +10347,73 @@
 			<V>Nurmikolla kävelivät</V>
 			<V>Vilhelmi ja Hilma,</V>
 			<V>joista nyt aijon laulella.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vilhelm' oli talon poika,</V>
 			<V>Hilma palkkapiika.</V>
 			<V>Sempätähden heidän oli</V>
 			<V>vielä hupaisinta.</V>
 			<V>Kesällä kukkaisten seassa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Linnut lauloi lehtoloissa</V>
 			<V>ilo virsiänsä,</V>
 			<V>aurinko loi maamme puoleen</V>
 			<V>viime säteitänsä,</V>
 			<V>Nuoret ne ihaili toisiansa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Miksi itket Hilmaseni,</V>
 			<V>miksi kyynel vuotaa?</V>
 			<V>Etkö sinä uskalla</V>
 			<V>mun sanoihini luottaa.</V>
 			<V>Sinua en unhoita milloinkaan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Sinä olet ylhäisempi</V>
 			<V>vanhempas ovat rikkaat.</V>
 			<V>Sempä tähden halveksii ne</V>
 			<V>köyhää palkka piikaa.</V>
 			<V>Sempä tähden täytyy meidän erota.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ei nyt auta viekkaat kielet,</V>
 			<V>kielto vanhempain.</V>
 			<V>Sinä olet Hilmaseni</V>
 			<V>paras tavarani.</V>
 			<V>Sinua en unhoita milloinkaan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vanhemmat kun kuulla saivat</V>
 			<V>pojan aikehista,</V>
 			<V>keinoja he keksivät</V>
 			<V>sangen kavalia,</V>
 			<V>eroittaa rakkahat toisistaan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vilhelmi nyt kielten kautta</V>
 			<V>tuli luuloon siihen,</V>
 			<V>että Hilma häntä kohtaan</V>
 			<V>oli petollinen.</V>
 			<V>Rakkaus vaihtuikin vihaksi.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Tuumiskeli murhatyötä</V>
 			<V>sekä eräs ilta</V>
 			<V>kävellessään Hilman kanssa</V>
 			<V>pitkin kosken siltaa,</V>
 			<V>lausueli synkeitä sanoja.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Otti Hilmaa vyötäisiltä</V>
 			<V>kanssaan kosken kuohuun.</V>
 			<V>Tämä teki katsojille</V>
 			<V>valtavankin kauhun.</V>
 			<V>Hilma kuin liinainen vaaleni.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Keinoja he keksivät</V>
 			<V>ja onni auttoi vielä,</V>
 			<V>saatiin heidät henkihin</V>
 			<V>ja sekä elon tielle,</V>
 			<V>Sulhanen morsiammineen.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Nytpä kelpas vanhemmille</V>
 			<V>miniäksi Hilma.</V>
 			<V>Kertoellen kavaluuttaan</V>
 			<V>minijällee ilmi</V>
 			<V>kuinka he aikoivat eroittaa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Nyt he onkin yhdistetty</V>
 			<V>loistavilla häillä.</V>
 			<V>Kertomuksen päätän minä</V>
@@ -10626,8 +10631,8 @@
 			<V>koivuisen tapin takana.</V>
 			<V>Oluen tippa, viinan tilkka,</V>
 			<V>eikä sillä määrää ollutkaan".</V>
-			<K>(Orimattilan historia.)</K>
-			<K>Martti Eloranta.</K>
+			<L>(Orimattilan historia.)</L>
+			<L>Martti Eloranta.</L>
 		</TEXT>
 	</ITEM>
 	<ITEM k="jr_838" p="skvr_2800" y="1951" nro="j35065">
@@ -11067,7 +11072,7 @@
 			<V>kymmeneheen kylähään,</V>
 			<V>Siinnä oiva saalis hauki</V>
 			<V>Järven emo.</V>
-			<K>JEREMIAS HOKKANEN.</K>
+			<L>JEREMIAS HOKKANEN.</L>
 		</TEXT>
 	</ITEM>
 	<ITEM k="jr_838" p="skvr_2900" y="1935" nro="j35082">
@@ -11545,9 +11550,9 @@
 			<V>Viinapullo pannustais'</V>
 			<V>Munane kanasestais'</V>
 			<V>Luppaat' sie! Luppaat' sie!</V>
-			<V>000</V>
+			<TYHI/>
 			<V>-</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Virpoi' varpoi' vitsat' teill'</V>
 			<V>kanatko munniit munat meill'.</V>
 		</TEXT>
@@ -11999,7 +12004,7 @@
 			<SGN>428.</SGN>
 			<TMP>1951.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -12009,49 +12014,49 @@
 			<V>tuol' keskisuomessa.</V>
 			<V>Ja Vilho oli pojan nimi,</V>
 			<V>vilkas luonteeltaan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ja Vilho nautti opetusta</V>
 			<V>kansakoulussa,</V>
 			<V>ja tuli siellä tuntemaan</V>
 			<V>tuon Bertan ihanan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ja yhdessä he leikkivät,</V>
 			<V>kun kouluun kulkivat,</V>
 			<V>ja tiedän että sydämmens</V>
 			<V>yhtehen sulkivat.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Päivä paistoi kirkkahasti</V>
 			<V>metsän siimekseen,</V>
 			<V>kun uskolliset lupasivat</V>
 			<V>olla toisilleen.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vilho jatkoi opetusta yliopistos',</V>
 			<V>mutta Bertta kävi sillä aikaa</V>
 			<V>työssä tehtaassa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ja Vilho palas koulusta</V>
 			<V>suurena herrana,</V>
 			<V>mutta ei hän enää tuntenut</V>
 			<V>rakasta Berttaansa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Halpa oli tehtaan tyttö</V>
 			<V>hänen mielestään,</V>
 			<V>kun arvonimi lääkärin</V>
 			<V>oli' hänellä itsellään.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Aamulla levis kaupungissa</V>
 			<V>tieto kamala, ett' yhden naisen</V>
 			<V>ruumis oli löydetty koskesta.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ja Vilho oli käskyn saanut</V>
 			<V>ruumiin avata ett' oisko voinut</V>
 			<V>itsemurhan syytä havaita.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vilho tunsi Bertan kasvot</V>
 			<V>ja hän vaaleni.</V>
 			<V>Hän muisti kuinka sydämmens'</V>
 			<V>Bertalle lupasi.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Nyt lopetan mä lauluni,</V>
 			<V>mutt' vielä muistutan,</V>
 			<V>etteivät Suomen nuorukaiset</V>
@@ -12069,7 +12074,7 @@
 			<SGN>429.</SGN>
 			<TMP>1951.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -12079,42 +12084,42 @@
 			<V>Mä miksi kasvoin kauno loistossaan.</V>
 			<V>Oi miksi rakastuin mä ruhtinaaseen.</V>
 			<V>Oi miks' en rakastunut köyhään vaan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Sä olit mun, sä poika ihanainen,</V>
 			<V>ei meitä mikään toisistamme eroita.</V>
 			<V>Ei mikään muu kuin kuolo kolkko vainen,</V>
 			<V>mi kaikki toisistamme eroitaa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Sä olit mun, kun ensi kerran</V>
 			<V>näin päivän valon, lapsi kyynelten,</V>
 			<V>ja vaikka käsky silloin oli Herran.</V>
 			<V>Mun lupas sanoa morsiamekseen.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Älä lähde pois, en jää mä tänne yksin,</V>
 			<V>sillä viaton olen yksin kärsimään.</V>
 			<V>On Luoja taivaan sulle kostavainen,</V>
 			<V>kun palajat ja mun on käynyt näin.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Mä olin tyttö onnellinen silloin,</V>
 			<V>kun olin morsian Kustaa Adolfin,</V>
 			<V>Kun Määlarjärven rantoja mä sousin,</V>
 			<V>Oi Määlar järvi kätke minut pois.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kukaan ei tiedä kuinka sydäntäni särkee</V>
 			<V>Kukaan ei tiedä ketä rakastan,</V>
 			<V>kun aina muistan tumman kiiltotukan</V>
 			<V>ja aina muistan silmät siniset.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Minun suruni ei ole sinun syytäsi,</V>
 			<V>Sydämmein täytää lempi rakkaus.</V>
 			<V>Näin köyhänä en tohdi sua pyytää,</V>
 			<V>Suo kuitenkin mulle hellä vastaus.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ei sittenkään viel' täydellinen ollut,</V>
 			<V>vaan enkeliks' kun kerran muututaan.</V>
 			<V>Ei sittenkään viel' tähtein tuolla puolen,</V>
 			<V>voi sydämmeni tuskaa lievittää.</V>
-			<K>Loimaa 1950.</K>
+			<L>Loimaa 1950.</L>
 		</TEXT>
 	</ITEM>
 	<ITEM k="jr_838" p="skvr_2560" y="1927" nro="j35119">
@@ -12177,7 +12182,7 @@
 			<V>Entten, tentten, teelikka, mentten,</V>
 			<V>hissun, tissun, vaapula, vissun.</V>
 			<V>Eelink, leelink, klop. j.n.e.</V>
-			<K>Janakkala 1927.</K>
+			<L>Janakkala 1927.</L>
 		</TEXT>
 	</ITEM>
 	<ITEM k="jr_838" p="skvr_2560" y="1927" nro="j35122">
@@ -12228,7 +12233,7 @@
 			<CPT>Leikkejä</CPT>
 			<V>Naapurin iso sokerirotta luki aina</V>
 			<V>yhdeksän, 1,2,3,4,5,6,7,8,9. (j.n.e.)</V>
-			<K>Janakkala 1927.</K>
+			<L>Janakkala 1927.</L>
 		</TEXT>
 	</ITEM>
 	<ITEM k="jr_838" p="skvr_2560" y="1927" nro="j35124">
@@ -12251,7 +12256,7 @@
 			<V>onko ne pullat ruunii.</V>
 			<V>Kun ei ole ruunii,</V>
 			<V>viskeli pitkin uunii.</V>
-			<K>Janakkala 1927.</K>
+			<L>Janakkala 1927.</L>
 		</TEXT>
 	</ITEM>
 	<ITEM k="jr_838" p="skvr_2280" y="1922" nro="j35125">
@@ -12490,7 +12495,7 @@
 			<V>Opetusta sivistystä,</V>
 			<V>Aika kyl on kylvänynnä,</V>
 			<V>kerroksihin joka luokan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>II Niinpä onkin nyky aika,</V>
 			<V>Etistyksen aikakautta,</V>
 			<V>paljo parempi entistä,</V>
@@ -12502,7 +12507,7 @@
 			<V>Kun vaan oisi opin ottajata,</V>
 			<V>Kansassa kasvavassa,</V>
 			<V>nousevassa nuorisossa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>III Toista oli ennen ajat,</V>
 			<V>Niinä aikoina asiat,</V>
 			<V>Muistan vielä aivan selvään,</V>
@@ -12515,7 +12520,7 @@
 			<V>tulkaa nyt jo poijes lapset,</V>
 			<V>Kun jo ompi iltapäivä</V>
 			<V>tulee pian iltakin,</V>
-			<V>000</V>
+			<TYHI/>
 			<V>IV Kiertokouluthan ne oli,</V>
 			<V>ensimäistä kouluja,</V>
 			<V>Siin oli koko koulupenkki meitä,</V>
@@ -12523,7 +12528,7 @@
 			<V>Mitä isä iitä neuvoi,</V>
 			<V>Mitä äitimme opetti,</V>
 			<V>Ollen oppimattomia,</V>
-			<V>000</V>
+			<TYHI/>
 			<V>V Ei ne ennen koulut olleet,</V>
 			<V>Kotiseutun saapuvilla,</V>
 			<V>Kun on aikana nykyään,</V>
@@ -12533,7 +12538,7 @@
 			<V>Talonpojan poikasillen,</V>
 			<V>Olipa vielä varojenkin vähyytehen,</V>
 			<V>Aina estehenä eellä.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>VI Ettei käynnyt köyhempie,</V>
 			<V>Olla oppihuonehissa,</V>
 			<V>Opetusta ottamassa,</V>
@@ -12541,7 +12546,7 @@
 			<V>Vaik on halu hyvä mulla,</V>
 			<V>Opista osattomaksi,</V>
 			<V>Kokematta mit auttais koulu.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>VII Kun en kouluista kokeita,</V>
 			<V>Opin teiltä ollenkana,</V>
 			<V>ole saanut osakseni,</V>
@@ -12550,7 +12555,7 @@
 			<V>Esimerkit niistä nähnyt,</V>
 			<V>Mikä hedelmä on hyvällä,</V>
 			<V>Minkä paikan paha saapi.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>VIII Tekin nuoret nousevaiset,</V>
 			<V>Kansalaiset kaikki tyyni</V>
 			<V>Joillen on jo nykyinen aika,</V>
@@ -12613,7 +12618,7 @@
 			<V>I Viellä meillä viisarina,</V>
 			<V>Ompi opettajat oppinehet,</V>
 			<V>Agronoomit antamassa,</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Monenlaista neuvojansa,</V>
 			<V>Luennoita lausannoita</V>
 			<V>opin aavalta alalta,</V>
@@ -12624,7 +12629,7 @@
 			<V>työt ja tulot tuottaviksi,</V>
 			<V>Kannattavak kaikki toimet,</V>
 			<V>Kaikin puolin huokeammak,</V>
-			<V>000</V>
+			<TYHI/>
 			<V>II Tästä saattas sanoa</V>
 			<V>meistä pellon poikasista,</V>
 			<V>Ettei meillä liekkään enään,</V>
@@ -12639,7 +12644,7 @@
 			<V>Opit otettu vartehen,</V>
 			<V>Miten saatas maamme</V>
 			<V>enemmän elättäväksi.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>III Ei elätä meitä pännä,</V>
 			<V>Jos ei ole aurasta apua,</V>
 			<V>Sanon teille pellon miehet,</V>
@@ -12654,7 +12659,7 @@
 			<V>Kynämiehen rinnalla</V>
 			<V>ompi meidän pojat</V>
 			<V>ja työmme arvotonta.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>IV Eihän maailmassa mahti,</V>
 			<V>kauvan pystyssä pysyiskään,</V>
 			<V>Jos ei maata muokattaisi,</V>
@@ -12669,7 +12674,7 @@
 			<V>voimistua kunnostua,</V>
 			<V>itsenäisesti elämään ja</V>
 			<V>kasvamaan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>V Sanon muutaman sanasen,</V>
 			<V>tässä aikani kuluksi,</V>
 			<V>Sinä taitava talon isäntä,</V>
@@ -12682,7 +12687,7 @@
 			<V>Sikä tarkkuutta tavassa,</V>
 			<V>Sitä paljon kaivatahan,</V>
 			<V>kaikin puolin koitellahan,</V>
-			<V>000</V>
+			<TYHI/>
 			<V>VI Siis on työlle toimellemme,</V>
 			<V>Arvo aina annettava,</V>
 			<V>Kun on aina tarpeellista,</V>
@@ -12696,7 +12701,7 @@
 			<V>Kallis kauhtana verasta,</V>
 			<V>Kaunis lakki sametista</V>
 			<V>kaunii kintahat kätessä.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>VII Vielä sanon nuoremmille,</V>
 			<V>Kansallemme kasvavallen,</V>
 			<V>Kun oon kyllä kehunnunna,</V>
@@ -12709,7 +12714,7 @@
 			<V>Aivan täyten toten työllä,</V>
 			<V>Eip ole nukahtamahan</V>
 			<V>joutanunna vast kun yöllä.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>VIII Elkäät nuoret etempätä,</V>
 			<V>Etsikö maita kultaisia,</V>
 			<V>Elkäät menkö kulta veitsellä,</V>
@@ -12723,7 +12728,7 @@
 			<V>Paljon siemenen kylvöä ja sijoa,</V>
 			<V>Ennen kuin on korvet kaikki</V>
 			<V>meiltä kaatetut kumohon.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>IX Kannot kaikki väännettyinä,</V>
 			<V>Rovioihin kasattuina,</V>
 			<V>kaikki koottu pellon tieltä,</V>
@@ -12737,7 +12742,7 @@
 			<V>Pohjan kansan korpimailla</V>
 			<V>mailla soitten rämehitten,</V>
 			<V>sekä pienten lammikoitten.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>X Sanon muutaman sanasen</V>
 			<V>kyntäjille kylväjille,</V>
 			<V>Että teette tehtävänne</V>
@@ -12752,7 +12757,7 @@
 			<V>Hän antaa sataa pellolle</V>
 			<V>ja siitä vilja kullalle</V>
 			<V>myös koituu suuri runsaus.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>XI Paljon onpi parannusta,</V>
 			<V>Taloutellista tukea,</V>
 			<V>Opin ohjeita monia,</V>
@@ -12767,7 +12772,7 @@
 			<V>Rallattavat rautavaunut.</V>
 			<V>Kovin kiireellä kululla,</V>
 			<V>Pitkin suomea sujuvat.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>XII Mitähän tästä kaikesta,</V>
 			<V>Ukot entiset eläjät,</V>
 			<V>Sanoisivat jos ne tulis</V>
@@ -13957,7 +13962,7 @@
 			<V>koirakintasta, karvakallokasta,</V>
 			<V>hevoskampaa, sijan lappeeta,</V>
 			<V>rai rilluta, rai rai.</V>
-			<K>9.11. 1935. Olen 19 vuotias.</K>
+			<L>9.11. 1935. Olen 19 vuotias.</L>
 		</TEXT>
 	</ITEM>
 	<ITEM k="jr_838" p="skvr_5040" y="1951" nro="j35186">
@@ -13979,7 +13984,7 @@
 			<V>Sini-kivi, niku naku,</V>
 			<V>viu vau, vaksis kova</V>
 			<V>riija ruka vingota voo.</V>
-			<K>9.11. 1935. Olen 19 vuotias.</K>
+			<L>9.11. 1935. Olen 19 vuotias.</L>
 		</TEXT>
 	</ITEM>
 	<ITEM k="jr_838" p="skvr_5040" y="1951" nro="j35187">
@@ -14256,15 +14261,15 @@
 			<V>Taitavainen talonmies</V>
 			<V>Kunniallinen kaikes' ties</V>
 			<V>Poikaans opettamaan</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Sanoi Olli, usko se</V>
 			<V>ettei tämä talonen</V>
 			<V>meitä elättäne</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Pellosta niitystä karjastas</V>
 			<V>Ja irtonaisesta/omastas/ maastas/</V>
 			<V>Pidä visu vaari</V>
-			<V>000</V>
+			<TYHI/>
 			<V>---</V>
 			<V>---</V>
 			<V>Jyvillä täytä laari.</V>
@@ -14306,90 +14311,90 @@
 			<CPT>Aleksi ja Emuli</CPT>
 			<V>Oli sotapoika sorja ja neito ihana,</V>
 			<V>he istuivat illan tullen lähtehen reunalla.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Huokaus siinä sotilaan rinnasta kohosi</V>
 			<V>Hän morsiantaan syleili ja sanoin kuiskasi.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Mun täytyy sotaan lähteä mun rakas</V>
 			<V>kultani sinusta kauas eritä kentiesi iäksi.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Jää hyvästi nyt rakkaani tällä kerralla</V>
 			<V>mä tulen taasen luoksesi kun palaan sodasta.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Sä rikkaamman voit valita sun kosijaksesi</V>
 			<V>jos aikas' tulee pitkäksi ja minä halvaksi.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vaan katso niinkuin olenkin ma köyhä soturi.</V>
 			<V>Vaan rakkautta sykkivä ompi mun rintani.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vääryyttä sinä juttelet oi rakas Aleksi.</V>
 			<V>Mä pysyn uskollisena sinulle iäti.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ja tässä vannon valani lähtehen reunalla</V>
 			<V>että oma Emulisi olen iäti oleva.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Hän lähti rauha rinnassa sotahan ratsastain,</V>
 			<V>ja vannoi vielä valalla sodassa</V>
 			<V>kultuaan ilolla muistavansa jos</V>
 			<V>kuolemasta varjelee hänet vaan Jumala.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kultansa muisto vahvisti voimiaan sodassa,</V>
 			<V>hän soti urhoollisesti ja kaatui jalona.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Liki vuoden perästä hän jäikin kentällen</V>
 			<V>iäksi muistelemahan Emuli neitiä.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Mutta rikas herra pohatta arvoltaan parooni.</V>
 			<V>Hän Emulia riiasi itseensä taivutti.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kielellään sujuvalla kullalla hopeella</V>
 			<V>Emulin heikon sydämen hän saikin taipumaan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Pappi jo oli vihinnyt Emulin ja paronin</V>
 			<V>ja kaikki vieraat toivoneet onnea heille siin.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ilo ja valistus loisti kaikkien silmistä</V>
 			<V>siksi kun rikas herkuilla täytti nyt pöytänsä.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Viiniä kulta sarvesta pöydässä juotihin</V>
 			<V>Herkkuja paki parhaita yhä vaan tuotihin.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kello kun kaksitoista löi niin kaikki hämmästyi.</V>
 			<V>Kun pulska nuori soturi hääsaliin ilmestyi.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Hän vähän aikaa tuimasti väkeä silmäili,</V>
 			<V>katseensa loi hän isäntään ja häntä läheni.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Hän käski vieraan päästänsä pois ottaa hattuaan</V>
 			<V>ja itseänsä ravita seurassa vierahain.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Hän heitti hatun päästänsä, mutta voi ihmettä</V>
 			<V>hänellä kallo kuollehen olikin päänänsä</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Nyt heti tunsi Emuli Aleksin omakseen</V>
 			<V>ja pyörtyneenä paikalla laattiaan kaatuipi.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Nyt haamu tarttui Emuliin ja vei sen mukanaan.</V>
 			<V>Kun hetken aikaa muistutti entisestä valastaan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Maan alle, sitten vaipuivat haamu ja Emuli,</V>
 			<V>itkien ja parkuen haäjoukko katseli.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Parooni kohta suruissaan kuoli myös linnassaan,</V>
 			<V>kun haamu Emulinsa vei elossa tuonelaan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Hän neljä kertaa vuodessa nähtihin linnassa</V>
 			<V>pahojen kanssa kollaavan pääkallot maljoina.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Valitus laulu kuultihin myös öisin linnasta.</V>
 			<V>Emulin henki valitti petosta sulhonsa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Jolle hän oli petturi vaik' oli vannonut.</V>
 			<V>Ja sydämensä yksinään hänelle luvannut.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Siis älkää neidot armahat pettäkö poikia.</V>
 			<V>Ja turhanpäiten vannoko valoja turhia.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Samaten pojat katsokaa mi kelpaa iäksi.</V>
 			<V>Ei ole nimeä huonompaa kun nimi petturin.</V>
 		</TEXT>
@@ -14679,7 +14684,7 @@
 			<V>Nuutti nukku nuhjukiisa</V>
 			<V>vaipu vaater_rääsyihiisä --</V>
 			<V>---</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Orik kuarsku kuanohoosa</V>
 			<V>tamma päähäsä päristi. --</V>
 			<V>---</V>
@@ -14831,51 +14836,51 @@
 			<V>keski Suomessa.</V>
 			<V>Sen pojan nimi Vilho oli</V>
 			<V>ja vilkas luonteeltaan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vilho kävi opetusta</V>
 			<V>kansakoulussa</V>
 			<V>ja siellä tuli tuntemaan</V>
 			<V>sen Berthan ihanan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Niin koulusta he kotia</V>
 			<V>ain yhtessä he kulkivat,</V>
 			<V>ja sydämensä yhtehen</V>
 			<V>he varmasti sulkivat.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vilho jatkoi opetustaan</V>
 			<V>yli opistoon,??</V>
 			<V>vaan Bertha sitä vastoin kävi</V>
 			<V>työssä tehtaassa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vaan vilkas se oli kirjeen vaihto</V>
 			<V>heidän välillään</V>
 			<V>ja iloiset he olivat</V>
 			<V>kun toisensa näkivät.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vaan Vilho kun palas reissultaan</V>
 			<V>suurena herrana, niin</V>
 			<V>ei hän enään muistanutkaan</V>
 			<V>niittä?? kalliita valoja.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Halpa se oli tehtaan tyttö,</V>
 			<V>hänen rinnallaan, kun arvo</V>
 			<V>nimi lääkäri jo oli itsellään.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Aamulla kauhun kamalan</V>
 			<V>jo heti huohmattiin,</V>
 			<V>niin että yhten neiton ruumis</V>
 			<V>oli koskesta löydetty.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vilhon ne sitten jättivät</V>
 			<V>ruumista avaamaan,</V>
 			<V>et oisko se suuri itse murha</V>
 			<V>voinut tavata.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kun Vilho näki Berthan kasvot</V>
 			<V>niin heti vaaleni,</V>
 			<V>ja vaaleanna horjahtui</V>
 			<V>hän maahan kuolleeksi.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Nyt lopetan minä lauluni</V>
 			<V>ja villä varoitan,</V>
 			<V>niin ettei Suomen nuorisot</V>
@@ -14898,49 +14903,49 @@
 			<CPT>Bertta ja Vilho</CPT>
 			<V>Nyt otan kynän käteeni ja aijon kirjoitta.</V>
 			<V>Tuon kansan lorun muinoisen nyt teille ilmoitan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kun eräs talo varakas oli keski Suomessa</V>
 			<V>Vilho siellä pojan nimi vilkas luonteeltaan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vilho nautti opetusta kansakoulussa.</V>
 			<V>Siellä hän tuli tuntemaan tuon Bertan ihanan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Yhdessä he aina kulkivat kun kouluun lähtivät.</V>
 			<V>Ja tietämättä Sydämensä yhteen he sulkivat.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Aurinko paistoi ihanasti metsän siimekseen</V>
 			<V>Mis uskolliset lupasivat olla he toisilleen.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Nyt Vilho yliopistossa jatkoi oppiaan</V>
 			<V>Vaan Betta sitä vastoin kävi työssä tehtaassa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Nyt oli vilkas kirjeen vaihto heidän välillään</V>
 			<V>Kun Vilho vielä kerran aikoi Bertan omistaa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vihdoin Vilho palasi isona herrana</V>
 			<V>Eikä hän enää tuntenut rakasta Berttaansa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Nyt oli halpa tehtaan tyttö hänen mielestään</V>
 			<V>Kun oli arvo lääkärin hänellä itsellään.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Oi miksi jätti Vilho nyt mun yksin suremaan</V>
 			<V>Eiköhän enään muistakakaan niitä kalliita valoja.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Eräänä aamun levisi toi tieto kamala.</V>
 			<V>Ett erään nuoren naisen ruumis löydettiin koskesta.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vilho oli käskyn saanut ruumiin avata</V>
 			<V>Et oisko syytä itse murhaan itse?? voitu havata.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Nyt Vilho tunsi Bertan kasvot</V>
 			<V>Ja vaaleni kun muisti että sydämmensä oli Bertalle luvannut.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ei sanaakaan nyt suustansa hän voinut sanoa.</V>
 			<V>Hän tunnotonna horjahti hän maahan kuolemaan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Nyt kova onni kohtasi Vilhoa viekasta</V>
 			<V>Kun petti oman armaansa ja unhoti liittonsa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Nyt lauluni minä lopetan ja sitä toivotan</V>
 			<V>Etteivät Suomen nuoriso pettäisi toisiaan.</V>
 		</TEXT>
@@ -14961,28 +14966,28 @@
 			<CPT>Juomarinpojan laulu</CPT>
 			<V>Mies kerran juomalassa jo lähellä kirkkomaan</V>
 			<V>Kun ilta varjo maahan käy han läksi kulkemaan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vaan pimeäs ei löytänyt hän tietä rantahan</V>
 			<V>Vaan viina kirkko maallen vei hän kaatui hautahan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Aamulla kun heräsi pääns oli selvinnyt</V>
 			<V>Hän kummaksuen katseli mis oli lävännyt.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Joskos mä kauvan kuolleena sitä en mä tietää voi</V>
 			<V>Kun arkkuni on jo lahonnut vai lieneekö pantunakaa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Eikös muut nyt nousekaan kun minä yksin vaan.</V>
 			<V>Kun heidän luun rauhassa lepäävät haudassa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kun lintu pieni visersi niin metsä kajahti.</V>
 			<V>Kuin tuuli tuima pulsi niin aallot loiskahti.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Viinaa ryyppäilin ja ehkä liijankin</V>
 			<V>Kun henttuni minun hyljäsi ystäväni rakkahan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Viinaa minä ryyppäilen ja se on mun iloni</V>
 			<V>Kun viina on minun hautani ja pullo mun arkkuni.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Nyt lauluni minä lopetan ja heitän pannaan pois.</V>
 			<V>Kun ei ole minulla henttua joka viin ryypyn tois.</V>
 		</TEXT>
@@ -15004,92 +15009,92 @@
 			<V>Oi miksi kasvoin hovin loistossa,</V>
 			<V>Oi miksi rakastuin mä ruhtinaaseen</V>
 			<V>Oi miks en rakastanut köyhää vain.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ei kukaan tiedä kuinka sydäntäni polttaa.</V>
 			<V>Ei kukaan tiedä ketä rakastan.</V>
 			<V>Mä aina muistan tumman ruuni tukkas</V>
 			<V>Mä aina muistan silmäs siniset.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Oi miksikä mä näin sua koskaan,</V>
 			<V>Oi miksikä sun ääntäs kuulinkaan.</V>
 			<V>Kun rintahan se toi vaan mulle tuskaa</V>
 			<V>Ja saattoi mun sua aina kaipaamaan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Oi miksikä tuo hohde silmistäsi,</V>
 			<V>Ja katse viaton niin loistikaan.</V>
 			<V>Ett ryöstäisit pois rauhan rinnastani</V>
 			<V>Ja saattaisit mun sua kaipaamaan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Oi kuinkas olin onnellinen silloin</V>
 			<V>Kun olin morsian Kustaa Adolfin,</V>
 			<V>Kun Mälarjärven rantoja mä sousin</V>
 			<V>Oi Mälarjärvi kätke minutkin.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Äl' lähde pois, en jää mä tänne yksin,</V>
 			<V>Sun vielä kerran tahdon omistaa.</V>
 			<V>Sun vielä sylihini suljen</V>
 			<V>Oi oma armas ainoo ystävän.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Oi Jumala, miks luomises' et luonut,</V>
 			<V>Häntä mun ikuisesti omistaa.</V>
 			<V>Oi Jumala miks luomises' et luonut</V>
 			<V>Kaik lempiväiset ain toisilleen.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Hyvästi nyt ehkä viime kerta,</V>
 			<V>Kun hellää kättäsi mä puristan.</V>
 			<V>Jos rakastaisit minua sen verran</V>
 			<V>Kuin pienin rakkaus jonka antaa voit.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Oi muista joskus kun sä ruusun poimit</V>
 			<V>Sen eloa jonk tie on ruusuton.</V>
 			<V>Sit ystävää, jok ikuisesti kantaa</V>
 			<V>Sun kauniit silmäs sua muistaissaan.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Oi myöskin muista sitä joka kantaa</V>
 			<V>Sun kuvas uskollisest sydämmessään</V>
 			<V>Oi muista joskus sitä joka antaa</V>
 			<V>Maailman mennä sua muistaissaan</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Oi muista joskus koska iltatähti</V>
 			<V>Sull' tervehdyksen viittaa ylhäältä</V>
 			<V>Sit ystävää jonk mieli luokses lähti</V>
 			<V>Ja lempien tääll' aina muistelee.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Oi muista joskus koska päivä laskee</V>
 			<V>Ja päivän töistä kaikki levähtää</V>
 			<V>Sit' ystävää jok eestäs Jumalalle</V>
 			<V>Niin monta huokausta lähettää.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Oi muista joskus päivän sammuessa</V>
 			<V>Kun aalloilta käy vene rantahan</V>
 			<V>Kell' oot sä muistos ijankaikkisesti</V>
 			<V>Ken puolestasi huokaa korkeuteen.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Nyt olen täällä yksin tyttö raukka</V>
 			<V>Mun rinnassani myrskyt raivoaa</V>
 			<V>Kun ystäväni näin mun pettänyt on</V>
 			<V>Oi kätke Mälarjärvi minut nyt.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Sä olet mun sä poika ihanainen,</V>
 			<V>Ei kukaan voi meit toisist eroittaa</V>
 			<V>Ei mikään muu kuin kuolo kalvavainen</V>
 			<V>Mi kaikki luodut toisist eroittaa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Äl' itke noin sill' ei sun kyyneleesi</V>
 			<V>Voi lohdutusta tuoda sielullein</V>
 			<V>Äl itke noin vaan turvaa Jumalaasi</V>
 			<V>Hän kaikkein lohduttaja parhain on.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ja koska vihdoin haudan tuolla puolla</V>
 			<V>Kun enkeleiksi kerran muututaan</V>
 			<V>Silloin vielä haudan?? tähtein tuolla puolla</V>
 			<V>Sua ikuisesti saan mä rakastaa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vaan mulla puhdas sydän on ja rinta</V>
 			<V>Ei löydy siinä vilppi viekkaus</V>
 			<V>Vaan sulla on se loistavainen pinta</V>
 			<V>Jonk alla piilee vilppi viekkaus.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vaan tuttavuutemme se on niin lyhyt,</V>
 			<V>Ja sekin perin loppunut jo lie.</V>
 			<V>Se kesti hetken loppuakseen jälleen</V>
@@ -18806,7 +18811,7 @@
 			<V>kui vieraz verittellöö,</V>
 			<V>vieraz lasta laitteloo</V>
 			<V>syömeriksi, juomeriksi,</V>
-			<V>maGjahaksi,#1 varkahaksi,</V>
+			<V>maGjahaksi,<REFNR target="#n1">#1</REFNR> varkahaksi,</V>
 			<V>laisaksi, uneliseksi,</V>
 			<V>Oi, sitä ommaa emyttä,</V>
 			<V>oman maaman mairehutta,</V>
@@ -18845,8 +18850,10 @@
 			<V>et naukuttais sitä nappaa.</V>
 			<L>Tämän saneltuaan Matrona itkee ja sanoo: "Vot, eiks tämä olekin miun elämästäin!" Asuintoveri, vanha leski myös, nyökyttää päätään myöntävästi ja itkee myös.</L>
 		</TEXT>
-		<REFS>#1 jeh?? suvajaa parempaa syyvä.
-</REFS>
+		<REFS>
+			<REFTXT xml:id="n1">#1 jeh?? suvajaa parempaa syyvä.
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM k="skvr_1364" p="skvr_6438" y="1937" nro="j35350">
 		<META>
@@ -22883,35 +22890,35 @@
 			<V>laita muijal uuten pään.</V>
 			<V>Nii näin etespäin,</V>
 			<V>miu muijal sai uusi pää.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Muijen muijal silmät ollaa,</V>
 			<V>miu muijal ei ole,</V>
 			<V>otan vanhat lampan silmät,</V>
 			<V>laitan muijal uutet silmät,</V>
 			<V>nii näin etespäin,</V>
 			<V>miu muijal sai uutet silmät.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Muijen muijal nenät ollaa,</V>
 			<V>miu muijal ei ole,</V>
 			<V>otan vanhan lankakerän,</V>
 			<V>laitan muijal uuten nenän,</V>
 			<V>nii näi etespäin,</V>
 			<V>miu muijal sai uusi nenä.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Muijen muijal käet ollaa,</V>
 			<V>miu muijal ei ole,</V>
 			<V>otan vanhat kattopäreet,</V>
 			<V>laitan muijal uuvet käet,</V>
 			<V>nii näi etespäin,</V>
 			<V>miu muijal sai uutet käet.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Muijen muijal jalat ollaa,</V>
 			<V>miu muijal ei ole,</V>
-			<V>otan vanhat kazlin#1 jalat,</V>
+			<V>otan vanhat kazlin<REFNR target="#n1">#1</REFNR> jalat,</V>
 			<V>laitan muijal uutet jalat,</V>
 			<V>niin näin etespäin,</V>
 			<V>miu muijal saa uutet jalat.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Muijen muijal nokat ollaa,</V>
 			<V>miu muijal ei ole,</V>
 			<V>otan vanhan länipallen,</V>
@@ -22920,8 +22927,10 @@
 			<V>minun muijal sai uusi nokka.</V>
 			<L>Tiukkulaulu, tehtii sellain, niiku laulus lauletaa, se pantii keskel ja sit mentii ympärikkoo kaik tytöt.</L>
 		</TEXT>
-		<REFS>#1 puunsahausrenkku.
-</REFS>
+		<REFS>
+			<REFTXT xml:id="n1">#1 puunsahausrenkku.
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM k="skvr_1364" p="skvr_6438" y="1937" nro="j35468">
 		<META>
@@ -25520,7 +25529,7 @@
 		<TEXT>
 			<L>Kylän kujal oli ennen nii mokomain laulu ja tantsu. Jyrkin päivänä rohkemmin laulettii Viron veräjää</L>
 			<V>--</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Avatkaa Viron veräjä,</V>
 			<V>Viron vierahat tulloot,</V>
 			<V>Viron vettä katsomaa,</V>
@@ -28456,7 +28465,7 @@
 		<TEXT>
 			<L>Yönitkuiselle?? lapselle</L>
 			<V>--</V>
-			<V>000</V>
+			<TYHI/>
 			<V>MItä?? sie pruukkaat?</V>
 			<V>A yöitkuu.</V>
 			<V>Pruukkaa nintaa, et sihi jäisiski.</V>
@@ -28869,11 +28878,13 @@
 		<TEXT>
 			<V>Kirppu oli läsivä kuolemassa,</V>
 			<V>kuoleman rattaat tulemassa,</V>
-			<V>lutikkA oli lakkuu täynn#1,</V>
+			<V>lutikkA oli lakkuu täynn<REFNR target="#n1">#1</REFNR>,</V>
 			<V>a prusakkA oli pulmapoika.</V>
 		</TEXT>
-		<REFS>#1 oli lakkunt viinaa.
-</REFS>
+		<REFS>
+			<REFTXT xml:id="n1">#1 oli lakkunt viinaa.
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM k="skvr_1364" p="skvr_6438" y="1942" nro="j35674">
 		<META>
@@ -29793,31 +29804,31 @@
 			<V>Hyvää iltaa, likkoin majjaa</V>
 			<V>pittääks sivu ajjaa</V>
 			<V>voa saapiks koht kollauttaa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Nouskaa ylös nukkuneet</V>
 			<V>jo on käet kukkuneet</V>
 			<V>pienet linnut laulaneet</V>
-			<V>000</V>
+			<TYHI/>
 			<V>No ylös maanneet</V>
 			<V>jo ootte unta saanneet</V>
 			<V>no kuuluuks tämä sinne</V>
 			<V>vai männööks muuanne minne</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kuuletteks työ tätä</V>
 			<V>ku tääl on hätä!</V>
-			<V>000</V>
+			<TYHI/>
 			<V>No mikä siin pittää</V>
 			<V>ku ei virketa mittää</V>
 			<V>no mikä siin kiikuttaa</V>
 			<V>ku ette voi kieltä liikuttaa</V>
-			<V>000</V>
+			<TYHI/>
 			<V>No alkakaaha jo kömpii</V>
 			<V>päästämää näitä pönkii:</V>
 			<V>no työnnähä sie tätä sepän</V>
 			<V>tekemää rautaa</V>
 			<V>mie työnnän tätä ukon</V>
 			<V>tekemää lautaa ---</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Laskekaaha sissää</V>
 			<V>vai pelkäättäks työ issää</V>
 			<V>No avatkaaha ovi,</V>
@@ -29853,7 +29864,7 @@
 			<V>pyrkijälle sannaa jättää.</V>
 			<V>Vaik siint ei ois mittää appuu</V>
 			<V>en?? tulla puhetta ku pappuu.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>No nouskaa nyt tytöt yllää</V>
 			<V>ku pyrkijät o tulleet tähä kyllää</V>
 			<V>Tytöt jos eivät nouse yllää</V>
@@ -29863,7 +29874,7 @@
 			<V>ja pyytää talonväeltä appuu</V>
 			<V>Ruvetkaa nyt jo kuulemaa</V>
 			<V>ja meitä pyrkijöiks luulemaa</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Laskekaa nyt yksii seinii</V>
 			<V>vaikkei yksii heinii.</V>
 		</TEXT>
@@ -30148,10 +30159,12 @@
 			<V>toise kanto Karjaloa</V>
 			<V>kolmanne kott'ii heitti.</V>
 			<V>Minkä vei Vennäimoaha</V>
-			<V>siit vast #1?? Kal'er&#769;va kasvo.</V>
+			<V>siit vast <REFNR target="#n1">#1</REFNR>?? Kal'er&#769;va kasvo.</V>
 		</TEXT>
-		<REFS>#1 vallaton, järetön.
-</REFS>
+		<REFS>
+			<REFTXT xml:id="n1">#1 vallaton, järetön.
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM k="skvr_1321" p="skvr_3940" y="1934" nro="j35718">
 		<META>
@@ -31213,27 +31226,27 @@
 		</META>
 		<TEXT>
 			<CPT>"Kirveemäkköiste suvetappo":</CPT>
-			<K>(Jonkun paikallisen runosepän (Heikki Kiurun?) sepittämä laulu eräästä hauskasta erehdyksestä Suvannon rantamilla. Laulu on yli 50 v. vanha).</K>
+			<L>(Jonkun paikallisen runosepän (Heikki Kiurun?) sepittämä laulu eräästä hauskasta erehdyksestä Suvannon rantamilla. Laulu on yli 50 v. vanha).</L>
 			<V>Kirveemäkköiset suntakaamun</V>
 			<V>läksiit varrai sienee</V>
 			<V>kolme sutta Vihtovasta</V>
 			<V>uivat Patoniemee</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Hynnän Heikki ol hyvilleä</V>
 			<V>heä telläs vennee hottuu</V>
 			<V>Ukkosen Simo vennee peräs</V>
 			<V>tekköö susist sottuu</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kansasen Poavo varustelloo</V>
 			<V>marjamöllyy syömeä</V>
 			<V>Ukkone tuli sanomoa</V>
 			<V>jot lähteä sussii lyömeä</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ukkone rienoa renkijeä</V>
 			<V>jot sie voa laiska makkoat</V>
 			<V>oisit soanut sapattinna</V>
 			<V>ies yhen suven tappoa</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kyllähä ne Riiskan pojat</V>
 			<V>leppävihkoi laittoat</V>
 			<V>jonka tähe kirveemäkköist</V>
@@ -31261,12 +31274,12 @@
 			<V>viime vuonna poimin</V>
 			<V>nyt on mulla kokonansa</V>
 			<V>toisenlainen toimi.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kuinkas taisit kylmetä</V>
 			<V>ku lämmin olit enne</V>
 			<V>ku rallattelit ja laulelit</V>
 			<V>ja aina tulit tänne</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Mikäs on se rikkaus</V>
 			<V>rakkautta vastaa</V>
 			<V>maast on kultain kotosin</V>
@@ -33188,7 +33201,7 @@
 			<V>aija ääre valittamma</V>
 			<V>niinippuu nisa peale</V>
 			<V>ja kaseppuu kaela peale.</V>
-			<K>(Opittu Virossa)</K>
+			<L>(Opittu Virossa)</L>
 		</TEXT>
 	</ITEM>
 	<ITEM k="skvr_1321" p="skvr_3960" y="1936" nro="j35826">
@@ -33437,12 +33450,12 @@
 			<V>mitä liene haigie hairahtant</V>
 			<V>prosti (Anttie)</V>
 			<V>Hän tuo hyvät lahjukset siulle.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vesi kultane kuningas</V>
 			<V>mitä lie haigie hairahtant</V>
 			<V>prosti ---</V>
 			<V>jos et usso, nii tuos on (hattu).</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vesi ---</V>
 			<V>---</V>
 			<V>mitä sie oikieta ristikansoa vaivoat</V>
@@ -35361,7 +35374,7 @@
 			<V>pajupehot pistäväine,</V>
 			<V>kannon takkaa katsovaine,</V>
 			<V>---</V>
-			<K>(Opittu Pajusen vanhalta emännältä, kot. Kotkosta.)</K>
+			<L>(Opittu Pajusen vanhalta emännältä, kot. Kotkosta.)</L>
 		</TEXT>
 	</ITEM>
 	<ITEM k="skvr_1321" p="skvr_6438" y="1938" nro="j35901">
@@ -35395,7 +35408,7 @@
 			<V>yli yheksä mere,</V>
 			<V>kivun viep männes,</V>
 			<V>avun tuop tulles.</V>
-			<K>(Pajusen vanhan emännän lukema, kot. Kotkosta.)</K>
+			<L>(Pajusen vanhan emännän lukema, kot. Kotkosta.)</L>
 		</TEXT>
 	</ITEM>
 	<ITEM k="skvr_1321" p="skvr_6438" y="1938" nro="j35902">
@@ -35424,7 +35437,7 @@
 			<V>hopiaista ortta myö,</V>
 			<V>vaskista vartta myö.</V>
 			<V>Perenaine naisukkaine,</V>
-			<V>noise ylös uutimosta,#1</V>
+			<V>noise ylös uutimosta,<REFNR target="#n1">#1</REFNR></V>
 			<V>valu vaipasta hyvästä,</V>
 			<V>Marttisii katsomaa,</V>
 			<V>santtiil armoo antamaa,</V>
@@ -35435,8 +35448,10 @@
 			<V>kanat kaivoo munikoo.</V>
 			<L>Siis mäntii yhtee talloo, keitettii ja syötii, tantsittii ja laulettii. Pojat toivat viinaa.</L>
 		</TEXT>
-		<REFS>#1 kangas tilan edessä.
-</REFS>
+		<REFS>
+			<REFTXT xml:id="n1">#1 kangas tilan edessä.
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM k="skvr_1321" p="skvr_6438" y="1938" nro="j35903">
 		<META>
@@ -36247,7 +36262,7 @@
 			<V>kivyvestä kaaliaisen,</V>
 			<V>antoi paimenen povvee,</V>
 			<V>paimen poika pikkaraine,</V>
-			<V>löi sieran seslahee#1,</V>
+			<V>löi sieran seslahee<REFNR target="#n1">#1</REFNR>,</V>
 			<V>kivipuolen povvehee,</V>
 			<V>ajo karjan kankahalle,</V>
 			<V>päivä puolehe kulluu,</V>
@@ -36264,8 +36279,10 @@
 			<V>suet lehmiä syömää,</V>
 			<V>karhut lehmii kaatamaa.</V>
 		</TEXT>
-		<REFS>#1 povi.
-</REFS>
+		<REFS>
+			<REFTXT xml:id="n1">#1 povi.
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM k="skvr_1321" p="skvr_6438" y="1938" nro="j35929">
 		<META>
@@ -36323,11 +36340,13 @@
 			<V>Simo sinisukka Siiterin poika,</V>
 			<V>varast vallilt voita,</V>
 			<V>meni saksan saunaa,</V>
-			<V>kellot (kellet)#1 naulaa,</V>
+			<V>kellot (kellet)<REFNR target="#n1">#1</REFNR> naulaa,</V>
 			<V>itse alko laulaa.</V>
 		</TEXT>
-		<REFS>#1Siin oli pask sana, myö muutimma.
-</REFS>
+		<REFS>
+			<REFTXT xml:id="n1">#1Siin oli pask sana, myö muutimma.
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM k="skvr_1321" p="skvr_6438" y="1938" nro="j35931">
 		<META>
@@ -36939,7 +36958,7 @@
 			<V>mäni Konnulta kossii,</V>
 			<V>Konnun akan tyttärii,</V>
 			<V>akka aitasta tullee,</V>
-			<V>papuvaakana#1 käessä,</V>
+			<V>papuvaakana<REFNR target="#n1">#1</REFNR> käessä,</V>
 			<V>jauhovakka kainalossa,</V>
 			<V>kalamiehet kalalta tulloot,</V>
 			<V>se oli itse isäntä,</V>
@@ -36953,8 +36972,10 @@
 			<V>kalamies ei kassapäätä,</V>
 			<V>täyty lähtee hää kottii.</V>
 		</TEXT>
-		<REFS>#1 astia
-</REFS>
+		<REFS>
+			<REFTXT xml:id="n1">#1 astia
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM k="skvr_1321" p="skvr_6438" y="1938" nro="j35949">
 		<META>
@@ -37256,7 +37277,7 @@
 		<TEXT>
 			<L>Käsi ku rupes nurajammaa, mäntii torstai-iltan kippee käekää nostamaa aittaa ehk huonetta, joka oli kolmannes kohas. Toine salvame takkaa kysymää, et mitä nossat. Hää sannoo:</L>
 			<V>"Norrii nossan."</V>
-			<V>000</V>
+			<TYHI/>
 			<V>"Nossa nii, ett terveeks tulloo".</V>
 			<L>Hää sannoo:</L>
 			<V>"Sitä Jumala suokoo."</V>
@@ -37467,15 +37488,17 @@
 		</META>
 		<TEXT>
 			<V>Simmoo narrittii:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Simo Siiderin poika,</V>
 			<V>varasti vallalt voita,</V>
-			<V>mäni saksan#1 saunaa,</V>
+			<V>mäni saksan<REFNR target="#n1">#1</REFNR> saunaa,</V>
 			<V>pani pöksyt naulaa,</V>
 			<V>itse alko laulaa.</V>
 		</TEXT>
-		<REFS>#1 saksat on herrat mokomat.
-</REFS>
+		<REFS>
+			<REFTXT xml:id="n1">#1 saksat on herrat mokomat.
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM k="skvr_1321" p="skvr_6438" y="1938" nro="j35966">
 		<META>
@@ -38298,7 +38321,7 @@
 			<V>soitan läpi miesten hulkan,</V>
 			<V>porottelen poikapolkan,</V>
 			<V>en pää päätäni povvee,</V>
-			<V>liitsaa#1 liinojen sissee,</V>
+			<V>liitsaa<REFNR target="#n1">#1</REFNR> liinojen sissee,</V>
 			<V>mie saan pojan pettämättä,</V>
 			<V>marjaisen manittamatta,</V>
 			<V>tasaisella tantsullani,</V>
@@ -38310,8 +38333,10 @@
 			<V>tarkempille tantsijille,</V>
 			<V>kudrempille kuulijille.</V>
 		</TEXT>
-		<REFS>#1 kasvot
-</REFS>
+		<REFS>
+			<REFTXT xml:id="n1">#1 kasvot
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM k="skvr_1321" p="skvr_6438" y="1938" nro="j35994">
 		<META>
@@ -39170,7 +39195,7 @@
 			<V>Avatkaa Viron veräjä,</V>
 			<V>tehkää lahti lautaportit,</V>
 			<V>Viron vieraat tulloo,</V>
-			<V>Viron vettä#1 ottamaa,</V>
+			<V>Viron vettä<REFNR target="#n1">#1</REFNR> ottamaa,</V>
 			<V>Em myö itse ole tänne tultu,</V>
 			<V>meit on Luoja luvannu,</V>
 			<V>armolline ajan antant,</V>
@@ -39178,8 +39203,10 @@
 			<V>armolline aisan pääl.</V>
 			<L>Nyt on kaik.</L>
 		</TEXT>
-		<REFS>#1 viinaa.
-</REFS>
+		<REFS>
+			<REFTXT xml:id="n1">#1 viinaa.
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM k="skvr_1321" p="skvr_6438" y="1938" nro="j36022">
 		<META>
@@ -40010,7 +40037,7 @@
 			<V>äläkä lyö yhestä syystä,</V>
 			<V>korjaa syyttä kymmenettä,</V>
 			<V>vaa rikkoo parven patoloi,</V>
-			<V>toisen parven vaagnoi,#1</V>
+			<V>toisen parven vaagnoi,<REFNR target="#n1">#1</REFNR></V>
 			<V>kolmanne vaskikattiloi,</V>
 			<V>siis vast lyö meijä sissoo,</V>
 			<V>ota olki unnikost,</V>
@@ -40020,8 +40047,10 @@
 			<V>sillä pieksä pienokkaisii,</V>
 			<V>sillä lyö meijä sissoo.</V>
 		</TEXT>
-		<REFS>#1 puumalja, vati.
-</REFS>
+		<REFS>
+			<REFTXT xml:id="n1">#1 puumalja, vati.
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM k="skvr_1321" p="skvr_6438" y="1938" nro="j36048">
 		<META>
@@ -40618,7 +40647,7 @@
 		<TEXT>
 			<L>Ku lapset eivät maanneet yöl, hierovat itseää, se tulloo siit, ku äiti on raskas, ja metsäs näkköö maon. Siis lämmitettää sauna, otetaa maon nahka, pannaa vettee ja siis pessää laps. Toine jääp ukse taa ja kyssyy:</L>
 			<V>"Mitä sie peset?"</V>
-			<V>000</V>
+			<TYHI/>
 			<V>- Pesen mattoo.</V>
 			<V>- Pese niintaa, et terveeks tulloo.</V>
 			<L>Siis valetaa ves lapse pääl, jäännösves visataa kiukaa pääl.</L>
@@ -40642,7 +40671,7 @@
 		</META>
 		<TEXT>
 			<L>Haavikon kyläs piettii neljä päivää Pedroo. Naiset käytii kampanjas, siis tyttöil ja pojil oli oma kampanja. Naiset laulovat:</L>
-			<V>Pyhä Pedro kormilets&#780;#1,</V>
+			<V>Pyhä Pedro kormilets&#780;<REFNR target="#n1">#1</REFNR>,</V>
 			<V>vie pilvet männes,</V>
 			<V>tuo pouta tulles,</V>
 			<V>mäne pilvi Pettulaa,</V>
@@ -40652,8 +40681,10 @@
 			<V>lähteet läpähtynneet.</V>
 			<L>Pedron perää alettii heinänteko, siis pilvet ajettii Pettulaa.</L>
 		</TEXT>
-		<REFS>#1 syöttäjä.
-</REFS>
+		<REFS>
+			<REFTXT xml:id="n1">#1 syöttäjä.
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM k="skvr_1321" p="skvr_6438" y="1938" nro="j36066">
 		<META>
@@ -41610,12 +41641,14 @@
 			<V>ajatella aijan ääres,</V>
 			<V>kui vieras verittellöö,</V>
 			<V>vieras lasta laitteloo,</V>
-			<V>varkahaksi magjahaks#1</V>
+			<V>varkahaksi magjahaks<REFNR target="#n1">#1</REFNR></V>
 			<V>laisaksi, uniliseks,</V>
 			<V>huoraksi huolettomaks.</V>
 		</TEXT>
-		<REFS>#1 ken tahtoo salami syyvvä.
-</REFS>
+		<REFS>
+			<REFTXT xml:id="n1">#1 ken tahtoo salami syyvvä.
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM k="skvr_1321" p="skvr_6438" y="1938" nro="j36091">
 		<META>
@@ -41690,13 +41723,15 @@
 			<V>toine oli väärä miun isoni,</V>
 			<V>kolmais oli itse Luoja,</V>
 			<V>miks tekivät miun mokoman,</V>
-			<V>ruikon#1, rikon ja rumalan,</V>
+			<V>ruikon<REFNR target="#n1">#1</REFNR>, rikon ja rumalan,</V>
 			<V>tauvin tappaman pahaisen,</V>
 			<V>joka ainova kerskas minnuu,</V>
 			<V>joka ainova sano minnuu.</V>
 		</TEXT>
-		<REFS>#1 ruikko = rokko, mustarokko.
-</REFS>
+		<REFS>
+			<REFTXT xml:id="n1">#1 ruikko = rokko, mustarokko.
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM k="skvr_1321" p="skvr_6438" y="1938" nro="j36094">
 		<META>
@@ -42279,7 +42314,7 @@
 			<V>kassapäät kotikanaset,</V>
 			<V>kuulkaa, kuulkaa, kui mie saon;</V>
 			<V>Elkää mänkää piikuuvee,</V>
-			<V>ohvatalla#1 orjuuvee,</V>
+			<V>ohvatalla<REFNR target="#n1">#1</REFNR> orjuuvee,</V>
 			<V>piikan ollaa pitkät päivät,</V>
 			<V>orjuuves on onnettomat,</V>
 			<V>syökää rukkiit ruumenennee,</V>
@@ -42305,8 +42340,10 @@
 			<V>leipä käymättä käes,</V>
 			<V>kakun ääri kainelos.</V>
 		</TEXT>
-		<REFS>#1 omasta halustaan.
-</REFS>
+		<REFS>
+			<REFTXT xml:id="n1">#1 omasta halustaan.
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM k="skvr_1321" p="skvr_6438" y="1938" nro="j36109">
 		<META>
@@ -42428,12 +42465,14 @@
 			<V>mänin sulhoo katsomaa,</V>
 			<V>kärpäne oli silmän syönyt,</V>
 			<V>toukku kaivant toisen silmän,</V>
-			<V>päällä servä#1 päivettynny,</V>
+			<V>päällä servä<REFNR target="#n1">#1</REFNR> päivettynny,</V>
 			<V>alapuoli hallittunnu.</V>
 			<L>Suur kamppa oli tyttöi, mäntii kaik yhessä ritassa.</L>
 		</TEXT>
-		<REFS>#1 kylki.
-</REFS>
+		<REFS>
+			<REFTXT xml:id="n1">#1 kylki.
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM k="skvr_1321" p="skvr_6438" y="1938" nro="j36112">
 		<META>
@@ -43439,7 +43478,7 @@
 		</META>
 		<TEXT>
 			<V>Oli ts&#780;oarilla yksi tytär, --</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Luglozen, laglozen,</V>
 			<V>lenteä lugetteletta,</V>
 			<V>viegeä äijä tervehyiziä</V>
@@ -43450,7 +43489,7 @@
 			<V>yheksissä vel' l'issän??,</V>
 			<V>kaheksissa minjoissan,</V>
 			<V>ainukaine neitokaine.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Jouts&#780;enet lenti --</V>
 		</TEXT>
 	</ITEM>
@@ -43563,7 +43602,7 @@
 			<V>toini palmikoitavan.</V>
 			<V>Ei sovi sorokka piähä,</V>
 			<V>eikä sampsuri vakau.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Jo sopie sorokka piähä,</V>
 			<V>jo sampsuri vakau,</V>
 			<V>jo on kenkä kenkitetty,</V>
@@ -43594,7 +43633,7 @@
 			<V>Kokko lenti koilta ilmoin,</V>
 			<V>koilta ilmoin, alta taivoin,</V>
 			<V>siivet taivoa siveli,</V>
-			<V>koprat merta kuopovel#1,</V>
+			<V>koprat merta kuopovel<REFNR target="#n1">#1</REFNR>,</V>
 			<V>liitelekse, loatelekse,</V>
 			<V>liiti linnan ikkunalla,</V>
 			<V>seinällä seinä sulka,</V>
@@ -43615,8 +43654,10 @@
 			<V>syntyväksi, kazvajaksi</V>
 			<V>ilmoilla ikäytyjäksi.</V>
 		</TEXT>
-		<REFS>#1 airot kohoaa! huopaa.
-</REFS>
+		<REFS>
+			<REFTXT xml:id="n1">#1 airot kohoaa! huopaa.
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM k="skvr_1321" p="skvr_6105" y="1938" nro="j36148">
 		<META>
@@ -43664,7 +43705,7 @@
 			<V>Sulhan&#769;i sulasain&#769;i,</V>
 			<V>kiitän vieläi morsiame,</V>
 			<V>morsian nuorin kaunokaine,</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kansasta hyvä on, morsian on kaunis,</V>
 			<V>kaunis, kaunis.</V>
 		</TEXT>
@@ -43973,7 +44014,7 @@
 			<V>Synty poika polvillah,</V>
 			<V>Äiti kyllä uskoi nyt, että tuli moahan</V>
 			<V>Iesus Kristus.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Vietii poika polvilta,</V>
 			<V>lapsi lainne puoliltaa,</V>
 			<V>kyselee kylän akoilta,</V>
@@ -44019,7 +44060,7 @@
 			<V>poikase kans vajeltamah,</V>
 			<V>heän kazvo, heän komistu,</V>
 			<V>eikä äitiäh koskaa jättäny.</V>
-			<V>Isoämmä#1 mujassa kulki,</V>
+			<V>Isoämmä<REFNR target="#n1">#1</REFNR> mujassa kulki,</V>
 			<V>läks vajeltamah ja kansoja opettamah:</V>
 			<V>Elk ottako naista sukulaisist,</V>
 			<V>on meilläi vento vierahia,</V>
@@ -44032,8 +44073,10 @@
 			<V>ne pariskunnat, niistä tulis nii uskovaisii,</V>
 			<V>ku heän opettaa.</V>
 		</TEXT>
-		<REFS>#1 Marian äiti
-</REFS>
+		<REFS>
+			<REFTXT xml:id="n1">#1 Marian äiti
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM k="skvr_1321" p="skvr_6105" y="1958" nro="j36157">
 		<META>
@@ -44101,7 +44144,7 @@
 			<V>veti pitin, veti poikki,</V>
 			<V>avautuu rauta-aita.</V>
 			<V>Heän-toas peäsi sen päiväksen.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Mänee matkoja vähäsen,</V>
 			<V>tulou Päivölän veräjän suuta,</V>
 			<V>susit on suitsirenkahissa,</V>
@@ -44125,7 +44168,7 @@
 			<V>ku kumma urohias,</V>
 			<V>ku ei silmä haukkunt haukkunt?? hallikoira,</V>
 			<V>linnan lukki luikutellut.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Mie olen lieto Lemminkäine.</V>
 			<V>No kumpa on lauluilta parempi,</V>
 			<V>kumpane iellä laulanuo,</V>
@@ -44135,7 +44178,7 @@
 			<V>tuop on lieto Lemminkäine,</V>
 			<V>laulo ruskeita repoja,</V>
 			<V>orrellista ottamaa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Natopa on naisista paras,</V>
 			<V>navon tyttö neitosista,</V>
 			<V>tuop on toupilla olutta,</V>
@@ -45118,12 +45161,14 @@
 		</META>
 		<TEXT>
 			<V>Aa lulla piäne kulla,</V>
-			<V>kosk ei jookan#1 kirkost kotti tulla,</V>
+			<V>kosk ei jookan<REFNR target="#n1">#1</REFNR> kirkost kotti tulla,</V>
 			<V>riaskavellua keittämä,</V>
 			<V>sokeria sualaks heittämä.</V>
 		</TEXT>
-		<REFS>#1 jo nyt
-</REFS>
+		<REFS>
+			<REFTXT xml:id="n1">#1 jo nyt
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM k="skvr_1321" p="skvr_140" y="1938" nro="j36191">
 		<META>
@@ -46235,7 +46280,7 @@
 		</META>
 		<TEXT>
 			<V>--</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Iilija pyhä isäntä,</V>
 			<V>pyhä Pedro armolline,</V>
 			<V>tuo sie pilvi Pilvolasta,</V>
@@ -46247,7 +46292,7 @@
 			<V>mallasvettä maistamaa,</V>
 			<V>siiz myö juomma juovuksissa,</V>
 			<V>i lankiimma maaha kuolluksissa.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>--</V>
 		</TEXT>
 	</ITEM>
@@ -46727,7 +46772,7 @@
 			<V>Tiittu kalua ei sua</V>
 			<V>Tiitan lapset kuoldih</V>
 			<V>luandan loukkuh langettih.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Lähti Tiittu kalua suamah</V>
 			<V>meni mäen meni toisen</V>
 			<V>meni kohta kolmatta</V>
@@ -47583,7 +47628,7 @@
 			<SGN>6247.</SGN>
 			<TMP>1942.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -47623,7 +47668,7 @@
 			<SGN>6248.</SGN>
 			<TMP>1942.</TMP>
 			<INF>
-				<NAME></NAME>
+				<NAME/>
 				<CTX>Tiedon näkymistä rajoitettu.</CTX>
 			</INF>
 		</META>
@@ -47636,21 +47681,21 @@
 			<V>mustupiä piätnitsan p.</V>
 			<V>minun velli suovattan s.</V>
 			<V>minun miloi pyhäpäin p.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ruskee neits&#780;ut valget neits&#780;ut</V>
 			<V>sano sina sano sina</V>
 			<V>mitä heile syötettään s.</V>
 			<V>mustupiäle leibiä l.</V>
 			<V>minu vellele kalittoa k.</V>
 			<V>minun miloille piirua p.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ruskee neits&#780;ut, valget neits&#780;ut</V>
 			<V>sano sina sano sina</V>
 			<V>mitä heile juotettan j.</V>
 			<V>mustupiäle ts&#780;uajua ts.</V>
 			<V>minun vellele koffea k.</V>
 			<V>minun miloil pivoa p.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ruskee neits&#780;ut, valget neits&#780;ut</V>
 			<V>sano sina sano sina</V>
 			<V>kunne heitä muada pannah</V>
@@ -47658,21 +47703,21 @@
 			<V>mustapiä perttih, p.</V>
 			<V>minun velli gornitsah g.</V>
 			<V>minun miloi ts&#780;ortakkah ts.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ruskee neits&#780;ut valget neits&#780;ut</V>
 			<V>sano sina sano sina</V>
 			<V>mitä heile bokan alle b.a.</V>
 			<V>mustupiäle bosteli b.</V>
 			<V>minun vellele beerina b.</V>
 			<V>minun miloile buhovoi b.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ruskee neits&#780;ut, valget neits&#780;ut</V>
 			<V>sano sina sano sina</V>
 			<V>mitä heille katetta k.</V>
 			<V>mustupiäle vuatetta, v.</V>
 			<V>minun vellele otjaloa o.</V>
 			<V>minun miloil barhatta b.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ruskee neits&#780;ut, valget neits&#780;ut</V>
 			<V>sano sina sano sina</V>
 			<V>ketä heile rinnale, r.</V>
@@ -47703,7 +47748,7 @@
 			<V>Sinä yksi minä kaksi</V>
 			<V>sinä yksi minä kolme</V>
 			<V>sinä yksi minä nelli</V>
-			<V>000</V>
+			<TYHI/>
 			<V>---</V>
 			<L>(jne. viiz&#780;i, kuuz&#780;i, seitsee, kaheksa, yhöksä)</L>
 			<V>sinä yksi</V>
@@ -47953,7 +47998,7 @@
 			<V>täl ts&#780;oassul, täl minutal</V>
 			<V>täl sekundal.</V>
 			<L>Puhutah ruanan (haavan) piäl tyynes kohtas kolmeh kertah.</L>
-			<K>Huom. Opittu Kuittisista päin.</K>
+			<L>Huom. Opittu Kuittisista päin.</L>
 		</TEXT>
 	</ITEM>
 	<ITEM k="skvr_1321" p="skvr_6235" y="1942" nro="j36281">
@@ -47996,7 +48041,7 @@
 			<V>alle nahkan ailahittomaks</V>
 			<V>piäle nahkan tuntumattomaks.</V>
 			<L>Siemenvoih puheldih kolme kerdoa, sulgaz&#780;el piti voidua tyynes kohtas.</L>
-			<K>Tämä loitsu on opittu Kuittisista.</K>
+			<L>Tämä loitsu on opittu Kuittisista.</L>
 		</TEXT>
 	</ITEM>
 	<ITEM k="skvr_1321" p="skvr_6195" y="1942" nro="j36282">
@@ -48721,7 +48766,7 @@
 			<V>en tiijä kui tämän munaz&#780;en murens hiiri.</V>
 			<V>Rubesi munastu itkemaha starikku da struhhu.</V>
 			<V>Kanane kakattau, sanuu:</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Algat itkekuu, mina tuon uuden munazen,</V>
 			<V>dolko&#769; en kuldast, a prostian munaz&#780;en.</V>
 		</TEXT>
@@ -48860,42 +48905,42 @@
 			<V>Mustupiä piätnitsan, p.</V>
 			<V>minun velli suobattanan, s.</V>
 			<V>minun miiloi pyhäpiän, p.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ruskei neits&#780;oi, valgei neits&#780;oi</V>
 			<V>sano sinä, s.s.</V>
 			<V>midä heile syötetäh, s.</V>
 			<V>Mustal piäle leibiä, da l.,</V>
 			<V>minu vellel bulkkua da b.</V>
 			<V>minu miiloil kalittua, k.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ruskei neits&#780;oi, valgei neits&#780;oi</V>
 			<V>sano sinä, s.s.</V>
 			<V>midä heile juotetah, j.</V>
 			<V>mustal piäle koofeitu da k.</V>
 			<V>minu vellel ts&#780;uajuo, da ts&#780;.</V>
 			<V>minu miiloile pivuo, da p.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ruskei neits&#780;oi, valgei neits&#780;oi</V>
 			<V>sano sinä s.s.</V>
 			<V>kunne heidä muada pannah, m.p.</V>
 			<V>Mustupiätä perttih, da p.</V>
 			<V>minu velli gornitsah, g.</V>
 			<V>minun miiloi tsardakkah, ts.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ruskei neits&#780;oi valgei neits&#780;oi</V>
 			<V>sano sinä s.s.</V>
 			<V>midä heile uale pannah, u.p.</V>
 			<V>mustal piäl postelii, p.</V>
 			<V>minu vellel perineä, p.,</V>
 			<V>minu miiloil puhovoi, p.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ruskei neits&#780;eoi valgei neits&#780;oi</V>
 			<V>sano sinä, s.s.,</V>
 			<V>midä heile kattieksi, k.</V>
 			<V>mustale piäle rogoz&#780;ua, r.</V>
 			<V>minu vellel otjalua, o.</V>
 			<V>minu miiloil barhattua, b.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Ruskei neits&#780;oi, valgei neits&#780;oi</V>
 			<V>sano sinä, s.s.</V>
 			<V>midä heile rinnale, r.</V>
@@ -49249,7 +49294,7 @@
 			<L>Kun tullaan uimasta, huudetaan - konz tuldah vedespiä irdale -</L>
 			<V>Komu peskud peru</V>
 			<V>komu ts&#780;uurud ts&#780;uru</V>
-			<V>000</V>
+			<TYHI/>
 			<V>(Kelle hiekkaa</V>
 			<V>kelle maata)</V>
 		</TEXT>
@@ -50012,7 +50057,7 @@
 			<V>se liidelmoi (?)</V>
 			<V>ja ts&#780;elovek star</V>
 			<V>ty rudane kaan (?)</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Pyhä Spuass peiglon piähä noustab</V>
 			<V>rusked rebunn kielen aluiz&#780;en nuolob</V>
 			<V>kibut bolesnid raudan</V>
@@ -50662,7 +50707,7 @@
 		<TEXT>
 			<CPT>MAJAGAN PAHKA (Paise)</CPT>
 			<V>--</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Kui tämä lahkuine on vestettyt, vuolattut,</V>
 			<V>oksaazet kuivafctut</V>
 			<V>ei voigu kazvta</V>
@@ -50673,7 +50718,7 @@
 			<V>kuivtaaz&#780;in</V>
 			<V>ilmaazeks igaks täl rabal ---</V>
 			<V>amin.</V>
-			<V>000</V>
+			<TYHI/>
 			<V>--</V>
 		</TEXT>
 	</ITEM>
@@ -51025,7 +51070,7 @@
 			<V>raippaaduse vietsimas.</V>
 			<L>Mösto kyzyb jalosti (kovaa):</L>
 			<V>Mida leiktad?</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Leiktan täs rabas Alisas raippaaduse vietsimas.</V>
 			<L>Mösto muga kolmanden kierdan.</L>
 			<L>Siid goldun (noita) sanob:</L>
@@ -51217,9 +51262,9 @@
 		<TEXT>
 			<CPT>Lapsen koiran vahnuksen parantaminen:</CPT>
 			<V>--</V>
-			<V>000</V>
+			<TYHI/>
 			<V>Mida sina survod?</V>
-			<V>000</V>
+			<TYHI/>
 			<V>- Survon koiran vahnuze oigtas henges bladentsas täs</V>
 			<V>rabas --- (nimi).</V>
 			<L>Koume kerdat pidau kyzyda surudes.</L>
@@ -51764,7 +51809,7 @@
 		<TEXT>
 			<CPT>KANZAN LASKENDA (Karjan lasku)</CPT>
 			<L>Suur nel&#769;länpäivän ende päiväs&#780;ty pidau tahnas lehmat ymbärta. Ymbärtes pidau olla kädes tupits (tylsä kirves), leibkaurik i obraz, Pyhä Jyrgi. Ymbärtes lugedaze:</L>
-			<V>Siedan kivizen#1 seinan</V>
+			<V>Siedan kivizen<REFNR target="#n1">#1</REFNR> seinan</V>
 			<V>muas i taivhasessaa</V>
 			<V>pystan terakseised seibahat</V>
 			<V>muas i tavhasessaa</V>
@@ -51775,8 +51820,10 @@
 			<V>täl ts&#780;oassul täl minutal</V>
 			<V>täks ilmaatseks igaks.</V>
 		</TEXT>
-		<REFS>#1 Huom. luetaan kolme kertaa ensimmäisellä kerralla aloitetaan siedan kivizen seinan toisella kerralla siedan raudaazen seinan kolmannella kerralla siedan lämyhiizen seinan.
-</REFS>
+		<REFS>
+			<REFTXT xml:id="n1">#1 Huom. luetaan kolme kertaa ensimmäisellä kerralla aloitetaan siedan kivizen seinan toisella kerralla siedan raudaazen seinan kolmannella kerralla siedan lämyhiizen seinan.
+</REFTXT>
+		</REFS>
 	</ITEM>
 	<ITEM k="skvr_1321" p="skvr_6195" y="1942" nro="j36400">
 		<META>
